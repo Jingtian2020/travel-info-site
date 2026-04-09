@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>去玩实验室 | 每周更新旅行玩乐资讯</title>
+    <meta
+      name="description"
+      content="每周更新：近期上新旅行与游玩项目、经典景点随机推荐、年轻人玩法策展。"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&family=Noto+Serif+SC:wght@600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="assets/styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="topbar">
+        <div class="brand">
+          <span class="brand-mark">去玩</span>
+          <div>
+            <strong>去玩实验室</strong>
+            <small>Weekly Travel Dispatch</small>
+          </div>
+        </div>
+        <nav>
+          <a href="#recent">近期上新</a>
+          <a href="#classic">随机发现</a>
+          <a href="#play">玩法策展</a>
+          <a href="#update">每周更新</a>
+        </nav>
+      </header>
+
+      <main>
+        <section class="hero">
+          <div>
+            <p class="eyebrow">每周更新一次，帮你更快做出游决策</p>
+            <h1>不止告诉你去哪，更告诉你最近为什么值得去。</h1>
+            <p class="hero-copy">
+              网站聚合近几个月上新或焕新的项目，同时从高口碑经典目的地里随机推荐，并结合年轻人更喜欢的玩法做策展，给你可直接参考的出游灵感。
+            </p>
+            <div class="hero-actions">
+              <a class="button primary" href="#recent">看本周上新</a>
+              <a class="button secondary" href="#play">看玩法策展</a>
+            </div>
+          </div>
+          <div class="hero-card" id="heroMeta"></div>
+        </section>
+
+        <section id="recent" class="section">
+          <div class="section-head">
+            <div>
+              <p class="kicker">01 / 近期上新</p>
+              <h2>近几个月新上线或有更新的旅行与游玩项目</h2>
+            </div>
+            <p id="recentUpdate"></p>
+          </div>
+          <div class="chips" id="recentFilters"></div>
+          <div class="grid three" id="recentList"></div>
+        </section>
+
+        <section id="classic" class="section">
+          <div class="section-head">
+            <div>
+              <p class="kicker">02 / 随机发现</p>
+              <h2>从经典且高口碑目的地中随机挑选灵感</h2>
+            </div>
+            <button class="button tertiary" id="classicShuffle" type="button">换一批</button>
+          </div>
+          <div class="grid two" id="classicList"></div>
+        </section>
+
+        <section id="play" class="section">
+          <div class="section-head">
+            <div>
+              <p class="kicker">03 / 玩法策展</p>
+              <h2>把常规旅行重组为更有参与感的新体验</h2>
+            </div>
+            <button class="button tertiary" id="playShuffle" type="button">换一组玩法</button>
+          </div>
+          <div class="chips" id="playFilters"></div>
+          <div class="grid three" id="playList"></div>
+        </section>
+
+        <section id="update" class="section update-block">
+          <p class="kicker">每周更新机制</p>
+          <h2>每周自动刷新资讯与推荐组合，保证回访有新内容。</h2>
+          <ul>
+            <li>公开资讯源聚合近几个月新动态</li>
+            <li>经典目的地与玩法库按周随机轮换</li>
+            <li>GitHub Actions 自动执行周更</li>
+          </ul>
+          <div class="source-list" id="sourceList"></div>
+        </section>
+      </main>
+
+      <footer>
+        <span id="footerMeta"></span>
+        <span>去玩实验室 · Travel Info Site</span>
+      </footer>
+    </div>
+
+    <script src="assets/data/travel-data.js"></script>
+    <script src="assets/app.js"></script>
+  </body>
+</html>
