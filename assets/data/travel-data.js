@@ -2,7 +2,7 @@ window.TRAVEL_DATA = {
   "site": {
     "name": "去玩实验室",
     "description": "每周更新的旅行玩乐情报站",
-    "lastUpdated": "2026-04-20",
+    "lastUpdated": "2026-04-27",
     "refreshCadence": "每周自动刷新一次",
     "metrics": [
       {
@@ -20,19 +20,6 @@ window.TRAVEL_DATA = {
     ]
   },
   "recentLaunches": [
-    {
-      "id": "8-new-museum-exhibits-to-check-out-in-d-c-arlington-magazine",
-      "title": "8 New Museum Exhibits To Check Out in D.C. - Arlington Magazine",
-      "location": "全球",
-      "freshness": "近期上新",
-      "summary": "8 New Museum Exhibits To Check Out in D.C. &nbsp;&nbsp; Arlington Magazine",
-      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "城市文化",
-      "sourceName": "Arlington Magazine",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xd2h3SFdUX3RSQkRXNmtmWFU5SVFjZmd1UldleUw0WkZVZC1sR3A1WE5PckZURk5yUGFPQml2YV96T2ZvY1FjcHFoaUNqZ1laWWpWY0pMbUpnY2FsRkg5dXdpQTdIbUNB?oc=5",
-      "publishedAt": "2026-03-25",
-      "bucket": "recent-culture"
-    },
     {
       "id": "agoda-and-china-airlines-enhance-travel-rewards-with-new-hotel-booking-platform-staymiles-yahoo-finance",
       "title": "Agoda and China Airlines Enhance Travel Rewards with New Hotel Booking Platform, StayMiles - Yahoo Finance",
@@ -73,6 +60,19 @@ window.TRAVEL_DATA = {
       "bucket": "recent-stay"
     },
     {
+      "id": "inside-the-new-museum-s-long-awaited-addition-designed-by-oma-architectural-digest",
+      "title": "Inside the New Museum’s Long-Awaited Addition, Designed by OMA - Architectural Digest",
+      "location": "全球",
+      "freshness": "近期上新",
+      "summary": "Inside the New Museum’s Long-Awaited Addition, Designed by OMA &nbsp;&nbsp; Architectural Digest",
+      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
+      "tags": "城市文化",
+      "sourceName": "Architectural Digest",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaWhmMFFwOURfMmNNR3lDOElDbTNCd1l3T001blZQclRhT2Y2ZXdZMjhfV1NLeFZ2Z3JuWE81cGcyOWw1NnVSTWdzMl9fZ3B4YjJ1VXU3LUhWdGNTdFZDTjVLemF3WC1rVGJUc0themZmSG9oYlBlSUF3VGI5NTh4OUpGN1phSTUxd3ZYUGVGM0tDY2RJdjhXVzBkUWlGWW81aXNOOA?oc=5",
+      "publishedAt": "2026-04-02",
+      "bucket": "recent-culture"
+    },
+    {
       "id": "national-comedy-center-named-best-new-museum-in-the-country-by-usa-today-national-comedy-center-jamestown-ny",
       "title": "National Comedy Center Named Best New Museum in the Country by USA Today - National Comedy Center - Jamestown, NY",
       "location": "全球",
@@ -84,22 +84,6 @@ window.TRAVEL_DATA = {
       "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOem8xc1h4ZTJYdXBUSHlnaEhKeC1UdHk0Y0tZaTllQ0UzRk13VGJKY2xUMzZpQTJfU3RHUU5HTkVvR0pxbnV2ZHFVT0x6V1k5cFladFhXcXQ3NnN3ZUhvQlEyWjh6ZkFaWHdZNUdLUjdXTkItTDZjN0lSbVNGa0hXQWtrRFpUMTlRLTRyTTBBTG1XWDE4SHRpbktrNHhyelU?oc=5",
       "publishedAt": "2026-02-28",
       "bucket": "recent-culture"
-    },
-    {
-      "id": "national-cowboy-western-heritage-museum-debuts-new-immersive-experience-news-9",
-      "title": "National Cowboy & Western Heritage Museum debuts new immersive experience - News 9",
-      "location": "全球",
-      "freshness": "近月动态",
-      "summary": "National Cowboy & Western Heritage Museum debuts new immersive experience &nbsp;&nbsp; News 9",
-      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": [
-        "城市文化",
-        "沉浸体验"
-      ],
-      "sourceName": "News 9",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRVlxQm5tUEpINFRqR1BwZnB6akkya054LU5obV9xX1Z4b3NjaU9iUVR3WmpNcEl1M1pSb1lyVjBiVDl3cmlsdE1iRk94U2RJQkJTVUhWQzk3WnByNjc2Y3loSmk4REpic3hpaGh0NUxNekp6d1lnNGpWWlllYU9USDI4QUd6bmNCLV9mbGhkN09GNjNTejhJWUVIU0VYMVplYzl5d2JZM3RBVVU?oc=5",
-      "publishedAt": "2026-01-09",
-      "bucket": "recent-launch"
     },
     {
       "id": "new-museum-of-illusions-brings-mind-boggling-fun-to-downtown-detroit-gmtoday-com",
@@ -128,17 +112,33 @@ window.TRAVEL_DATA = {
       "bucket": "recent-culture"
     },
     {
-      "id": "new-oregon-destination-is-just-one-of-the-museum-stops-you-won-t-want-to-miss-this-spring-oregonlive-com",
-      "title": "New Oregon destination is just one of the museum stops you won’t want to miss this spring - OregonLive.com",
+      "id": "sports-illustrated-resorts-announces-plans-for-new-resort-travelpulse",
+      "title": "Sports Illustrated Resorts Announces Plans for New Resort - TravelPulse",
       "location": "全球",
-      "freshness": "近期上新",
-      "summary": "New Oregon destination is just one of the museum stops you won’t want to miss this spring &nbsp;&nbsp; OregonL",
+      "freshness": "刚更新",
+      "summary": "Sports Illustrated Resorts Announces Plans for New Resort &nbsp;&nbsp; TravelPulse",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "城市文化",
-      "sourceName": "OregonLive.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcnhfZjVzQW1PbF94WWZmbHpjeEFocGZuV3lfckNMWnhfMzhSTTE4QkFOV0lTNm5WUEdmM1lFQTNUY0FsWHJXS3lDSTFfb0oxSExKVmxSeEhlMVUxY2dwX3kzVzMtUy1uRE1PbFVDWmRZWUxJNUVWZkFYejNsQXY5eWYya1lQcExFUTBHcGFUWDN4T0VmUEh3MFNqNHVpZzk5X3hzdTJzNWZoemRUTWl4UmtXUzAxTFN0aUI2eF9NbXlTYlFocFEwZjlWQ21ka2Jx0gHkAUFVX3lxTFBQbTVoLUplQlJBcng5VlUxTUFJMUtENjl6OXNkbDExSE9jTlBiVUhrcFpuMzRJTzl2M2VfNW1UWHFEVnhhd2hvNnpPa3lFQ0hiRTRvdGtVUEduaE9aZGUzV1JnaVM0TFpuRnpaSGQ0aTU2SkY4M2VmQTZxMnlRdUdqUTVQdjZRdjV5a25xRmtuVnNuSlg4QmVUVzZwNzBlSVlJVW9rd05TSlhCSWRpc1pTWkU2aDJVeU5Wa2tSdldOb0FNUEs2LXZkTUk0ZFdZeGc3REIzUS1OcWpJMXNVSEZ3ZXdkUg?oc=5",
-      "publishedAt": "2026-03-30",
-      "bucket": "recent-culture"
+      "tags": [
+        "酒店上新",
+        "运动社交"
+      ],
+      "sourceName": "TravelPulse",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUmVRT21JN0liWExtVU1NSDU0Q3FQLUJ6bFV3cTlYQ19kLWh1ZnhXQnA3eFdMWXoyWl9zN0V3TG92Z09INl9HNFYyZkxZRUhWZFNVdlo2UFRaZzBGUlpkTkQ2S290LUs2eE5wZ3NGSFBuWGExNGdSRUNEWEd5NEFkcHowZHBmTmlVZFV0cnBoRFo0b0xRamxDTEJyYXNSOUljcWFWeDhZOWFVanB3QnI0UGM2c3UwUURUWDlPR1Jlc3Yzdw?oc=5",
+      "publishedAt": "2026-04-15",
+      "bucket": "recent-stay"
+    },
+    {
+      "id": "statement-from-journey-gunderson-executive-director-national-comedy-center-jamestown-ny",
+      "title": "Statement from Journey Gunderson, Executive Director - National Comedy Center - Jamestown, NY",
+      "location": "全球",
+      "freshness": "近月动态",
+      "summary": "Statement from Journey Gunderson, Executive Director &nbsp;&nbsp; National Comedy Center - Jamestown, NY",
+      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
+      "tags": "新体验",
+      "sourceName": "National Comedy Center - Jamestown, NY",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWFhCMWZtMHZKVEYwTWZWMUxNQUNXN0pIem5EcUlRRnE1MFE0UGxyWldQcU90NzVhMmZWYktXNVNqbldNZXV1b1UxcUVYVGpySTVHbEJFTHFRblQtRjdvSEItV2xRTFBNRWdvbU1ERmFwVjgxUEpPT0kxaHVFWG8zNExqTHJ6UlBHZ1NSX0s2NFU?oc=5",
+      "publishedAt": "2026-01-18",
+      "bucket": "recent-launch"
     }
   ],
   "classicLibrary": [
@@ -229,15 +229,29 @@ window.TRAVEL_DATA = {
   ],
   "classicPicks": [
     {
-      "name": "清迈古城与山边咖啡路线",
-      "location": "泰国 · 清迈",
-      "season": "11 月到次年 2 月",
-      "summary": "寺庙、手作、咖啡与自然景串联轻松。",
-      "bestFor": "独自旅行或疗愈型出游",
-      "budget": "中等偏低",
+      "name": "巴塞罗那旧城与海边线",
+      "location": "西班牙 · 巴塞罗那",
+      "season": "春夏最佳",
+      "summary": "建筑、海风和夜生活同时在线。",
+      "bestFor": "情侣或第一次欧洲城市度假",
+      "budget": "中高",
+      "duration": "4 天",
+      "tags": [
+        "海边",
+        "城市文化",
+        "夜游"
+      ]
+    },
+    {
+      "name": "大理洱海西岸",
+      "location": "中国 · 云南大理",
+      "season": "春秋最佳",
+      "summary": "慢节奏与风景结合，适合恢复状态型旅行。",
+      "bestFor": "需要降速放松的人",
+      "budget": "中等",
       "duration": "3 天",
       "tags": [
-        "手作",
+        "自然户外",
         "轻度疗愈",
         "慢旅行"
       ]
@@ -257,31 +271,17 @@ window.TRAVEL_DATA = {
       ]
     },
     {
-      "name": "京都岚山与嵯峨野",
-      "location": "日本 · 京都",
-      "season": "春秋最佳",
-      "summary": "清晨竹林、河岸与老街的慢节奏体验非常完整。",
-      "bestFor": "第一次去京都但不想赶景点",
-      "budget": "中等",
-      "duration": "2-3 天",
-      "tags": [
-        "城市文化",
-        "散步型",
-        "轻度疗愈"
-      ]
-    },
-    {
-      "name": "巴塞罗那旧城与海边线",
-      "location": "西班牙 · 巴塞罗那",
-      "season": "春夏最佳",
-      "summary": "建筑、海风和夜生活同时在线。",
-      "bestFor": "情侣或第一次欧洲城市度假",
+      "name": "新加坡滨海湾到甘榜格南",
+      "location": "新加坡",
+      "season": "全年可去",
+      "summary": "现代建筑、夜景与街区生活感在短途中高度兼容。",
+      "bestFor": "第一次去东南亚城市",
       "budget": "中高",
-      "duration": "4 天",
+      "duration": "3 天",
       "tags": [
-        "海边",
         "城市文化",
-        "夜游"
+        "夜游",
+        "美食"
       ]
     }
   ],
@@ -367,32 +367,6 @@ window.TRAVEL_DATA = {
   ],
   "playModes": [
     {
-      "title": "晨型人能量路线",
-      "destination": "京都 / 大理 / 清迈",
-      "pace": "松弛恢复型",
-      "summary": "把最好的时段前置在早晨，回避人潮提升舒适度。",
-      "route": "晨间出发 -> 空景时段 -> 午后休整",
-      "bestFor": "怕拥挤、想慢一点",
-      "moods": [
-        "轻度疗愈",
-        "一个人出走",
-        "自然户外"
-      ]
-    },
-    {
-      "title": "市场寻味路线",
-      "destination": "台北 / 曼谷 / 里斯本",
-      "pace": "轻松具体",
-      "summary": "从市场和超市进入城市味觉地图，而不只打卡餐厅。",
-      "route": "早市 -> 食品店 -> 体验课 -> 晚餐",
-      "bestFor": "把吃当主线的用户",
-      "moods": [
-        "美食",
-        "城市文化",
-        "慢旅行"
-      ]
-    },
-    {
       "title": "夜游城市副本",
       "destination": "新加坡 / 香港 / 东京",
       "pace": "高记忆点",
@@ -403,6 +377,32 @@ window.TRAVEL_DATA = {
         "夜游",
         "朋友组队",
         "城市娱乐"
+      ]
+    },
+    {
+      "title": "目的地酒店玩法",
+      "destination": "拉斯维加斯 / 海滨度假区",
+      "pace": "轻决策高舒适",
+      "summary": "把酒店升级为行程主角，外出只补少量重点点位。",
+      "route": "入住体验型酒店 -> 在地停留 -> 1-2 个外出点",
+      "bestFor": "短假、庆祝型出游",
+      "moods": [
+        "目的地酒店",
+        "情侣约会",
+        "周末快闪"
+      ]
+    },
+    {
+      "title": "晨型人能量路线",
+      "destination": "京都 / 大理 / 清迈",
+      "pace": "松弛恢复型",
+      "summary": "把最好的时段前置在早晨，回避人潮提升舒适度。",
+      "route": "晨间出发 -> 空景时段 -> 午后休整",
+      "bestFor": "怕拥挤、想慢一点",
+      "moods": [
+        "轻度疗愈",
+        "一个人出走",
+        "自然户外"
       ]
     },
     {
@@ -432,24 +432,20 @@ window.TRAVEL_DATA = {
       ]
     },
     {
-      "title": "目的地酒店玩法",
-      "destination": "拉斯维加斯 / 海滨度假区",
-      "pace": "轻决策高舒适",
-      "summary": "把酒店升级为行程主角，外出只补少量重点点位。",
-      "route": "入住体验型酒店 -> 在地停留 -> 1-2 个外出点",
-      "bestFor": "短假、庆祝型出游",
+      "title": "市场寻味路线",
+      "destination": "台北 / 曼谷 / 里斯本",
+      "pace": "轻松具体",
+      "summary": "从市场和超市进入城市味觉地图，而不只打卡餐厅。",
+      "route": "早市 -> 食品店 -> 体验课 -> 晚餐",
+      "bestFor": "把吃当主线的用户",
       "moods": [
-        "目的地酒店",
-        "情侣约会",
-        "周末快闪"
+        "美食",
+        "城市文化",
+        "慢旅行"
       ]
     }
   ],
   "trendSignals": [
-    {
-      "name": "Shelf Discovery",
-      "summary": "市场与超市型体验成为城市旅行新入口。"
-    },
     {
       "name": "Made-for-me Travel",
       "summary": "旅行越来越强调个性表达与生活方式契合。"
@@ -461,6 +457,10 @@ window.TRAVEL_DATA = {
     {
       "name": "Destination Check-in",
       "summary": "住宿空间本身成为旅行内容的一部分。"
+    },
+    {
+      "name": "Shelf Discovery",
+      "summary": "市场与超市型体验成为城市旅行新入口。"
     }
   ],
   "sources": [
