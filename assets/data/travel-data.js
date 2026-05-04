@@ -2,7 +2,7 @@ window.TRAVEL_DATA = {
   "site": {
     "name": "去玩实验室",
     "description": "每周更新的旅行玩乐情报站",
-    "lastUpdated": "2026-04-27",
+    "lastUpdated": "2026-05-04",
     "refreshCadence": "每周自动刷新一次",
     "metrics": [
       {
@@ -21,6 +21,19 @@ window.TRAVEL_DATA = {
   },
   "recentLaunches": [
     {
+      "id": "a-new-era-of-hollywood-in-germany-movie-park-germany-presents-its-new-exclusive-paramount-attraction-journey-to-the-forbidden-chamber-amusement-today",
+      "title": "A new era of Hollywood in Germany: Movie Park Germany presents its new exclusive Paramount attraction “Journey to the Forbidden Chamber”! - Amusement Today",
+      "location": "全球",
+      "freshness": "刚更新",
+      "summary": "A new era of Hollywood in Germany: Movie Park Germany presents its new exclusive Paramount attraction “Journey",
+      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
+      "tags": "自然户外",
+      "sourceName": "Amusement Today",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYzFlQ1lhMkFPV2d5dF9KTDE5NGxSQW5TY091REhldFNuaWlQTTBWTk80Skxwa09zUlRrUTR0YjdsMEpVQk1reFZkSHMtVHFCcXpYV1hhMm10Qm1CaDdvaFVLM1RiWmJuWkFHSVlMaEl1N0N4NUFfN2FjTUhUSkQ4M1ZrdmN2OWgtR0xDSVUxekNEZjY5OG9wcDNiemFEaVZJVUM0SjZjR3dXZGFWd0Itbk43Mnc5dkp6ZW50UmliQTZ1TWNpd1lvcmw3NXBtVWttSWVnTldtNkVkRlc4RUZjSkIyTTczR2ljMXZ0cjU4T0VYWFFFcFAzd1o3ZS1mZw?oc=5",
+      "publishedAt": "2026-04-29",
+      "bucket": "recent-launch"
+    },
+    {
       "id": "agoda-and-china-airlines-enhance-travel-rewards-with-new-hotel-booking-platform-staymiles-yahoo-finance",
       "title": "Agoda and China Airlines Enhance Travel Rewards with New Hotel Booking Platform, StayMiles - Yahoo Finance",
       "location": "全球",
@@ -31,19 +44,6 @@ window.TRAVEL_DATA = {
       "sourceName": "Yahoo Finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY3QtVmthSlJSOGYyUkV5cC01angwUWVFVDltU3JRc2dyZEsxWGVaaEljc1ZHWW90RzJMbllXd0dSSURpN09wUHh6V09vYU5NNzRVRTRDbFV0SmZKanFfYnpUNzRNZE9zZ3hXcVFGNmhHWmRZUE1DZngzNDZOSlc1Ym9wYzlxaHpQ?oc=5",
       "publishedAt": "2026-02-22",
-      "bucket": "recent-stay"
-    },
-    {
-      "id": "at-this-new-hotel-in-mexico-s-riviera-nayarit-you-can-have-it-all-vogue",
-      "title": "At This New Hotel in Mexico’s Riviera Nayarit, You Can Have It All - Vogue",
-      "location": "全球",
-      "freshness": "近期上新",
-      "summary": "At This New Hotel in Mexico’s Riviera Nayarit, You Can Have It All &nbsp;&nbsp; Vogue",
-      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "酒店上新",
-      "sourceName": "Vogue",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51M0NFUkE4SmlJY2hqYUJ6YUx1ckZVSkxaeVVWSHItZFZYY29zclNUM2V0TVZYLWstUVlTVzQtbkVpeTZEcEkxQjFIRlEzSnJ6QXJLNVpidkFnTmNSSzhSN054QjR4aXlybDcwNmdWQzgwQWEzMjVWQ2xB?oc=5",
-      "publishedAt": "2026-03-17",
       "bucket": "recent-stay"
     },
     {
@@ -60,17 +60,21 @@ window.TRAVEL_DATA = {
       "bucket": "recent-stay"
     },
     {
-      "id": "inside-the-new-museum-s-long-awaited-addition-designed-by-oma-architectural-digest",
-      "title": "Inside the New Museum’s Long-Awaited Addition, Designed by OMA - Architectural Digest",
+      "id": "inside-look-vidantaworld-nuevo-vallarta-s-new-hotel-and-upcoming-luxury-theme-park-travelage-west",
+      "title": "Inside Look: VidantaWorld Nuevo Vallarta’s New Hotel and Upcoming Luxury Theme Park - TravelAge West",
       "location": "全球",
-      "freshness": "近期上新",
-      "summary": "Inside the New Museum’s Long-Awaited Addition, Designed by OMA &nbsp;&nbsp; Architectural Digest",
+      "freshness": "近月动态",
+      "summary": "Inside Look: VidantaWorld Nuevo Vallarta’s New Hotel and Upcoming Luxury Theme Park &nbsp;&nbsp; TravelAge Wes",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "城市文化",
-      "sourceName": "Architectural Digest",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaWhmMFFwOURfMmNNR3lDOElDbTNCd1l3T001blZQclRhT2Y2ZXdZMjhfV1NLeFZ2Z3JuWE81cGcyOWw1NnVSTWdzMl9fZ3B4YjJ1VXU3LUhWdGNTdFZDTjVLemF3WC1rVGJUc0themZmSG9oYlBlSUF3VGI5NTh4OUpGN1phSTUxd3ZYUGVGM0tDY2RJdjhXVzBkUWlGWW81aXNOOA?oc=5",
-      "publishedAt": "2026-04-02",
-      "bucket": "recent-culture"
+      "tags": [
+        "城市文化",
+        "酒店上新",
+        "自然户外"
+      ],
+      "sourceName": "TravelAge West",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rZUZOQ05oTENDQnpPZkRpWDBHZHJIbTRRVnRFZks1ODVXSE12VnFwMk02cWpOaEstRDJ2ZWlqVWFtTlh0NXJNeFZVX19lRGhDdnU1cWVockhvVzNMUmV5Ynh4U0JkWmFvcU5vMk9jc0hMRXl0OU53LUJTRQ?oc=5",
+      "publishedAt": "2026-01-13",
+      "bucket": "recent-stay"
     },
     {
       "id": "national-comedy-center-named-best-new-museum-in-the-country-by-usa-today-national-comedy-center-jamestown-ny",
@@ -99,45 +103,45 @@ window.TRAVEL_DATA = {
       "bucket": "recent-culture"
     },
     {
-      "id": "new-museum-to-open-in-march-2026-following-expansion-work-by-oma-and-rem-koolhaas-travel-tomorrow",
-      "title": "New Museum to open in March 2026 following expansion work by OMA and Rem Koolhaas - Travel Tomorrow",
-      "location": "全球",
-      "freshness": "近月动态",
-      "summary": "New Museum to open in March 2026 following expansion work by OMA and Rem Koolhaas &nbsp;&nbsp; Travel Tomorrow",
-      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "城市文化",
-      "sourceName": "Travel Tomorrow",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWnlJaVhoaGg4amNsM3VSQlNnN2F4MmZuQVRmck5WNmNER2tyMnhxc0tTcENUZllncDNnUGRLb0x1LThsaVpjTWhoa1JUeWJhY1NHRjJoaW9hNk5JNEdOSzExSHFrQXBuWExuZFZYdFJfNTNGS3VwY2UyQVNtVDJwOU1WaC11Q1lYWnFFSFg1OTJ4UHRFbURxY2V2MFpkeEp6eHdYb2YzeG5KZ2RKZ1E?oc=5",
-      "publishedAt": "2026-01-14",
-      "bucket": "recent-culture"
-    },
-    {
-      "id": "sports-illustrated-resorts-announces-plans-for-new-resort-travelpulse",
-      "title": "Sports Illustrated Resorts Announces Plans for New Resort - TravelPulse",
+      "id": "route-66-centennial-traveling-exhibit-debuts-in-springfield-ky3",
+      "title": "Route 66 Centennial Traveling Exhibit debuts in Springfield - KY3",
       "location": "全球",
       "freshness": "刚更新",
-      "summary": "Sports Illustrated Resorts Announces Plans for New Resort &nbsp;&nbsp; TravelPulse",
+      "summary": "Route 66 Centennial Traveling Exhibit debuts in Springfield &nbsp;&nbsp; KY3",
+      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
+      "tags": "城市文化",
+      "sourceName": "KY3",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONU0ySzB3VnMtYWRtc18zZU90Tlo4dktVNXdsUEJSTm43QTdmc0xOZmM2b2MyNi1OWEZPc1BsVjdqNVFFRklVUElNMjJZSUY0VTc3d3hrV0wySWhLN3FFRURTYWlndGplRDdzY2pSbWhlcU9uRG5JMUc4RFVLUGowdVlYYUx3SVZiNHl3bm9nZ2FFV0xvR05Jb1NR?oc=5",
+      "publishedAt": "2026-04-29",
+      "bucket": "recent-launch"
+    },
+    {
+      "id": "sports-illustrated-resorts-announces-new-resort-destination-near-lsu-in-baton-rouge-business-wire",
+      "title": "Sports Illustrated Resorts Announces New Resort Destination Near LSU in Baton Rouge - Business Wire",
+      "location": "全球",
+      "freshness": "近期上新",
+      "summary": "Sports Illustrated Resorts Announces New Resort Destination Near LSU in Baton Rouge &nbsp;&nbsp; Business Wire",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
       "tags": [
         "酒店上新",
         "运动社交"
       ],
-      "sourceName": "TravelPulse",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUmVRT21JN0liWExtVU1NSDU0Q3FQLUJ6bFV3cTlYQ19kLWh1ZnhXQnA3eFdMWXoyWl9zN0V3TG92Z09INl9HNFYyZkxZRUhWZFNVdlo2UFRaZzBGUlpkTkQ2S290LUs2eE5wZ3NGSFBuWGExNGdSRUNEWEd5NEFkcHowZHBmTmlVZFV0cnBoRFo0b0xRamxDTEJyYXNSOUljcWFWeDhZOWFVanB3QnI0UGM2c3UwUURUWDlPR1Jlc3Yzdw?oc=5",
+      "sourceName": "Business Wire",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdk5ZOHl2anYtTDRmT0tUazhVdHZCbG40ZmV5Q2tNS09UWnZLNEhDNHZmbS1iMkozWWhyNlhyblZTRjZvX2VuVm5wZGF3RWd6TGxtZGlJNXlXT0VxN2ItQTNOWnFEcFFkYUhRM05xSUJuampELURZcGNUSFBvQTJiOU14akNpTTBjNkVOS19hREJKa1pIelVVcnptMExqaHZod2JuOWNkV0VoVTZwZElzbGdxX2x5RWR6NXYxVXRJX2Z2SjlaSW5leXVLYmNGUUExMndIOGtpUQ?oc=5",
       "publishedAt": "2026-04-15",
       "bucket": "recent-stay"
     },
     {
-      "id": "statement-from-journey-gunderson-executive-director-national-comedy-center-jamestown-ny",
-      "title": "Statement from Journey Gunderson, Executive Director - National Comedy Center - Jamestown, NY",
+      "id": "tennessee-tourism-unveils-official-2026-vacation-guide-featuring-dolly-parton-tn-gov",
+      "title": "Tennessee Tourism Unveils Official 2026 Vacation Guide Featuring Dolly Parton - TN.gov",
       "location": "全球",
       "freshness": "近月动态",
-      "summary": "Statement from Journey Gunderson, Executive Director &nbsp;&nbsp; National Comedy Center - Jamestown, NY",
+      "summary": "Tennessee Tourism Unveils Official 2026 Vacation Guide Featuring Dolly Parton &nbsp;&nbsp; TN.gov",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "新体验",
-      "sourceName": "National Comedy Center - Jamestown, NY",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWFhCMWZtMHZKVEYwTWZWMUxNQUNXN0pIem5EcUlRRnE1MFE0UGxyWldQcU90NzVhMmZWYktXNVNqbldNZXV1b1UxcUVYVGpySTVHbEJFTHFRblQtRjdvSEItV2xRTFBNRWdvbU1ERmFwVjgxUEpPT0kxaHVFWG8zNExqTHJ6UlBHZ1NSX0s2NFU?oc=5",
-      "publishedAt": "2026-01-18",
+      "tags": "城市文化",
+      "sourceName": "TN.gov",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT2MzVVhEeUFiYlloeGxlZkJZWjA3M2ZHQVlMeC10S0tVY3c0c0ptQ1Jkd2lfUU53WWM5Q3d2eFhOdzgzXzFtOFhILTB0YmE3c01YLTVSWVdiY2hvT1VXeW0zdmc4OVgwTDhLb0hJaVUzYVVkb2c3djNnM0hpMGMza2xxUGNUUk54UE9KdUZjY2s0cFlFQ2p6a1FnWUd1NG9BRjgxc1c0MlZ3ekI5WVhSakE2MVgtajcxNXBZTURza3I1dw?oc=5",
+      "publishedAt": "2026-01-08",
       "bucket": "recent-launch"
     }
   ],
@@ -229,20 +233,6 @@ window.TRAVEL_DATA = {
   ],
   "classicPicks": [
     {
-      "name": "巴塞罗那旧城与海边线",
-      "location": "西班牙 · 巴塞罗那",
-      "season": "春夏最佳",
-      "summary": "建筑、海风和夜生活同时在线。",
-      "bestFor": "情侣或第一次欧洲城市度假",
-      "budget": "中高",
-      "duration": "4 天",
-      "tags": [
-        "海边",
-        "城市文化",
-        "夜游"
-      ]
-    },
-    {
       "name": "大理洱海西岸",
       "location": "中国 · 云南大理",
       "season": "春秋最佳",
@@ -257,6 +247,34 @@ window.TRAVEL_DATA = {
       ]
     },
     {
+      "name": "清迈古城与山边咖啡路线",
+      "location": "泰国 · 清迈",
+      "season": "11 月到次年 2 月",
+      "summary": "寺庙、手作、咖啡与自然景串联轻松。",
+      "bestFor": "独自旅行或疗愈型出游",
+      "budget": "中等偏低",
+      "duration": "3 天",
+      "tags": [
+        "手作",
+        "轻度疗愈",
+        "慢旅行"
+      ]
+    },
+    {
+      "name": "京都岚山与嵯峨野",
+      "location": "日本 · 京都",
+      "season": "春秋最佳",
+      "summary": "清晨竹林、河岸与老街的慢节奏体验非常完整。",
+      "bestFor": "第一次去京都但不想赶景点",
+      "budget": "中等",
+      "duration": "2-3 天",
+      "tags": [
+        "城市文化",
+        "散步型",
+        "轻度疗愈"
+      ]
+    },
+    {
       "name": "香港西贡海岸线",
       "location": "中国香港 · 西贡",
       "season": "秋冬舒适",
@@ -268,20 +286,6 @@ window.TRAVEL_DATA = {
         "海边",
         "周末快闪",
         "自然户外"
-      ]
-    },
-    {
-      "name": "新加坡滨海湾到甘榜格南",
-      "location": "新加坡",
-      "season": "全年可去",
-      "summary": "现代建筑、夜景与街区生活感在短途中高度兼容。",
-      "bestFor": "第一次去东南亚城市",
-      "budget": "中高",
-      "duration": "3 天",
-      "tags": [
-        "城市文化",
-        "夜游",
-        "美食"
       ]
     }
   ],
@@ -367,19 +371,6 @@ window.TRAVEL_DATA = {
   ],
   "playModes": [
     {
-      "title": "夜游城市副本",
-      "destination": "新加坡 / 香港 / 东京",
-      "pace": "高记忆点",
-      "summary": "白天轻量主线，夜晚作为体验高光时段。",
-      "route": "观景点 -> 夜间展演 -> 夜宵散步",
-      "bestFor": "朋友组队、情侣快闪",
-      "moods": [
-        "夜游",
-        "朋友组队",
-        "城市娱乐"
-      ]
-    },
-    {
       "title": "目的地酒店玩法",
       "destination": "拉斯维加斯 / 海滨度假区",
       "pace": "轻决策高舒适",
@@ -403,19 +394,6 @@ window.TRAVEL_DATA = {
         "轻度疗愈",
         "一个人出走",
         "自然户外"
-      ]
-    },
-    {
-      "title": "观赛或演出带着走",
-      "destination": "大阪 / 新加坡 / 纽约",
-      "pace": "高情绪价值",
-      "summary": "以赛事或演出为锚点，周边行程轻量串联。",
-      "route": "进场前街区 -> 赛事演出 -> 散场夜宵",
-      "bestFor": "兴趣事件驱动型用户",
-      "moods": [
-        "朋友组队",
-        "城市娱乐",
-        "周末快闪"
       ]
     },
     {
@@ -443,24 +421,50 @@ window.TRAVEL_DATA = {
         "城市文化",
         "慢旅行"
       ]
+    },
+    {
+      "title": "夜游城市副本",
+      "destination": "新加坡 / 香港 / 东京",
+      "pace": "高记忆点",
+      "summary": "白天轻量主线，夜晚作为体验高光时段。",
+      "route": "观景点 -> 夜间展演 -> 夜宵散步",
+      "bestFor": "朋友组队、情侣快闪",
+      "moods": [
+        "夜游",
+        "朋友组队",
+        "城市娱乐"
+      ]
+    },
+    {
+      "title": "观赛或演出带着走",
+      "destination": "大阪 / 新加坡 / 纽约",
+      "pace": "高情绪价值",
+      "summary": "以赛事或演出为锚点，周边行程轻量串联。",
+      "route": "进场前街区 -> 赛事演出 -> 散场夜宵",
+      "bestFor": "兴趣事件驱动型用户",
+      "moods": [
+        "朋友组队",
+        "城市娱乐",
+        "周末快闪"
+      ]
     }
   ],
   "trendSignals": [
     {
-      "name": "Made-for-me Travel",
-      "summary": "旅行越来越强调个性表达与生活方式契合。"
+      "name": "Shelf Discovery",
+      "summary": "市场与超市型体验成为城市旅行新入口。"
     },
     {
-      "name": "Glowmads",
-      "summary": "Wellness 与放松体验正在被当作独立出游理由。"
+      "name": "Made-for-me Travel",
+      "summary": "旅行越来越强调个性表达与生活方式契合。"
     },
     {
       "name": "Destination Check-in",
       "summary": "住宿空间本身成为旅行内容的一部分。"
     },
     {
-      "name": "Shelf Discovery",
-      "summary": "市场与超市型体验成为城市旅行新入口。"
+      "name": "Glowmads",
+      "summary": "Wellness 与放松体验正在被当作独立出游理由。"
     }
   ],
   "sources": [
