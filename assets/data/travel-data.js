@@ -2,7 +2,7 @@ window.TRAVEL_DATA = {
   "site": {
     "name": "去玩实验室",
     "description": "每周更新的旅行玩乐情报站",
-    "lastUpdated": "2026-05-04",
+    "lastUpdated": "2026-05-11",
     "refreshCadence": "每周自动刷新一次",
     "metrics": [
       {
@@ -21,17 +21,17 @@ window.TRAVEL_DATA = {
   },
   "recentLaunches": [
     {
-      "id": "a-new-era-of-hollywood-in-germany-movie-park-germany-presents-its-new-exclusive-paramount-attraction-journey-to-the-forbidden-chamber-amusement-today",
-      "title": "A new era of Hollywood in Germany: Movie Park Germany presents its new exclusive Paramount attraction “Journey to the Forbidden Chamber”! - Amusement Today",
+      "id": "a-new-hotel-has-been-approved-in-boston-s-seaport-boston-com",
+      "title": "A new hotel has been approved in Boston’s Seaport - Boston.com",
       "location": "全球",
-      "freshness": "刚更新",
-      "summary": "A new era of Hollywood in Germany: Movie Park Germany presents its new exclusive Paramount attraction “Journey",
+      "freshness": "近月动态",
+      "summary": "A new hotel has been approved in Boston’s Seaport &nbsp;&nbsp; Boston.com",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "自然户外",
-      "sourceName": "Amusement Today",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYzFlQ1lhMkFPV2d5dF9KTDE5NGxSQW5TY091REhldFNuaWlQTTBWTk80Skxwa09zUlRrUTR0YjdsMEpVQk1reFZkSHMtVHFCcXpYV1hhMm10Qm1CaDdvaFVLM1RiWmJuWkFHSVlMaEl1N0N4NUFfN2FjTUhUSkQ4M1ZrdmN2OWgtR0xDSVUxekNEZjY5OG9wcDNiemFEaVZJVUM0SjZjR3dXZGFWd0Itbk43Mnc5dkp6ZW50UmliQTZ1TWNpd1lvcmw3NXBtVWttSWVnTldtNkVkRlc4RUZjSkIyTTczR2ljMXZ0cjU4T0VYWFFFcFAzd1o3ZS1mZw?oc=5",
-      "publishedAt": "2026-04-29",
-      "bucket": "recent-launch"
+      "tags": "酒店上新",
+      "sourceName": "Boston.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWXZRNThuMHdIMU1IenlDQlpLZWtJY2RVODVzd2lZS1pyRDdpWXRWMVlIUkdZeWZORmNKZU00dURtYVBFeVd0TVpvSEttNmYySmJ6cHBvR2RfYlNsaC0wX0dTTjRPc24zQ3FMY05oR2RlOGg5bkNJZEpBYUJTZ1JPY0U5OElaY21BM1pHZzZKZk0zS0YtSXJzVDZkeGU5Wl9yX3dOdWJQMA?oc=5",
+      "publishedAt": "2026-02-18",
+      "bucket": "recent-stay"
     },
     {
       "id": "agoda-and-china-airlines-enhance-travel-rewards-with-new-hotel-booking-platform-staymiles-yahoo-finance",
@@ -50,7 +50,7 @@ window.TRAVEL_DATA = {
       "id": "chase-travel-adds-new-hotel-price-match-guarantee-for-some-thrifty-traveler",
       "title": "Chase Travel℠ Adds New Hotel Price-Match Guarantee … For Some - Thrifty Traveler",
       "location": "全球",
-      "freshness": "近期上新",
+      "freshness": "近月动态",
       "summary": "Chase Travel℠ Adds New Hotel Price-Match Guarantee … For Some &nbsp;&nbsp; Thrifty Traveler",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
       "tags": "酒店上新",
@@ -58,6 +58,19 @@ window.TRAVEL_DATA = {
       "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVFF4ZTlaLXlGUS0wSEozd2YxZDNyZzNrV01zUWt6QUluTVRTRXhGaXlJY0FvVGFKMkk4RV84M2tLQ2lyZVVobXNxVXlYYUx1SVZpSTJCUzllUVI4eVpMSlp2MW94aHVFTVJBc01TV2xIRlVUMHB2Y1hxM19BV0pEQ0JEX01ueER0T2F2OC1QUQ?oc=5",
       "publishedAt": "2026-03-19",
       "bucket": "recent-stay"
+    },
+    {
+      "id": "cooperstown-museums-to-host-community-day-may-9-as-hall-of-fame-debuts-new-museum-store-baseball-hall-of-fame",
+      "title": "Cooperstown Museums to Host Community Day May 9 as Hall of Fame Debuts New Museum Store - Baseball Hall of Fame",
+      "location": "全球",
+      "freshness": "刚更新",
+      "summary": "Cooperstown Museums to Host Community Day May 9 as Hall of Fame Debuts New Museum Store &nbsp;&nbsp; Baseball",
+      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
+      "tags": "城市文化",
+      "sourceName": "Baseball Hall of Fame",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZnQydUxtdTFfX3Jmdmw3TTh5dUM4eTF5M3ZJY2U3S3l5NkdWX0IwdVVUbzVmLWZUaFJXWGVFVE92VEhQOTVjc3pya19RRUp1UC1OSHF0SW5XV2ZibGs0SVQwazRHeTQ2NUROZ1hQSnhPYTVlSk5Fc2Z6QVZ3ZDZBRURYOW1PZFp4YXJmeW5zd0VaMVJNQ3c2UEhYQTBHZlFaYnZXNTE3aFQ2dXN0blc4bExDRDVGZWJv?oc=5",
+      "publishedAt": "2026-04-30",
+      "bucket": "recent-culture"
     },
     {
       "id": "inside-look-vidantaworld-nuevo-vallarta-s-new-hotel-and-upcoming-luxury-theme-park-travelage-west",
@@ -90,59 +103,46 @@ window.TRAVEL_DATA = {
       "bucket": "recent-culture"
     },
     {
-      "id": "new-museum-of-illusions-brings-mind-boggling-fun-to-downtown-detroit-gmtoday-com",
-      "title": "New Museum of Illusions brings mind-boggling fun to downtown Detroit - GMToday.com",
-      "location": "全球",
-      "freshness": "近月动态",
-      "summary": "New Museum of Illusions brings mind-boggling fun to downtown Detroit &nbsp;&nbsp; GMToday.com",
-      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "城市文化",
-      "sourceName": "GMToday.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTkM1di1GWldxNWxKZjRuVTRwODVYWXRTUS1pVDFsQmdBVTJNTDJkby1kY1pfOUp3N282S2Zaemx4N013N2NoRXUtZmhJMGsySjdtQ3hHbGN5VXFudkNPY1hWT01OMlU4YlVjSDIyNkROWjRTaGlISl94X1VoU2ZPb3RGSWxXZjV6SlpzVFFTaGc1Si1YdGtnUUppeDZkZUNKN1NxQnZqZjRmX1RUbDdzcmYxY2FXWWVkcEFSWjRhWk1nUHJNekMwTlZQbVdNTzBGd0NMdUlLbUpqLW0yLURfNXZsdw?oc=5",
-      "publishedAt": "2026-01-21",
-      "bucket": "recent-culture"
-    },
-    {
-      "id": "route-66-centennial-traveling-exhibit-debuts-in-springfield-ky3",
-      "title": "Route 66 Centennial Traveling Exhibit debuts in Springfield - KY3",
+      "id": "new-immersive-experience-space-in-jeju-cat-themed-park-dolcori-forest-opens-msn",
+      "title": "New immersive experience space in Jeju: Cat-themed park 'Dolcori Forest' opens - MSN",
       "location": "全球",
       "freshness": "刚更新",
-      "summary": "Route 66 Centennial Traveling Exhibit debuts in Springfield &nbsp;&nbsp; KY3",
-      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "城市文化",
-      "sourceName": "KY3",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONU0ySzB3VnMtYWRtc18zZU90Tlo4dktVNXdsUEJSTm43QTdmc0xOZmM2b2MyNi1OWEZPc1BsVjdqNVFFRklVUElNMjJZSUY0VTc3d3hrV0wySWhLN3FFRURTYWlndGplRDdzY2pSbWhlcU9uRG5JMUc4RFVLUGowdVlYYUx3SVZiNHl3bm9nZ2FFV0xvR05Jb1NR?oc=5",
-      "publishedAt": "2026-04-29",
-      "bucket": "recent-launch"
-    },
-    {
-      "id": "sports-illustrated-resorts-announces-new-resort-destination-near-lsu-in-baton-rouge-business-wire",
-      "title": "Sports Illustrated Resorts Announces New Resort Destination Near LSU in Baton Rouge - Business Wire",
-      "location": "全球",
-      "freshness": "近期上新",
-      "summary": "Sports Illustrated Resorts Announces New Resort Destination Near LSU in Baton Rouge &nbsp;&nbsp; Business Wire",
+      "summary": "New immersive experience space in Jeju: Cat-themed park 'Dolcori Forest' opens &nbsp;&nbsp; MSN",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
       "tags": [
-        "酒店上新",
-        "运动社交"
+        "沉浸体验",
+        "自然户外"
       ],
-      "sourceName": "Business Wire",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdk5ZOHl2anYtTDRmT0tUazhVdHZCbG40ZmV5Q2tNS09UWnZLNEhDNHZmbS1iMkozWWhyNlhyblZTRjZvX2VuVm5wZGF3RWd6TGxtZGlJNXlXT0VxN2ItQTNOWnFEcFFkYUhRM05xSUJuampELURZcGNUSFBvQTJiOU14akNpTTBjNkVOS19hREJKa1pIelVVcnptMExqaHZod2JuOWNkV0VoVTZwZElzbGdxX2x5RWR6NXYxVXRJX2Z2SjlaSW5leXVLYmNGUUExMndIOGtpUQ?oc=5",
-      "publishedAt": "2026-04-15",
-      "bucket": "recent-stay"
+      "sourceName": "MSN",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbzBWSndNSkZDVzBHa2ZuRU5fTzhwOFhwSHBUakhvcHQxa25Fc3kyY2ZyZlVxcnhlWVNndURvOVJCVFhnUUNsclBFblVnX2xoaVpCWFJWNWxmTjg0N19SSFZfRHYteFY2bWw4dFhaRkNVMVBmM095SDh2dXlwVHlLalZQNENhUUZiMVBSTzJiRk5feTItY3B4ZDdmeDZrblBKSFZlRmdndXVld0xPSU5nelVMUzNPejAydy05YWVyN2JNSHM?oc=5",
+      "publishedAt": "2026-05-09",
+      "bucket": "recent-launch"
     },
     {
-      "id": "tennessee-tourism-unveils-official-2026-vacation-guide-featuring-dolly-parton-tn-gov",
-      "title": "Tennessee Tourism Unveils Official 2026 Vacation Guide Featuring Dolly Parton - TN.gov",
+      "id": "new-immersive-experience-time-mission-clocks-into-houston-this-summer-innovationmap",
+      "title": "New immersive experience Time Mission clocks into Houston this summer - InnovationMap",
+      "location": "全球",
+      "freshness": "刚更新",
+      "summary": "New immersive experience Time Mission clocks into Houston this summer &nbsp;&nbsp; InnovationMap",
+      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
+      "tags": "沉浸体验",
+      "sourceName": "InnovationMap",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBZMDh4ajRwSHlZOTBJMm9FaEpjYmtZNzltMUl4aHppckJkcm9tRXpkTTVxMUcwM1JCQlZIdDdmVUpnWHp1eFZsSDdURlI0aXE1eHM2LXZ4dzhVSmZJRHdCd1RlSWhoVXBNMFpyTEdmN0VwNkdscmpDQ1hn?oc=5",
+      "publishedAt": "2026-05-06",
+      "bucket": "recent-launch"
+    },
+    {
+      "id": "new-museum-to-open-in-march-2026-following-expansion-work-by-oma-and-rem-koolhaas-travel-tomorrow",
+      "title": "New Museum to open in March 2026 following expansion work by OMA and Rem Koolhaas - Travel Tomorrow",
       "location": "全球",
       "freshness": "近月动态",
-      "summary": "Tennessee Tourism Unveils Official 2026 Vacation Guide Featuring Dolly Parton &nbsp;&nbsp; TN.gov",
+      "summary": "New Museum to open in March 2026 following expansion work by OMA and Rem Koolhaas &nbsp;&nbsp; Travel Tomorrow",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
       "tags": "城市文化",
-      "sourceName": "TN.gov",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT2MzVVhEeUFiYlloeGxlZkJZWjA3M2ZHQVlMeC10S0tVY3c0c0ptQ1Jkd2lfUU53WWM5Q3d2eFhOdzgzXzFtOFhILTB0YmE3c01YLTVSWVdiY2hvT1VXeW0zdmc4OVgwTDhLb0hJaVUzYVVkb2c3djNnM0hpMGMza2xxUGNUUk54UE9KdUZjY2s0cFlFQ2p6a1FnWUd1NG9BRjgxc1c0MlZ3ekI5WVhSakE2MVgtajcxNXBZTURza3I1dw?oc=5",
-      "publishedAt": "2026-01-08",
-      "bucket": "recent-launch"
+      "sourceName": "Travel Tomorrow",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWnlJaVhoaGg4amNsM3VSQlNnN2F4MmZuQVRmck5WNmNER2tyMnhxc0tTcENUZllncDNnUGRLb0x1LThsaVpjTWhoa1JUeWJhY1NHRjJoaW9hNk5JNEdOSzExSHFrQXBuWExuZFZYdFJfNTNGS3VwY2UyQVNtVDJwOU1WaC11Q1lYWnFFSFg1OTJ4UHRFbURxY2V2MFpkeEp6eHdYb2YzeG5KZ2RKZ1E?oc=5",
+      "publishedAt": "2026-01-14",
+      "bucket": "recent-culture"
     }
   ],
   "classicLibrary": [
@@ -233,17 +233,31 @@ window.TRAVEL_DATA = {
   ],
   "classicPicks": [
     {
-      "name": "大理洱海西岸",
-      "location": "中国 · 云南大理",
+      "name": "京都岚山与嵯峨野",
+      "location": "日本 · 京都",
       "season": "春秋最佳",
-      "summary": "慢节奏与风景结合，适合恢复状态型旅行。",
-      "bestFor": "需要降速放松的人",
+      "summary": "清晨竹林、河岸与老街的慢节奏体验非常完整。",
+      "bestFor": "第一次去京都但不想赶景点",
       "budget": "中等",
+      "duration": "2-3 天",
+      "tags": [
+        "城市文化",
+        "散步型",
+        "轻度疗愈"
+      ]
+    },
+    {
+      "name": "新加坡滨海湾到甘榜格南",
+      "location": "新加坡",
+      "season": "全年可去",
+      "summary": "现代建筑、夜景与街区生活感在短途中高度兼容。",
+      "bestFor": "第一次去东南亚城市",
+      "budget": "中高",
       "duration": "3 天",
       "tags": [
-        "自然户外",
-        "轻度疗愈",
-        "慢旅行"
+        "城市文化",
+        "夜游",
+        "美食"
       ]
     },
     {
@@ -261,31 +275,17 @@ window.TRAVEL_DATA = {
       ]
     },
     {
-      "name": "京都岚山与嵯峨野",
-      "location": "日本 · 京都",
+      "name": "大理洱海西岸",
+      "location": "中国 · 云南大理",
       "season": "春秋最佳",
-      "summary": "清晨竹林、河岸与老街的慢节奏体验非常完整。",
-      "bestFor": "第一次去京都但不想赶景点",
+      "summary": "慢节奏与风景结合，适合恢复状态型旅行。",
+      "bestFor": "需要降速放松的人",
       "budget": "中等",
-      "duration": "2-3 天",
+      "duration": "3 天",
       "tags": [
-        "城市文化",
-        "散步型",
-        "轻度疗愈"
-      ]
-    },
-    {
-      "name": "香港西贡海岸线",
-      "location": "中国香港 · 西贡",
-      "season": "秋冬舒适",
-      "summary": "海岸、村落与咖啡店组合适合周末快闪。",
-      "bestFor": "想短途换气但不想准备复杂",
-      "budget": "中等偏低",
-      "duration": "1-2 天",
-      "tags": [
-        "海边",
-        "周末快闪",
-        "自然户外"
+        "自然户外",
+        "轻度疗愈",
+        "慢旅行"
       ]
     }
   ],
@@ -371,6 +371,19 @@ window.TRAVEL_DATA = {
   ],
   "playModes": [
     {
+      "title": "市场寻味路线",
+      "destination": "台北 / 曼谷 / 里斯本",
+      "pace": "轻松具体",
+      "summary": "从市场和超市进入城市味觉地图，而不只打卡餐厅。",
+      "route": "早市 -> 食品店 -> 体验课 -> 晚餐",
+      "bestFor": "把吃当主线的用户",
+      "moods": [
+        "美食",
+        "城市文化",
+        "慢旅行"
+      ]
+    },
+    {
       "title": "目的地酒店玩法",
       "destination": "拉斯维加斯 / 海滨度假区",
       "pace": "轻决策高舒适",
@@ -410,16 +423,16 @@ window.TRAVEL_DATA = {
       ]
     },
     {
-      "title": "市场寻味路线",
-      "destination": "台北 / 曼谷 / 里斯本",
-      "pace": "轻松具体",
-      "summary": "从市场和超市进入城市味觉地图，而不只打卡餐厅。",
-      "route": "早市 -> 食品店 -> 体验课 -> 晚餐",
-      "bestFor": "把吃当主线的用户",
+      "title": "观赛或演出带着走",
+      "destination": "大阪 / 新加坡 / 纽约",
+      "pace": "高情绪价值",
+      "summary": "以赛事或演出为锚点，周边行程轻量串联。",
+      "route": "进场前街区 -> 赛事演出 -> 散场夜宵",
+      "bestFor": "兴趣事件驱动型用户",
       "moods": [
-        "美食",
-        "城市文化",
-        "慢旅行"
+        "朋友组队",
+        "城市娱乐",
+        "周末快闪"
       ]
     },
     {
@@ -434,19 +447,6 @@ window.TRAVEL_DATA = {
         "朋友组队",
         "城市娱乐"
       ]
-    },
-    {
-      "title": "观赛或演出带着走",
-      "destination": "大阪 / 新加坡 / 纽约",
-      "pace": "高情绪价值",
-      "summary": "以赛事或演出为锚点，周边行程轻量串联。",
-      "route": "进场前街区 -> 赛事演出 -> 散场夜宵",
-      "bestFor": "兴趣事件驱动型用户",
-      "moods": [
-        "朋友组队",
-        "城市娱乐",
-        "周末快闪"
-      ]
     }
   ],
   "trendSignals": [
@@ -455,16 +455,16 @@ window.TRAVEL_DATA = {
       "summary": "市场与超市型体验成为城市旅行新入口。"
     },
     {
-      "name": "Made-for-me Travel",
-      "summary": "旅行越来越强调个性表达与生活方式契合。"
-    },
-    {
       "name": "Destination Check-in",
       "summary": "住宿空间本身成为旅行内容的一部分。"
     },
     {
       "name": "Glowmads",
       "summary": "Wellness 与放松体验正在被当作独立出游理由。"
+    },
+    {
+      "name": "Made-for-me Travel",
+      "summary": "旅行越来越强调个性表达与生活方式契合。"
     }
   ],
   "sources": [
