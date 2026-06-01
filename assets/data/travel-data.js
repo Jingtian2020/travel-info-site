@@ -2,7 +2,7 @@ window.TRAVEL_DATA = {
   "site": {
     "name": "去玩实验室",
     "description": "每周更新的旅行玩乐情报站",
-    "lastUpdated": "2026-05-25",
+    "lastUpdated": "2026-06-01",
     "refreshCadence": "每周自动刷新一次",
     "metrics": [
       {
@@ -21,6 +21,19 @@ window.TRAVEL_DATA = {
   },
   "recentLaunches": [
     {
+      "id": "a-new-era-of-hollywood-in-germany-movie-park-germany-presents-its-new-exclusive-paramount-attraction-journey-to-the-forbidden-chamber-amusement-today",
+      "title": "A new era of Hollywood in Germany: Movie Park Germany presents its new exclusive Paramount attraction “Journey to the Forbidden Chamber”! - Amusement Today",
+      "location": "全球",
+      "freshness": "近期上新",
+      "summary": "A new era of Hollywood in Germany: Movie Park Germany presents its new exclusive Paramount attraction “Journey",
+      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
+      "tags": "自然户外",
+      "sourceName": "Amusement Today",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYzFlQ1lhMkFPV2d5dF9KTDE5NGxSQW5TY091REhldFNuaWlQTTBWTk80Skxwa09zUlRrUTR0YjdsMEpVQk1reFZkSHMtVHFCcXpYV1hhMm10Qm1CaDdvaFVLM1RiWmJuWkFHSVlMaEl1N0N4NUFfN2FjTUhUSkQ4M1ZrdmN2OWgtR0xDSVUxekNEZjY5OG9wcDNiemFEaVZJVUM0SjZjR3dXZGFWd0Itbk43Mnc5dkp6ZW50UmliQTZ1TWNpd1lvcmw3NXBtVWttSWVnTldtNkVkRlc4RUZjSkIyTTczR2ljMXZ0cjU4T0VYWFFFcFAzd1o3ZS1mZw?oc=5",
+      "publishedAt": "2026-04-29",
+      "bucket": "recent-launch"
+    },
+    {
       "id": "agoda-and-china-airlines-enhance-travel-rewards-with-new-hotel-booking-platform-staymiles-yahoo-finance",
       "title": "Agoda and China Airlines Enhance Travel Rewards with New Hotel Booking Platform, StayMiles - Yahoo Finance",
       "location": "全球",
@@ -31,19 +44,6 @@ window.TRAVEL_DATA = {
       "sourceName": "Yahoo Finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY3QtVmthSlJSOGYyUkV5cC01angwUWVFVDltU3JRc2dyZEsxWGVaaEljc1ZHWW90RzJMbllXd0dSSURpN09wUHh6V09vYU5NNzRVRTRDbFV0SmZKanFfYnpUNzRNZE9zZ3hXcVFGNmhHWmRZUE1DZngzNDZOSlc1Ym9wYzlxaHpQ?oc=5",
       "publishedAt": "2026-02-22",
-      "bucket": "recent-stay"
-    },
-    {
-      "id": "at-this-new-hotel-in-mexico-s-riviera-nayarit-you-can-have-it-all-vogue",
-      "title": "At This New Hotel in Mexico’s Riviera Nayarit, You Can Have It All - Vogue",
-      "location": "全球",
-      "freshness": "近月动态",
-      "summary": "At This New Hotel in Mexico’s Riviera Nayarit, You Can Have It All &nbsp;&nbsp; Vogue",
-      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "酒店上新",
-      "sourceName": "Vogue",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51M0NFUkE4SmlJY2hqYUJ6YUx1ckZVSkxaeVVWSHItZFZYY29zclNUM2V0TVZYLWstUVlTVzQtbkVpeTZEcEkxQjFIRlEzSnJ6QXJLNVpidkFnTmNSSzhSN054QjR4aXlybDcwNmdWQzgwQWEzMjVWQ2xB?oc=5",
-      "publishedAt": "2026-03-17",
       "bucket": "recent-stay"
     },
     {
@@ -60,6 +60,32 @@ window.TRAVEL_DATA = {
       "bucket": "recent-stay"
     },
     {
+      "id": "coronado-s-new-hotel-is-a-maximalist-dream-with-lush-lagoons-and-iridescent-clamshell-beds-los-angeles-times",
+      "title": "Coronado's new hotel is a maximalist dream — with lush lagoons and iridescent clamshell beds - Los Angeles Times",
+      "location": "美国",
+      "freshness": "近期上新",
+      "summary": "Coronado's new hotel is a maximalist dream — with lush lagoons and iridescent clamshell beds &nbsp;&nbsp; Los",
+      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
+      "tags": "酒店上新",
+      "sourceName": "Los Angeles Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUEJOTkQwdG5zOW5uVWpUdXF1ekxPdndwWTV5dmlKYkRjZ3JQNTlSQ2FWMkNvV1JjYW04NjNTSU1UeHdpcjNrd0Y0Z211a1NRMy1WUEJEU1FfN2VPOGRrdEt0V2xKc0MzSVNsM09ocWx5TVp5NGFZUkhSWEFxdTJlWndlWQ?oc=5",
+      "publishedAt": "2026-05-13",
+      "bucket": "recent-stay"
+    },
+    {
+      "id": "disney-world-opens-a-key-new-attraction-early-thestreet-com",
+      "title": "Disney World opens a key new attraction early - thestreet.com",
+      "location": "全球",
+      "freshness": "刚更新",
+      "summary": "Disney World opens a key new attraction early &nbsp;&nbsp; thestreet.com",
+      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
+      "tags": "新体验",
+      "sourceName": "thestreet.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaElMLWdQQllCM20ycUIyMkxOQjlualRkbHlmSElGZHpNRVlUTG1NdG52Q2pEVWh5QXI5UVlNTk1zRlhwVUIyVmFUWVA5c3N3V2xGLV9MWVVKY0NGUzlpOU1mYTVOX1FDOUJHYkNUSFJsazZOVWVER0VSdUYwUmlPNlN2Z0s?oc=5",
+      "publishedAt": "2026-05-25",
+      "bucket": "recent-launch"
+    },
+    {
       "id": "national-comedy-center-named-best-new-museum-in-the-country-by-usa-today-national-comedy-center-jamestown-ny",
       "title": "National Comedy Center Named Best New Museum in the Country by USA Today - National Comedy Center - Jamestown, NY",
       "location": "全球",
@@ -73,36 +99,10 @@ window.TRAVEL_DATA = {
       "bucket": "recent-culture"
     },
     {
-      "id": "new-attraction-at-howe-community-park-hopes-to-teach-children-rules-of-the-road-sacramento-bee",
-      "title": "New attraction at Howe Community Park hopes to teach children rules of the road - Sacramento Bee",
-      "location": "全球",
-      "freshness": "刚更新",
-      "summary": "New attraction at Howe Community Park hopes to teach children rules of the road &nbsp;&nbsp; Sacramento Bee",
-      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "自然户外",
-      "sourceName": "Sacramento Bee",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tSUk4bU5zckh1Q3BFZ1ZuWmdWT0FlcHdfRVhrTURIaDdRdTNvbVRHRUQzc3I3T2EwNUNGUTV2SENWZ1htaHdvWERmdzhwNl9IeWVCbzYwS19hUUo1VUl1TDRXSlY2UdIBZkFVX3lxTE9XbURUVkFkemxnNVUxdHBwTWh2T0M3SFFJbDVkMzlYamMtMmZmd3lCRFdsTElCbkRGRjUwVm5kdV9haEd6U3FBX096Ym9qM3dLT1Ria2s1N1BDc3k1ZDNmVjVBbkVvdw?oc=5",
-      "publishedAt": "2026-05-16",
-      "bucket": "recent-launch"
-    },
-    {
-      "id": "new-attraction-coming-to-kennedy-space-center-here-s-what-we-know-the-business-journals",
-      "title": "New attraction coming to Kennedy Space Center: Here's what we know - The Business Journals",
-      "location": "全球",
-      "freshness": "近月动态",
-      "summary": "New attraction coming to Kennedy Space Center: Here's what we know &nbsp;&nbsp; The Business Journals",
-      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "新体验",
-      "sourceName": "The Business Journals",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTTNuUkxfUW43UmRFeGhYbFZkem43Ul8yMGlNdHdLMjJYbVdyQ0lCT2VRbjc0bzBGSmVjQjVtNGhQbWlQOFRtelRNZ05qajJWeFFoOEkyT2YwbmJkdjFEQnViVWthUHNPanFZNjl6QUs1a0pKaUV1VkhzUUFqXzgxOEFhTFMxRjcwbURDbmQ2X01vdEoyM2QwZHA5Q2NXZ1VtYUNoYWllNkw?oc=5",
-      "publishedAt": "2026-02-19",
-      "bucket": "recent-launch"
-    },
-    {
       "id": "new-museum-store-doubles-the-retail-space-at-hall-of-fame-baseball-hall-of-fame",
       "title": "New Museum Store doubles the retail space at Hall of Fame - Baseball Hall of Fame",
       "location": "全球",
-      "freshness": "刚更新",
+      "freshness": "近期上新",
       "summary": "New Museum Store doubles the retail space at Hall of Fame &nbsp;&nbsp; Baseball Hall of Fame",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
       "tags": "城市文化",
@@ -120,7 +120,7 @@ window.TRAVEL_DATA = {
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
       "tags": "城市文化",
       "sourceName": "KY3",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbUJxclBDZEtpa2dCeGRJbnVUVElzZmIzS2hzdmpYRE5LQ0NKVlFKMEhaVzZQaXhoVkdTci0tV2R3ZUhDbjRVamJMc3h3OUUyalRPd285NEo3YXZWSHVkLWE3TWZpMFVlRUJ1cXdrYkVYTE5mZlZMbjdrT1JYZ0lzbFU2XzExUk8tRVVVRHZXQlpwQdIBpgFBVV95cUxOUThTZkNCVUZYcy1mQnoyT0ZnSWkxU2ZlYVhSbW5MOUNVREVnU01LVFlGY0JodkJGcDFhR3VhSEkzLTlVbWd6YlJGR2NTWU5HUHR4Q2dFWDdpenRjQ3NuOHB6dm5VcUZGQ3RKU2NUdHVBeEdHQWNvTC1uWkF0ZUV3SjJNalNiMVJrU3NXWFFGSFhBdEZmTF9PTWtrR3cyVG9VQjZSdjR3?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONU0ySzB3VnMtYWRtc18zZU90Tlo4dktVNXdsUEJSTm43QTdmc0xOZmM2b2MyNi1OWEZPc1BsVjdqNVFFRklVUElNMjJZSUY0VTc3d3hrV0wySWhLN3FFRURTYWlndGplRDdzY2pSbWhlcU9uRG5JMUc4RFVLUGowdVlYYUx3SVZiNHl3bm9nZ2FFV0xvR05Jb1NR?oc=5",
       "publishedAt": "2026-04-29",
       "bucket": "recent-launch"
     },
@@ -128,7 +128,7 @@ window.TRAVEL_DATA = {
       "id": "sports-illustrated-resorts-announces-new-resort-destination-near-lsu-in-baton-rouge-business-wire",
       "title": "Sports Illustrated Resorts Announces New Resort Destination Near LSU in Baton Rouge - Business Wire",
       "location": "全球",
-      "freshness": "近期上新",
+      "freshness": "近月动态",
       "summary": "Sports Illustrated Resorts Announces New Resort Destination Near LSU in Baton Rouge &nbsp;&nbsp; Business Wire",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
       "tags": [
@@ -229,31 +229,17 @@ window.TRAVEL_DATA = {
   ],
   "classicPicks": [
     {
-      "name": "新加坡滨海湾到甘榜格南",
-      "location": "新加坡",
-      "season": "全年可去",
-      "summary": "现代建筑、夜景与街区生活感在短途中高度兼容。",
-      "bestFor": "第一次去东南亚城市",
-      "budget": "中高",
-      "duration": "3 天",
+      "name": "香港西贡海岸线",
+      "location": "中国香港 · 西贡",
+      "season": "秋冬舒适",
+      "summary": "海岸、村落与咖啡店组合适合周末快闪。",
+      "bestFor": "想短途换气但不想准备复杂",
+      "budget": "中等偏低",
+      "duration": "1-2 天",
       "tags": [
-        "城市文化",
-        "夜游",
-        "美食"
-      ]
-    },
-    {
-      "name": "大理洱海西岸",
-      "location": "中国 · 云南大理",
-      "season": "春秋最佳",
-      "summary": "慢节奏与风景结合，适合恢复状态型旅行。",
-      "bestFor": "需要降速放松的人",
-      "budget": "中等",
-      "duration": "3 天",
-      "tags": [
-        "自然户外",
-        "轻度疗愈",
-        "慢旅行"
+        "海边",
+        "周末快闪",
+        "自然户外"
       ]
     },
     {
@@ -282,6 +268,20 @@ window.TRAVEL_DATA = {
         "城市文化",
         "散步型",
         "轻度疗愈"
+      ]
+    },
+    {
+      "name": "巴塞罗那旧城与海边线",
+      "location": "西班牙 · 巴塞罗那",
+      "season": "春夏最佳",
+      "summary": "建筑、海风和夜生活同时在线。",
+      "bestFor": "情侣或第一次欧洲城市度假",
+      "budget": "中高",
+      "duration": "4 天",
+      "tags": [
+        "海边",
+        "城市文化",
+        "夜游"
       ]
     }
   ],
@@ -367,29 +367,29 @@ window.TRAVEL_DATA = {
   ],
   "playModes": [
     {
-      "title": "自然景区 + 沉浸展演",
-      "destination": "新加坡 / 北海道 / 温哥华",
-      "pace": "层次感强",
-      "summary": "白天自然线，夜间沉浸体验线，形成节奏反差。",
-      "route": "户外主线 -> 晚间沉浸展 -> 夜间散步",
-      "bestFor": "亲子、情侣、轻探险用户",
+      "title": "晨型人能量路线",
+      "destination": "京都 / 大理 / 清迈",
+      "pace": "松弛恢复型",
+      "summary": "把最好的时段前置在早晨，回避人潮提升舒适度。",
+      "route": "晨间出发 -> 空景时段 -> 午后休整",
+      "bestFor": "怕拥挤、想慢一点",
       "moods": [
-        "自然户外",
-        "沉浸体验",
-        "亲子友好"
+        "轻度疗愈",
+        "一个人出走",
+        "自然户外"
       ]
     },
     {
-      "title": "市场寻味路线",
-      "destination": "台北 / 曼谷 / 里斯本",
-      "pace": "轻松具体",
-      "summary": "从市场和超市进入城市味觉地图，而不只打卡餐厅。",
-      "route": "早市 -> 食品店 -> 体验课 -> 晚餐",
-      "bestFor": "把吃当主线的用户",
+      "title": "夜游城市副本",
+      "destination": "新加坡 / 香港 / 东京",
+      "pace": "高记忆点",
+      "summary": "白天轻量主线，夜晚作为体验高光时段。",
+      "route": "观景点 -> 夜间展演 -> 夜宵散步",
+      "bestFor": "朋友组队、情侣快闪",
       "moods": [
-        "美食",
-        "城市文化",
-        "慢旅行"
+        "夜游",
+        "朋友组队",
+        "城市娱乐"
       ]
     },
     {
@@ -419,48 +419,48 @@ window.TRAVEL_DATA = {
       ]
     },
     {
-      "title": "晨型人能量路线",
-      "destination": "京都 / 大理 / 清迈",
-      "pace": "松弛恢复型",
-      "summary": "把最好的时段前置在早晨，回避人潮提升舒适度。",
-      "route": "晨间出发 -> 空景时段 -> 午后休整",
-      "bestFor": "怕拥挤、想慢一点",
+      "title": "自然景区 + 沉浸展演",
+      "destination": "新加坡 / 北海道 / 温哥华",
+      "pace": "层次感强",
+      "summary": "白天自然线，夜间沉浸体验线，形成节奏反差。",
+      "route": "户外主线 -> 晚间沉浸展 -> 夜间散步",
+      "bestFor": "亲子、情侣、轻探险用户",
       "moods": [
-        "轻度疗愈",
-        "一个人出走",
-        "自然户外"
+        "自然户外",
+        "沉浸体验",
+        "亲子友好"
       ]
     },
     {
-      "title": "夜游城市副本",
-      "destination": "新加坡 / 香港 / 东京",
-      "pace": "高记忆点",
-      "summary": "白天轻量主线，夜晚作为体验高光时段。",
-      "route": "观景点 -> 夜间展演 -> 夜宵散步",
-      "bestFor": "朋友组队、情侣快闪",
+      "title": "市场寻味路线",
+      "destination": "台北 / 曼谷 / 里斯本",
+      "pace": "轻松具体",
+      "summary": "从市场和超市进入城市味觉地图，而不只打卡餐厅。",
+      "route": "早市 -> 食品店 -> 体验课 -> 晚餐",
+      "bestFor": "把吃当主线的用户",
       "moods": [
-        "夜游",
-        "朋友组队",
-        "城市娱乐"
+        "美食",
+        "城市文化",
+        "慢旅行"
       ]
     }
   ],
   "trendSignals": [
     {
-      "name": "Shelf Discovery",
-      "summary": "市场与超市型体验成为城市旅行新入口。"
+      "name": "Made-for-me Travel",
+      "summary": "旅行越来越强调个性表达与生活方式契合。"
     },
     {
       "name": "Destination Check-in",
       "summary": "住宿空间本身成为旅行内容的一部分。"
     },
     {
-      "name": "Glowmads",
-      "summary": "Wellness 与放松体验正在被当作独立出游理由。"
+      "name": "Shelf Discovery",
+      "summary": "市场与超市型体验成为城市旅行新入口。"
     },
     {
-      "name": "Made-for-me Travel",
-      "summary": "旅行越来越强调个性表达与生活方式契合。"
+      "name": "Glowmads",
+      "summary": "Wellness 与放松体验正在被当作独立出游理由。"
     }
   ],
   "sources": [
