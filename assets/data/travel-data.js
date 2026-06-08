@@ -2,7 +2,7 @@ window.TRAVEL_DATA = {
   "site": {
     "name": "去玩实验室",
     "description": "每周更新的旅行玩乐情报站",
-    "lastUpdated": "2026-06-01",
+    "lastUpdated": "2026-06-08",
     "refreshCadence": "每周自动刷新一次",
     "metrics": [
       {
@@ -47,6 +47,19 @@ window.TRAVEL_DATA = {
       "bucket": "recent-stay"
     },
     {
+      "id": "cathay-members-choice-awards-2026-asia-s-best-new-attraction-cathay-us-cathay-pacific",
+      "title": "Cathay Members’ Choice Awards 2026: Asia’s best new attraction | Cathay US - Cathay Pacific",
+      "location": "全球",
+      "freshness": "刚更新",
+      "summary": "Cathay Members’ Choice Awards 2026: Asia’s best new attraction | Cathay US &nbsp;&nbsp; Cathay Pacific",
+      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
+      "tags": "新体验",
+      "sourceName": "Cathay Pacific",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSVQtNmd0YVliNHlhMXdUVHhuS3AzbGpXNXp2VGFtelNBaGE2RkJmMGRyTks4aTZ0SWwtbDZXUHlaUVRoMXBzcmtfcm1JcUVFWWJHSHNVc3pyTVhCZDF6a1A3TVVMNmpsY3ZnN3FIZm9aejlpa1BPWnd4akl2X1I4VzgzNzJWcWtMcFBhblUwdFo4X21uTXpCdmtXUUpaZw?oc=5",
+      "publishedAt": "2026-05-31",
+      "bucket": "recent-launch"
+    },
+    {
       "id": "chase-travel-adds-new-hotel-price-match-guarantee-for-some-thrifty-traveler",
       "title": "Chase Travel℠ Adds New Hotel Price-Match Guarantee … For Some - Thrifty Traveler",
       "location": "全球",
@@ -60,30 +73,46 @@ window.TRAVEL_DATA = {
       "bucket": "recent-stay"
     },
     {
-      "id": "coronado-s-new-hotel-is-a-maximalist-dream-with-lush-lagoons-and-iridescent-clamshell-beds-los-angeles-times",
-      "title": "Coronado's new hotel is a maximalist dream — with lush lagoons and iridescent clamshell beds - Los Angeles Times",
-      "location": "美国",
-      "freshness": "近期上新",
-      "summary": "Coronado's new hotel is a maximalist dream — with lush lagoons and iridescent clamshell beds &nbsp;&nbsp; Los",
-      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "酒店上新",
-      "sourceName": "Los Angeles Times",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUEJOTkQwdG5zOW5uVWpUdXF1ekxPdndwWTV5dmlKYkRjZ3JQNTlSQ2FWMkNvV1JjYW04NjNTSU1UeHdpcjNrd0Y0Z211a1NRMy1WUEJEU1FfN2VPOGRrdEt0V2xKc0MzSVNsM09ocWx5TVp5NGFZUkhSWEFxdTJlWndlWQ?oc=5",
-      "publishedAt": "2026-05-13",
-      "bucket": "recent-stay"
-    },
-    {
-      "id": "disney-world-opens-a-key-new-attraction-early-thestreet-com",
-      "title": "Disney World opens a key new attraction early - thestreet.com",
-      "location": "全球",
+      "id": "disney-world-opens-a-key-new-attraction-early-yahoo-finance-singapore",
+      "title": "Disney World opens a key new attraction early - Yahoo Finance Singapore",
+      "location": "新加坡",
       "freshness": "刚更新",
-      "summary": "Disney World opens a key new attraction early &nbsp;&nbsp; thestreet.com",
+      "summary": "Disney World opens a key new attraction early &nbsp;&nbsp; Yahoo Finance Singapore",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
       "tags": "新体验",
-      "sourceName": "thestreet.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaElMLWdQQllCM20ycUIyMkxOQjlualRkbHlmSElGZHpNRVlUTG1NdG52Q2pEVWh5QXI5UVlNTk1zRlhwVUIyVmFUWVA5c3N3V2xGLV9MWVVKY0NGUzlpOU1mYTVOX1FDOUJHYkNUSFJsazZOVWVER0VSdUYwUmlPNlN2Z0s?oc=5",
+      "sourceName": "Yahoo Finance Singapore",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUVNkTlhQRkFvdzU1dnM1ZEdJbTJEVkdxdUdFSkphZFRnM1paLWg5TlRDNHNwMHpsUHU5YjMzeHJIZWNHMlFsSFBleHJuREJ3QzI1emJQZ1Y3Y0xYdDZ3ak5QMm43QWNDeEE0M3dzYi0ydm0zT0VYWUNTT1k3TmF6VTFPdTFsdGZqNXc?oc=5",
       "publishedAt": "2026-05-25",
       "bucket": "recent-launch"
+    },
+    {
+      "id": "harriet-tubman-museum-in-maryland-prepares-for-grand-reopening-with-new-immersive-experience-wtop",
+      "title": "Harriet Tubman Museum in Maryland prepares for grand reopening with new, immersive experience - WTOP",
+      "location": "全球",
+      "freshness": "刚更新",
+      "summary": "Harriet Tubman Museum in Maryland prepares for grand reopening with new, immersive experience &nbsp;&nbsp; WTO",
+      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
+      "tags": [
+        "城市文化",
+        "沉浸体验"
+      ],
+      "sourceName": "WTOP",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOXJQbTIxQ3o0ZzYxMy1IbENOREtibUFiTzkwN05NUzVFWjNSODZNbzYzNlZLaW5Yb1RsUFUxZkVzNG54enJja0owbWJMRE1GTThqdjdraUU4b09LbDhFVGVSNDhaVlhRakg0NjVEbGRJOUpRRkRjanhndmkzY2NBeXVJQ1dBOG43VW43WEc1a0hQT0FkR0tINUp3MzRMVnV6bWlEczl2emhndzY1VmVEczdyWkZtbkk?oc=5",
+      "publishedAt": "2026-06-04",
+      "bucket": "recent-launch"
+    },
+    {
+      "id": "nadal-reflects-on-emotional-career-at-his-new-museum-atp-tour",
+      "title": "Nadal reflects on 'emotional' career at his new museum - ATP Tour",
+      "location": "全球",
+      "freshness": "刚更新",
+      "summary": "Nadal reflects on 'emotional' career at his new museum &nbsp;&nbsp; ATP Tour",
+      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
+      "tags": "城市文化",
+      "sourceName": "ATP Tour",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLU1KTHo1YVEtV3VtUXZxYktCNGo2cUd4MmlSSTBzbU5feEgxU09uXzdkODEtOEJCbHVTWVp4LXM0RmxmVWNhaDJQcjdrTVQ2cUhwTE52OFBSRllaRjlXSnZDTDRBeFB6VXFfRndlWXZ5YUNZWDBtSmt6c0tWbXhXUVdSYUNZVUltbERRQ2JR?oc=5",
+      "publishedAt": "2026-06-05",
+      "bucket": "recent-culture"
     },
     {
       "id": "national-comedy-center-named-best-new-museum-in-the-country-by-usa-today-national-comedy-center-jamestown-ny",
@@ -99,45 +128,16 @@ window.TRAVEL_DATA = {
       "bucket": "recent-culture"
     },
     {
-      "id": "new-museum-store-doubles-the-retail-space-at-hall-of-fame-baseball-hall-of-fame",
-      "title": "New Museum Store doubles the retail space at Hall of Fame - Baseball Hall of Fame",
-      "location": "全球",
-      "freshness": "近期上新",
-      "summary": "New Museum Store doubles the retail space at Hall of Fame &nbsp;&nbsp; Baseball Hall of Fame",
-      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "城市文化",
-      "sourceName": "Baseball Hall of Fame",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfNDcxc1J0Qk9qSzdJemlrM0F6djlyazFQT0ZrS2lNUzJsSkR5a09TcWU1NDlsMG5ZTnJkdkRtRUQ1ZnN6Y3VpUmxZaXBmdHNSNVdxNlBEaGc0S0RCMmMtTVc5X3dZZDhKWGlfYVpMYTVTcnRWcEtiZQ?oc=5",
-      "publishedAt": "2026-05-11",
-      "bucket": "recent-culture"
-    },
-    {
-      "id": "route-66-centennial-traveling-exhibit-debuts-in-springfield-ky3",
-      "title": "Route 66 Centennial Traveling Exhibit debuts in Springfield - KY3",
-      "location": "全球",
-      "freshness": "近期上新",
-      "summary": "Route 66 Centennial Traveling Exhibit debuts in Springfield &nbsp;&nbsp; KY3",
-      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "城市文化",
-      "sourceName": "KY3",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONU0ySzB3VnMtYWRtc18zZU90Tlo4dktVNXdsUEJSTm43QTdmc0xOZmM2b2MyNi1OWEZPc1BsVjdqNVFFRklVUElNMjJZSUY0VTc3d3hrV0wySWhLN3FFRURTYWlndGplRDdzY2pSbWhlcU9uRG5JMUc4RFVLUGowdVlYYUx3SVZiNHl3bm9nZ2FFV0xvR05Jb1NR?oc=5",
-      "publishedAt": "2026-04-29",
-      "bucket": "recent-launch"
-    },
-    {
-      "id": "sports-illustrated-resorts-announces-new-resort-destination-near-lsu-in-baton-rouge-business-wire",
-      "title": "Sports Illustrated Resorts Announces New Resort Destination Near LSU in Baton Rouge - Business Wire",
+      "id": "navan-unveils-new-hotel-catalog-infrastructure-business-travel-executive",
+      "title": "Navan Unveils New Hotel Catalog Infrastructure - Business Travel Executive",
       "location": "全球",
       "freshness": "近月动态",
-      "summary": "Sports Illustrated Resorts Announces New Resort Destination Near LSU in Baton Rouge &nbsp;&nbsp; Business Wire",
+      "summary": "Navan Unveils New Hotel Catalog Infrastructure &nbsp;&nbsp; Business Travel Executive",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": [
-        "酒店上新",
-        "运动社交"
-      ],
-      "sourceName": "Business Wire",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdk5ZOHl2anYtTDRmT0tUazhVdHZCbG40ZmV5Q2tNS09UWnZLNEhDNHZmbS1iMkozWWhyNlhyblZTRjZvX2VuVm5wZGF3RWd6TGxtZGlJNXlXT0VxN2ItQTNOWnFEcFFkYUhRM05xSUJuampELURZcGNUSFBvQTJiOU14akNpTTBjNkVOS19hREJKa1pIelVVcnptMExqaHZod2JuOWNkV0VoVTZwZElzbGdxX2x5RWR6NXYxVXRJX2Z2SjlaSW5leXVLYmNGUUExMndIOGtpUQ?oc=5",
-      "publishedAt": "2026-04-15",
+      "tags": "酒店上新",
+      "sourceName": "Business Travel Executive",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNG1CSTZHUmZBQVZzNWZQaWUxeVdPRlRnRFp0aUJVc09sdXB4QVZreDNqS2doSkItR2V3RFNGSTVZbEt0V0FkbU9rdG9JRUxkeVZ5bEtHT3h5VWM2UEk0czRvV09lYXR0NlMzWGRxcVppa0Y5ZHZfX0c0aDJ0R0lTTHVweUVHMTAtTjBvOVVreFNpSkZtd0Jj?oc=5",
+      "publishedAt": "2026-03-16",
       "bucket": "recent-stay"
     }
   ],
@@ -229,6 +229,20 @@ window.TRAVEL_DATA = {
   ],
   "classicPicks": [
     {
+      "name": "巴塞罗那旧城与海边线",
+      "location": "西班牙 · 巴塞罗那",
+      "season": "春夏最佳",
+      "summary": "建筑、海风和夜生活同时在线。",
+      "bestFor": "情侣或第一次欧洲城市度假",
+      "budget": "中高",
+      "duration": "4 天",
+      "tags": [
+        "海边",
+        "城市文化",
+        "夜游"
+      ]
+    },
+    {
       "name": "香港西贡海岸线",
       "location": "中国香港 · 西贡",
       "season": "秋冬舒适",
@@ -243,15 +257,15 @@ window.TRAVEL_DATA = {
       ]
     },
     {
-      "name": "清迈古城与山边咖啡路线",
-      "location": "泰国 · 清迈",
-      "season": "11 月到次年 2 月",
-      "summary": "寺庙、手作、咖啡与自然景串联轻松。",
-      "bestFor": "独自旅行或疗愈型出游",
-      "budget": "中等偏低",
+      "name": "大理洱海西岸",
+      "location": "中国 · 云南大理",
+      "season": "春秋最佳",
+      "summary": "慢节奏与风景结合，适合恢复状态型旅行。",
+      "bestFor": "需要降速放松的人",
+      "budget": "中等",
       "duration": "3 天",
       "tags": [
-        "手作",
+        "自然户外",
         "轻度疗愈",
         "慢旅行"
       ]
@@ -268,20 +282,6 @@ window.TRAVEL_DATA = {
         "城市文化",
         "散步型",
         "轻度疗愈"
-      ]
-    },
-    {
-      "name": "巴塞罗那旧城与海边线",
-      "location": "西班牙 · 巴塞罗那",
-      "season": "春夏最佳",
-      "summary": "建筑、海风和夜生活同时在线。",
-      "bestFor": "情侣或第一次欧洲城市度假",
-      "budget": "中高",
-      "duration": "4 天",
-      "tags": [
-        "海边",
-        "城市文化",
-        "夜游"
       ]
     }
   ],
@@ -367,6 +367,19 @@ window.TRAVEL_DATA = {
   ],
   "playModes": [
     {
+      "title": "目的地酒店玩法",
+      "destination": "拉斯维加斯 / 海滨度假区",
+      "pace": "轻决策高舒适",
+      "summary": "把酒店升级为行程主角，外出只补少量重点点位。",
+      "route": "入住体验型酒店 -> 在地停留 -> 1-2 个外出点",
+      "bestFor": "短假、庆祝型出游",
+      "moods": [
+        "目的地酒店",
+        "情侣约会",
+        "周末快闪"
+      ]
+    },
+    {
       "title": "晨型人能量路线",
       "destination": "京都 / 大理 / 清迈",
       "pace": "松弛恢复型",
@@ -380,16 +393,16 @@ window.TRAVEL_DATA = {
       ]
     },
     {
-      "title": "夜游城市副本",
-      "destination": "新加坡 / 香港 / 东京",
-      "pace": "高记忆点",
-      "summary": "白天轻量主线，夜晚作为体验高光时段。",
-      "route": "观景点 -> 夜间展演 -> 夜宵散步",
-      "bestFor": "朋友组队、情侣快闪",
+      "title": "市场寻味路线",
+      "destination": "台北 / 曼谷 / 里斯本",
+      "pace": "轻松具体",
+      "summary": "从市场和超市进入城市味觉地图，而不只打卡餐厅。",
+      "route": "早市 -> 食品店 -> 体验课 -> 晚餐",
+      "bestFor": "把吃当主线的用户",
       "moods": [
-        "夜游",
-        "朋友组队",
-        "城市娱乐"
+        "美食",
+        "城市文化",
+        "慢旅行"
       ]
     },
     {
@@ -402,19 +415,6 @@ window.TRAVEL_DATA = {
       "moods": [
         "朋友组队",
         "城市娱乐",
-        "周末快闪"
-      ]
-    },
-    {
-      "title": "目的地酒店玩法",
-      "destination": "拉斯维加斯 / 海滨度假区",
-      "pace": "轻决策高舒适",
-      "summary": "把酒店升级为行程主角，外出只补少量重点点位。",
-      "route": "入住体验型酒店 -> 在地停留 -> 1-2 个外出点",
-      "bestFor": "短假、庆祝型出游",
-      "moods": [
-        "目的地酒店",
-        "情侣约会",
         "周末快闪"
       ]
     },
@@ -432,24 +432,20 @@ window.TRAVEL_DATA = {
       ]
     },
     {
-      "title": "市场寻味路线",
-      "destination": "台北 / 曼谷 / 里斯本",
-      "pace": "轻松具体",
-      "summary": "从市场和超市进入城市味觉地图，而不只打卡餐厅。",
-      "route": "早市 -> 食品店 -> 体验课 -> 晚餐",
-      "bestFor": "把吃当主线的用户",
+      "title": "夜游城市副本",
+      "destination": "新加坡 / 香港 / 东京",
+      "pace": "高记忆点",
+      "summary": "白天轻量主线，夜晚作为体验高光时段。",
+      "route": "观景点 -> 夜间展演 -> 夜宵散步",
+      "bestFor": "朋友组队、情侣快闪",
       "moods": [
-        "美食",
-        "城市文化",
-        "慢旅行"
+        "夜游",
+        "朋友组队",
+        "城市娱乐"
       ]
     }
   ],
   "trendSignals": [
-    {
-      "name": "Made-for-me Travel",
-      "summary": "旅行越来越强调个性表达与生活方式契合。"
-    },
     {
       "name": "Destination Check-in",
       "summary": "住宿空间本身成为旅行内容的一部分。"
@@ -457,6 +453,10 @@ window.TRAVEL_DATA = {
     {
       "name": "Shelf Discovery",
       "summary": "市场与超市型体验成为城市旅行新入口。"
+    },
+    {
+      "name": "Made-for-me Travel",
+      "summary": "旅行越来越强调个性表达与生活方式契合。"
     },
     {
       "name": "Glowmads",
