@@ -2,7 +2,7 @@ window.TRAVEL_DATA = {
   "site": {
     "name": "去玩实验室",
     "description": "每周更新的旅行玩乐情报站",
-    "lastUpdated": "2026-06-08",
+    "lastUpdated": "2026-06-15",
     "refreshCadence": "每周自动刷新一次",
     "metrics": [
       {
@@ -21,19 +21,6 @@ window.TRAVEL_DATA = {
   },
   "recentLaunches": [
     {
-      "id": "a-new-era-of-hollywood-in-germany-movie-park-germany-presents-its-new-exclusive-paramount-attraction-journey-to-the-forbidden-chamber-amusement-today",
-      "title": "A new era of Hollywood in Germany: Movie Park Germany presents its new exclusive Paramount attraction “Journey to the Forbidden Chamber”! - Amusement Today",
-      "location": "全球",
-      "freshness": "近期上新",
-      "summary": "A new era of Hollywood in Germany: Movie Park Germany presents its new exclusive Paramount attraction “Journey",
-      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "自然户外",
-      "sourceName": "Amusement Today",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYzFlQ1lhMkFPV2d5dF9KTDE5NGxSQW5TY091REhldFNuaWlQTTBWTk80Skxwa09zUlRrUTR0YjdsMEpVQk1reFZkSHMtVHFCcXpYV1hhMm10Qm1CaDdvaFVLM1RiWmJuWkFHSVlMaEl1N0N4NUFfN2FjTUhUSkQ4M1ZrdmN2OWgtR0xDSVUxekNEZjY5OG9wcDNiemFEaVZJVUM0SjZjR3dXZGFWd0Itbk43Mnc5dkp6ZW50UmliQTZ1TWNpd1lvcmw3NXBtVWttSWVnTldtNkVkRlc4RUZjSkIyTTczR2ljMXZ0cjU4T0VYWFFFcFAzd1o3ZS1mZw?oc=5",
-      "publishedAt": "2026-04-29",
-      "bucket": "recent-launch"
-    },
-    {
       "id": "agoda-and-china-airlines-enhance-travel-rewards-with-new-hotel-booking-platform-staymiles-yahoo-finance",
       "title": "Agoda and China Airlines Enhance Travel Rewards with New Hotel Booking Platform, StayMiles - Yahoo Finance",
       "location": "全球",
@@ -47,15 +34,15 @@ window.TRAVEL_DATA = {
       "bucket": "recent-stay"
     },
     {
-      "id": "cathay-members-choice-awards-2026-asia-s-best-new-attraction-cathay-us-cathay-pacific",
-      "title": "Cathay Members’ Choice Awards 2026: Asia’s best new attraction | Cathay US - Cathay Pacific",
+      "id": "cathay-members-choice-awards-2026-asia-s-best-new-attraction-cathay-th-cathay-pacific",
+      "title": "Cathay Members’ Choice Awards 2026: Asia’s best new attraction | Cathay TH - Cathay Pacific",
       "location": "全球",
       "freshness": "刚更新",
-      "summary": "Cathay Members’ Choice Awards 2026: Asia’s best new attraction | Cathay US &nbsp;&nbsp; Cathay Pacific",
+      "summary": "Cathay Members’ Choice Awards 2026: Asia’s best new attraction | Cathay TH &nbsp;&nbsp; Cathay Pacific",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
       "tags": "新体验",
       "sourceName": "Cathay Pacific",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSVQtNmd0YVliNHlhMXdUVHhuS3AzbGpXNXp2VGFtelNBaGE2RkJmMGRyTks4aTZ0SWwtbDZXUHlaUVRoMXBzcmtfcm1JcUVFWWJHSHNVc3pyTVhCZDF6a1A3TVVMNmpsY3ZnN3FIZm9aejlpa1BPWnd4akl2X1I4VzgzNzJWcWtMcFBhblUwdFo4X21uTXpCdmtXUUpaZw?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeDZCMk9JM1h1Z2RmX3c1bkVkd0FlUTFxNEJNLXZLeVNLWVZmNk1HM3ZoNTlZbVBWd2w3NzVHM0kzeGtDczBoM2RvZ19EQWpYVm5QSy1YM2dpcXhJY2t4d2JFd24wZzVkVko4ejE2X0JEUWFkLTFmVUllVUdqY2drMjlqM2o1bnNkWTA1X3ZibXBSRG1Fc3R3RThWX3p2QQ?oc=5",
       "publishedAt": "2026-05-31",
       "bucket": "recent-launch"
     },
@@ -73,15 +60,15 @@ window.TRAVEL_DATA = {
       "bucket": "recent-stay"
     },
     {
-      "id": "disney-world-opens-a-key-new-attraction-early-yahoo-finance-singapore",
-      "title": "Disney World opens a key new attraction early - Yahoo Finance Singapore",
-      "location": "新加坡",
-      "freshness": "刚更新",
-      "summary": "Disney World opens a key new attraction early &nbsp;&nbsp; Yahoo Finance Singapore",
+      "id": "disney-world-opens-a-key-new-attraction-early-thestreet-com",
+      "title": "Disney World opens a key new attraction early - thestreet.com",
+      "location": "全球",
+      "freshness": "近期上新",
+      "summary": "Disney World opens a key new attraction early &nbsp;&nbsp; thestreet.com",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
       "tags": "新体验",
-      "sourceName": "Yahoo Finance Singapore",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUVNkTlhQRkFvdzU1dnM1ZEdJbTJEVkdxdUdFSkphZFRnM1paLWg5TlRDNHNwMHpsUHU5YjMzeHJIZWNHMlFsSFBleHJuREJ3QzI1emJQZ1Y3Y0xYdDZ3ak5QMm43QWNDeEE0M3dzYi0ydm0zT0VYWUNTT1k3TmF6VTFPdTFsdGZqNXc?oc=5",
+      "sourceName": "thestreet.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaElMLWdQQllCM20ycUIyMkxOQjlualRkbHlmSElGZHpNRVlUTG1NdG52Q2pEVWh5QXI5UVlNTk1zRlhwVUIyVmFUWVA5c3N3V2xGLV9MWVVKY0NGUzlpOU1mYTVOX1FDOUJHYkNUSFJsazZOVWVER0VSdUYwUmlPNlN2Z0s?oc=5",
       "publishedAt": "2026-05-25",
       "bucket": "recent-launch"
     },
@@ -98,20 +85,20 @@ window.TRAVEL_DATA = {
       ],
       "sourceName": "WTOP",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOXJQbTIxQ3o0ZzYxMy1IbENOREtibUFiTzkwN05NUzVFWjNSODZNbzYzNlZLaW5Yb1RsUFUxZkVzNG54enJja0owbWJMRE1GTThqdjdraUU4b09LbDhFVGVSNDhaVlhRakg0NjVEbGRJOUpRRkRjanhndmkzY2NBeXVJQ1dBOG43VW43WEc1a0hQT0FkR0tINUp3MzRMVnV6bWlEczl2emhndzY1VmVEczdyWkZtbkk?oc=5",
-      "publishedAt": "2026-06-04",
+      "publishedAt": "2026-06-03",
       "bucket": "recent-launch"
     },
     {
-      "id": "nadal-reflects-on-emotional-career-at-his-new-museum-atp-tour",
-      "title": "Nadal reflects on 'emotional' career at his new museum - ATP Tour",
+      "id": "motown-museum-expansion-tour-reveals-what-visitors-will-see-detroit-free-press",
+      "title": "Motown Museum expansion tour reveals what visitors will see - Detroit Free Press",
       "location": "全球",
       "freshness": "刚更新",
-      "summary": "Nadal reflects on 'emotional' career at his new museum &nbsp;&nbsp; ATP Tour",
+      "summary": "Motown Museum expansion tour reveals what visitors will see &nbsp;&nbsp; Detroit Free Press",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
       "tags": "城市文化",
-      "sourceName": "ATP Tour",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLU1KTHo1YVEtV3VtUXZxYktCNGo2cUd4MmlSSTBzbU5feEgxU09uXzdkODEtOEJCbHVTWVp4LXM0RmxmVWNhaDJQcjdrTVQ2cUhwTE52OFBSRllaRjlXSnZDTDRBeFB6VXFfRndlWXZ5YUNZWDBtSmt6c0tWbXhXUVdSYUNZVUltbERRQ2JR?oc=5",
-      "publishedAt": "2026-06-05",
+      "sourceName": "Detroit Free Press",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX0NMRnpKNUxUc1lzTFpXYWhDSFAzdFVSTVl3YXNBUlBuS2p5ODJ2a2FZSnZ4TzRpejV0ZWhwZEdfTktSdjRNU21iY1BhMGJHTktBUnd5VExPSGpfRUNBRU5yTi1lVm9yUVFfMlBmNHNheGUwZ3VtbXdUbFBkOXpUZE1TbjRSN0p6cXJ5aEo4WHpqbDZTMnhhYS1HblhrOFAxSTlKOHFyZTZ0TFNLazhFWnFBcTRWQmllbmE5T2pJLWRSeWJPVVE0?oc=5",
+      "publishedAt": "2026-06-14",
       "bucket": "recent-culture"
     },
     {
@@ -138,6 +125,19 @@ window.TRAVEL_DATA = {
       "sourceName": "Business Travel Executive",
       "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNG1CSTZHUmZBQVZzNWZQaWUxeVdPRlRnRFp0aUJVc09sdXB4QVZreDNqS2doSkItR2V3RFNGSTVZbEt0V0FkbU9rdG9JRUxkeVZ5bEtHT3h5VWM2UEk0czRvV09lYXR0NlMzWGRxcVppa0Y5ZHZfX0c0aDJ0R0lTTHVweUVHMTAtTjBvOVVreFNpSkZtd0Jj?oc=5",
       "publishedAt": "2026-03-16",
+      "bucket": "recent-stay"
+    },
+    {
+      "id": "new-hotel-in-new-york-s-hamptons-opens-next-week-travel-weekly",
+      "title": "New hotel in New York's Hamptons opens next week - Travel Weekly",
+      "location": "美国",
+      "freshness": "近期上新",
+      "summary": "New hotel in New York's Hamptons opens next week &nbsp;&nbsp; Travel Weekly",
+      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
+      "tags": "酒店上新",
+      "sourceName": "Travel Weekly",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSlR4eFpVNC1IODBVdWdmNnNkdGhsanBvZEgxbnUxUVNXaVZzN3YyRGRjYlcwcllPRFEwX1JQcDJOcVlwTVBOYklBakZUUnlNZVNfUnNEUDJ2dWY4LVBSNGdTV0VoNjFfYjZoeEpZX2NCWjNXUVJPWm83X2Fjb01XWXZtY1VWM0FDb3d4VWl2aG9JaUMweVE?oc=5",
+      "publishedAt": "2026-05-27",
       "bucket": "recent-stay"
     }
   ],
@@ -229,20 +229,6 @@ window.TRAVEL_DATA = {
   ],
   "classicPicks": [
     {
-      "name": "巴塞罗那旧城与海边线",
-      "location": "西班牙 · 巴塞罗那",
-      "season": "春夏最佳",
-      "summary": "建筑、海风和夜生活同时在线。",
-      "bestFor": "情侣或第一次欧洲城市度假",
-      "budget": "中高",
-      "duration": "4 天",
-      "tags": [
-        "海边",
-        "城市文化",
-        "夜游"
-      ]
-    },
-    {
       "name": "香港西贡海岸线",
       "location": "中国香港 · 西贡",
       "season": "秋冬舒适",
@@ -257,31 +243,45 @@ window.TRAVEL_DATA = {
       ]
     },
     {
-      "name": "大理洱海西岸",
-      "location": "中国 · 云南大理",
-      "season": "春秋最佳",
-      "summary": "慢节奏与风景结合，适合恢复状态型旅行。",
-      "bestFor": "需要降速放松的人",
-      "budget": "中等",
+      "name": "清迈古城与山边咖啡路线",
+      "location": "泰国 · 清迈",
+      "season": "11 月到次年 2 月",
+      "summary": "寺庙、手作、咖啡与自然景串联轻松。",
+      "bestFor": "独自旅行或疗愈型出游",
+      "budget": "中等偏低",
       "duration": "3 天",
       "tags": [
-        "自然户外",
+        "手作",
         "轻度疗愈",
         "慢旅行"
       ]
     },
     {
-      "name": "京都岚山与嵯峨野",
-      "location": "日本 · 京都",
-      "season": "春秋最佳",
-      "summary": "清晨竹林、河岸与老街的慢节奏体验非常完整。",
-      "bestFor": "第一次去京都但不想赶景点",
-      "budget": "中等",
-      "duration": "2-3 天",
+      "name": "巴塞罗那旧城与海边线",
+      "location": "西班牙 · 巴塞罗那",
+      "season": "春夏最佳",
+      "summary": "建筑、海风和夜生活同时在线。",
+      "bestFor": "情侣或第一次欧洲城市度假",
+      "budget": "中高",
+      "duration": "4 天",
+      "tags": [
+        "海边",
+        "城市文化",
+        "夜游"
+      ]
+    },
+    {
+      "name": "新加坡滨海湾到甘榜格南",
+      "location": "新加坡",
+      "season": "全年可去",
+      "summary": "现代建筑、夜景与街区生活感在短途中高度兼容。",
+      "bestFor": "第一次去东南亚城市",
+      "budget": "中高",
+      "duration": "3 天",
       "tags": [
         "城市文化",
-        "散步型",
-        "轻度疗愈"
+        "夜游",
+        "美食"
       ]
     }
   ],
@@ -367,42 +367,16 @@ window.TRAVEL_DATA = {
   ],
   "playModes": [
     {
-      "title": "目的地酒店玩法",
-      "destination": "拉斯维加斯 / 海滨度假区",
-      "pace": "轻决策高舒适",
-      "summary": "把酒店升级为行程主角，外出只补少量重点点位。",
-      "route": "入住体验型酒店 -> 在地停留 -> 1-2 个外出点",
-      "bestFor": "短假、庆祝型出游",
+      "title": "夜游城市副本",
+      "destination": "新加坡 / 香港 / 东京",
+      "pace": "高记忆点",
+      "summary": "白天轻量主线，夜晚作为体验高光时段。",
+      "route": "观景点 -> 夜间展演 -> 夜宵散步",
+      "bestFor": "朋友组队、情侣快闪",
       "moods": [
-        "目的地酒店",
-        "情侣约会",
-        "周末快闪"
-      ]
-    },
-    {
-      "title": "晨型人能量路线",
-      "destination": "京都 / 大理 / 清迈",
-      "pace": "松弛恢复型",
-      "summary": "把最好的时段前置在早晨，回避人潮提升舒适度。",
-      "route": "晨间出发 -> 空景时段 -> 午后休整",
-      "bestFor": "怕拥挤、想慢一点",
-      "moods": [
-        "轻度疗愈",
-        "一个人出走",
-        "自然户外"
-      ]
-    },
-    {
-      "title": "市场寻味路线",
-      "destination": "台北 / 曼谷 / 里斯本",
-      "pace": "轻松具体",
-      "summary": "从市场和超市进入城市味觉地图，而不只打卡餐厅。",
-      "route": "早市 -> 食品店 -> 体验课 -> 晚餐",
-      "bestFor": "把吃当主线的用户",
-      "moods": [
-        "美食",
-        "城市文化",
-        "慢旅行"
+        "夜游",
+        "朋友组队",
+        "城市娱乐"
       ]
     },
     {
@@ -432,16 +406,42 @@ window.TRAVEL_DATA = {
       ]
     },
     {
-      "title": "夜游城市副本",
-      "destination": "新加坡 / 香港 / 东京",
-      "pace": "高记忆点",
-      "summary": "白天轻量主线，夜晚作为体验高光时段。",
-      "route": "观景点 -> 夜间展演 -> 夜宵散步",
-      "bestFor": "朋友组队、情侣快闪",
+      "title": "目的地酒店玩法",
+      "destination": "拉斯维加斯 / 海滨度假区",
+      "pace": "轻决策高舒适",
+      "summary": "把酒店升级为行程主角，外出只补少量重点点位。",
+      "route": "入住体验型酒店 -> 在地停留 -> 1-2 个外出点",
+      "bestFor": "短假、庆祝型出游",
       "moods": [
-        "夜游",
-        "朋友组队",
-        "城市娱乐"
+        "目的地酒店",
+        "情侣约会",
+        "周末快闪"
+      ]
+    },
+    {
+      "title": "市场寻味路线",
+      "destination": "台北 / 曼谷 / 里斯本",
+      "pace": "轻松具体",
+      "summary": "从市场和超市进入城市味觉地图，而不只打卡餐厅。",
+      "route": "早市 -> 食品店 -> 体验课 -> 晚餐",
+      "bestFor": "把吃当主线的用户",
+      "moods": [
+        "美食",
+        "城市文化",
+        "慢旅行"
+      ]
+    },
+    {
+      "title": "晨型人能量路线",
+      "destination": "京都 / 大理 / 清迈",
+      "pace": "松弛恢复型",
+      "summary": "把最好的时段前置在早晨，回避人潮提升舒适度。",
+      "route": "晨间出发 -> 空景时段 -> 午后休整",
+      "bestFor": "怕拥挤、想慢一点",
+      "moods": [
+        "轻度疗愈",
+        "一个人出走",
+        "自然户外"
       ]
     }
   ],
@@ -451,16 +451,16 @@ window.TRAVEL_DATA = {
       "summary": "住宿空间本身成为旅行内容的一部分。"
     },
     {
-      "name": "Shelf Discovery",
-      "summary": "市场与超市型体验成为城市旅行新入口。"
+      "name": "Glowmads",
+      "summary": "Wellness 与放松体验正在被当作独立出游理由。"
     },
     {
       "name": "Made-for-me Travel",
       "summary": "旅行越来越强调个性表达与生活方式契合。"
     },
     {
-      "name": "Glowmads",
-      "summary": "Wellness 与放松体验正在被当作独立出游理由。"
+      "name": "Shelf Discovery",
+      "summary": "市场与超市型体验成为城市旅行新入口。"
     }
   ],
   "sources": [
