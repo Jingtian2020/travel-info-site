@@ -2,7 +2,7 @@ window.TRAVEL_DATA = {
   "site": {
     "name": "去玩实验室",
     "description": "每周更新的旅行玩乐情报站",
-    "lastUpdated": "2026-06-15",
+    "lastUpdated": "2026-06-22",
     "refreshCadence": "每周自动刷新一次",
     "metrics": [
       {
@@ -21,29 +21,16 @@ window.TRAVEL_DATA = {
   },
   "recentLaunches": [
     {
-      "id": "agoda-and-china-airlines-enhance-travel-rewards-with-new-hotel-booking-platform-staymiles-yahoo-finance",
-      "title": "Agoda and China Airlines Enhance Travel Rewards with New Hotel Booking Platform, StayMiles - Yahoo Finance",
+      "id": "a-new-era-of-hollywood-in-germany-movie-park-germany-presents-its-new-exclusive-paramount-attraction-journey-to-the-forbidden-chamber-amusement-today",
+      "title": "A new era of Hollywood in Germany: Movie Park Germany presents its new exclusive Paramount attraction “Journey to the Forbidden Chamber”! - Amusement Today",
       "location": "全球",
       "freshness": "近月动态",
-      "summary": "Agoda and China Airlines Enhance Travel Rewards with New Hotel Booking Platform, StayMiles &nbsp;&nbsp; Yahoo",
+      "summary": "A new era of Hollywood in Germany: Movie Park Germany presents its new exclusive Paramount attraction “Journey",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "酒店上新",
-      "sourceName": "Yahoo Finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY3QtVmthSlJSOGYyUkV5cC01angwUWVFVDltU3JRc2dyZEsxWGVaaEljc1ZHWW90RzJMbllXd0dSSURpN09wUHh6V09vYU5NNzRVRTRDbFV0SmZKanFfYnpUNzRNZE9zZ3hXcVFGNmhHWmRZUE1DZngzNDZOSlc1Ym9wYzlxaHpQ?oc=5",
-      "publishedAt": "2026-02-22",
-      "bucket": "recent-stay"
-    },
-    {
-      "id": "cathay-members-choice-awards-2026-asia-s-best-new-attraction-cathay-th-cathay-pacific",
-      "title": "Cathay Members’ Choice Awards 2026: Asia’s best new attraction | Cathay TH - Cathay Pacific",
-      "location": "全球",
-      "freshness": "刚更新",
-      "summary": "Cathay Members’ Choice Awards 2026: Asia’s best new attraction | Cathay TH &nbsp;&nbsp; Cathay Pacific",
-      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "新体验",
-      "sourceName": "Cathay Pacific",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeDZCMk9JM1h1Z2RmX3c1bkVkd0FlUTFxNEJNLXZLeVNLWVZmNk1HM3ZoNTlZbVBWd2w3NzVHM0kzeGtDczBoM2RvZ19EQWpYVm5QSy1YM2dpcXhJY2t4d2JFd24wZzVkVko4ejE2X0JEUWFkLTFmVUllVUdqY2drMjlqM2o1bnNkWTA1X3ZibXBSRG1Fc3R3RThWX3p2QQ?oc=5",
-      "publishedAt": "2026-05-31",
+      "tags": "自然户外",
+      "sourceName": "Amusement Today",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYzFlQ1lhMkFPV2d5dF9KTDE5NGxSQW5TY091REhldFNuaWlQTTBWTk80Skxwa09zUlRrUTR0YjdsMEpVQk1reFZkSHMtVHFCcXpYV1hhMm10Qm1CaDdvaFVLM1RiWmJuWkFHSVlMaEl1N0N4NUFfN2FjTUhUSkQ4M1ZrdmN2OWgtR0xDSVUxekNEZjY5OG9wcDNiemFEaVZJVUM0SjZjR3dXZGFWd0Itbk43Mnc5dkp6ZW50UmliQTZ1TWNpd1lvcmw3NXBtVWttSWVnTldtNkVkRlc4RUZjSkIyTTczR2ljMXZ0cjU4T0VYWFFFcFAzd1o3ZS1mZw?oc=5",
+      "publishedAt": "2026-04-29",
       "bucket": "recent-launch"
     },
     {
@@ -60,6 +47,19 @@ window.TRAVEL_DATA = {
       "bucket": "recent-stay"
     },
     {
+      "id": "delaware-north-launches-new-attraction-at-niagara-falls-buffalo-business-first-the-business-journals",
+      "title": "Delaware North launches new attraction at Niagara Falls - Buffalo Business First - The Business Journals",
+      "location": "全球",
+      "freshness": "刚更新",
+      "summary": "Delaware North launches new attraction at Niagara Falls - Buffalo Business First &nbsp;&nbsp; The Business Jou",
+      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
+      "tags": "新体验",
+      "sourceName": "The Business Journals",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbWFIZkF4cGk1UnpFUTNOR1liNF8zN1NpZUdxamdKQ3ZyT3JMc1UtVGJjbk1mYkVFNFZhZ3pFSGFkRXpUcklUODd5VGF6QWFtenJ1YnJRbEV2OVRjaUhSSldFSVV4cm1IZWJ1ajZyWVNDYmdLOGVTX3g2eG1UOE8yWFc5THctbTB6WnBwcDkzZU5BcHlhVlRxOG5tcm1VMWh5WFY4ZlByVGJLZw?oc=5",
+      "publishedAt": "2026-06-18",
+      "bucket": "recent-launch"
+    },
+    {
       "id": "disney-world-opens-a-key-new-attraction-early-thestreet-com",
       "title": "Disney World opens a key new attraction early - thestreet.com",
       "location": "全球",
@@ -70,22 +70,6 @@ window.TRAVEL_DATA = {
       "sourceName": "thestreet.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaElMLWdQQllCM20ycUIyMkxOQjlualRkbHlmSElGZHpNRVlUTG1NdG52Q2pEVWh5QXI5UVlNTk1zRlhwVUIyVmFUWVA5c3N3V2xGLV9MWVVKY0NGUzlpOU1mYTVOX1FDOUJHYkNUSFJsazZOVWVER0VSdUYwUmlPNlN2Z0s?oc=5",
       "publishedAt": "2026-05-25",
-      "bucket": "recent-launch"
-    },
-    {
-      "id": "harriet-tubman-museum-in-maryland-prepares-for-grand-reopening-with-new-immersive-experience-wtop",
-      "title": "Harriet Tubman Museum in Maryland prepares for grand reopening with new, immersive experience - WTOP",
-      "location": "全球",
-      "freshness": "刚更新",
-      "summary": "Harriet Tubman Museum in Maryland prepares for grand reopening with new, immersive experience &nbsp;&nbsp; WTO",
-      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": [
-        "城市文化",
-        "沉浸体验"
-      ],
-      "sourceName": "WTOP",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOXJQbTIxQ3o0ZzYxMy1IbENOREtibUFiTzkwN05NUzVFWjNSODZNbzYzNlZLaW5Yb1RsUFUxZkVzNG54enJja0owbWJMRE1GTThqdjdraUU4b09LbDhFVGVSNDhaVlhRakg0NjVEbGRJOUpRRkRjanhndmkzY2NBeXVJQ1dBOG43VW43WEc1a0hQT0FkR0tINUp3MzRMVnV6bWlEczl2emhndzY1VmVEczdyWkZtbkk?oc=5",
-      "publishedAt": "2026-06-03",
       "bucket": "recent-launch"
     },
     {
@@ -139,6 +123,19 @@ window.TRAVEL_DATA = {
       "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSlR4eFpVNC1IODBVdWdmNnNkdGhsanBvZEgxbnUxUVNXaVZzN3YyRGRjYlcwcllPRFEwX1JQcDJOcVlwTVBOYklBakZUUnlNZVNfUnNEUDJ2dWY4LVBSNGdTV0VoNjFfYjZoeEpZX2NCWjNXUVJPWm83X2Fjb01XWXZtY1VWM0FDb3d4VWl2aG9JaUMweVE?oc=5",
       "publishedAt": "2026-05-27",
       "bucket": "recent-stay"
+    },
+    {
+      "id": "new-immersive-experience-time-mission-clocks-into-houston-this-summer-innovationmap",
+      "title": "New immersive experience Time Mission clocks into Houston this summer - InnovationMap",
+      "location": "全球",
+      "freshness": "近月动态",
+      "summary": "New immersive experience Time Mission clocks into Houston this summer &nbsp;&nbsp; InnovationMap",
+      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
+      "tags": "沉浸体验",
+      "sourceName": "InnovationMap",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBZMDh4ajRwSHlZOTBJMm9FaEpjYmtZNzltMUl4aHppckJkcm9tRXpkTTVxMUcwM1JCQlZIdDdmVUpnWHp1eFZsSDdURlI0aXE1eHM2LXZ4dzhVSmZJRHdCd1RlSWhoVXBNMFpyTEdmN0VwNkdscmpDQ1hn?oc=5",
+      "publishedAt": "2026-05-06",
+      "bucket": "recent-launch"
     }
   ],
   "classicLibrary": [
@@ -229,29 +226,15 @@ window.TRAVEL_DATA = {
   ],
   "classicPicks": [
     {
-      "name": "香港西贡海岸线",
-      "location": "中国香港 · 西贡",
-      "season": "秋冬舒适",
-      "summary": "海岸、村落与咖啡店组合适合周末快闪。",
-      "bestFor": "想短途换气但不想准备复杂",
-      "budget": "中等偏低",
-      "duration": "1-2 天",
-      "tags": [
-        "海边",
-        "周末快闪",
-        "自然户外"
-      ]
-    },
-    {
-      "name": "清迈古城与山边咖啡路线",
-      "location": "泰国 · 清迈",
-      "season": "11 月到次年 2 月",
-      "summary": "寺庙、手作、咖啡与自然景串联轻松。",
-      "bestFor": "独自旅行或疗愈型出游",
-      "budget": "中等偏低",
+      "name": "大理洱海西岸",
+      "location": "中国 · 云南大理",
+      "season": "春秋最佳",
+      "summary": "慢节奏与风景结合，适合恢复状态型旅行。",
+      "bestFor": "需要降速放松的人",
+      "budget": "中等",
       "duration": "3 天",
       "tags": [
-        "手作",
+        "自然户外",
         "轻度疗愈",
         "慢旅行"
       ]
@@ -271,17 +254,31 @@ window.TRAVEL_DATA = {
       ]
     },
     {
-      "name": "新加坡滨海湾到甘榜格南",
-      "location": "新加坡",
-      "season": "全年可去",
-      "summary": "现代建筑、夜景与街区生活感在短途中高度兼容。",
-      "bestFor": "第一次去东南亚城市",
-      "budget": "中高",
+      "name": "清迈古城与山边咖啡路线",
+      "location": "泰国 · 清迈",
+      "season": "11 月到次年 2 月",
+      "summary": "寺庙、手作、咖啡与自然景串联轻松。",
+      "bestFor": "独自旅行或疗愈型出游",
+      "budget": "中等偏低",
       "duration": "3 天",
       "tags": [
+        "手作",
+        "轻度疗愈",
+        "慢旅行"
+      ]
+    },
+    {
+      "name": "京都岚山与嵯峨野",
+      "location": "日本 · 京都",
+      "season": "春秋最佳",
+      "summary": "清晨竹林、河岸与老街的慢节奏体验非常完整。",
+      "bestFor": "第一次去京都但不想赶景点",
+      "budget": "中等",
+      "duration": "2-3 天",
+      "tags": [
         "城市文化",
-        "夜游",
-        "美食"
+        "散步型",
+        "轻度疗愈"
       ]
     }
   ],
@@ -380,19 +377,6 @@ window.TRAVEL_DATA = {
       ]
     },
     {
-      "title": "观赛或演出带着走",
-      "destination": "大阪 / 新加坡 / 纽约",
-      "pace": "高情绪价值",
-      "summary": "以赛事或演出为锚点，周边行程轻量串联。",
-      "route": "进场前街区 -> 赛事演出 -> 散场夜宵",
-      "bestFor": "兴趣事件驱动型用户",
-      "moods": [
-        "朋友组队",
-        "城市娱乐",
-        "周末快闪"
-      ]
-    },
-    {
       "title": "自然景区 + 沉浸展演",
       "destination": "新加坡 / 北海道 / 温哥华",
       "pace": "层次感强",
@@ -432,6 +416,19 @@ window.TRAVEL_DATA = {
       ]
     },
     {
+      "title": "观赛或演出带着走",
+      "destination": "大阪 / 新加坡 / 纽约",
+      "pace": "高情绪价值",
+      "summary": "以赛事或演出为锚点，周边行程轻量串联。",
+      "route": "进场前街区 -> 赛事演出 -> 散场夜宵",
+      "bestFor": "兴趣事件驱动型用户",
+      "moods": [
+        "朋友组队",
+        "城市娱乐",
+        "周末快闪"
+      ]
+    },
+    {
       "title": "晨型人能量路线",
       "destination": "京都 / 大理 / 清迈",
       "pace": "松弛恢复型",
@@ -447,16 +444,16 @@ window.TRAVEL_DATA = {
   ],
   "trendSignals": [
     {
+      "name": "Made-for-me Travel",
+      "summary": "旅行越来越强调个性表达与生活方式契合。"
+    },
+    {
       "name": "Destination Check-in",
       "summary": "住宿空间本身成为旅行内容的一部分。"
     },
     {
       "name": "Glowmads",
       "summary": "Wellness 与放松体验正在被当作独立出游理由。"
-    },
-    {
-      "name": "Made-for-me Travel",
-      "summary": "旅行越来越强调个性表达与生活方式契合。"
     },
     {
       "name": "Shelf Discovery",
