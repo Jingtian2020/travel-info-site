@@ -2,7 +2,7 @@ window.TRAVEL_DATA = {
   "site": {
     "name": "去玩实验室",
     "description": "每周更新的旅行玩乐情报站",
-    "lastUpdated": "2026-06-22",
+    "lastUpdated": "2026-06-29",
     "refreshCadence": "每周自动刷新一次",
     "metrics": [
       {
@@ -60,23 +60,23 @@ window.TRAVEL_DATA = {
       "bucket": "recent-launch"
     },
     {
-      "id": "disney-world-opens-a-key-new-attraction-early-thestreet-com",
-      "title": "Disney World opens a key new attraction early - thestreet.com",
+      "id": "maui-s-new-hotel-zoning-districts-could-grandfather-in-4-500-vacation-rentals-planetizen",
+      "title": "Maui's new hotel zoning districts could grandfather in 4,500 vacation rentals - Planetizen",
       "location": "全球",
-      "freshness": "近期上新",
-      "summary": "Disney World opens a key new attraction early &nbsp;&nbsp; thestreet.com",
+      "freshness": "刚更新",
+      "summary": "Maui's new hotel zoning districts could grandfather in 4,500 vacation rentals &nbsp;&nbsp; Planetizen",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "新体验",
-      "sourceName": "thestreet.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaElMLWdQQllCM20ycUIyMkxOQjlualRkbHlmSElGZHpNRVlUTG1NdG52Q2pEVWh5QXI5UVlNTk1zRlhwVUIyVmFUWVA5c3N3V2xGLV9MWVVKY0NGUzlpOU1mYTVOX1FDOUJHYkNUSFJsazZOVWVER0VSdUYwUmlPNlN2Z0s?oc=5",
-      "publishedAt": "2026-05-25",
-      "bucket": "recent-launch"
+      "tags": "酒店上新",
+      "sourceName": "Planetizen",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc3BLMUo3VlFPYmFERGNrbTdTVjZNMnNqOEVFcTZjYVBYZlIzMGtiVWJ6Y0pkZG9LSjBMUGUtZzdTWllrV1pOOVpxVDVQazFqTzU3VF9HRU5KTG1mdVRlTHJBZVhJT0JHQndNQjhIMjZkQmsxa2FBODZ1MEhOVDY0aXNod3poU09hQjBEQkVvVGFkNTJSRWQ2ZVkwSHNKM1g1OXJQRDJ0TkNxS2V2QUg2YWJub0gwVXdDblRV?oc=5",
+      "publishedAt": "2026-06-23",
+      "bucket": "recent-stay"
     },
     {
       "id": "motown-museum-expansion-tour-reveals-what-visitors-will-see-detroit-free-press",
       "title": "Motown Museum expansion tour reveals what visitors will see - Detroit Free Press",
       "location": "全球",
-      "freshness": "刚更新",
+      "freshness": "近期上新",
       "summary": "Motown Museum expansion tour reveals what visitors will see &nbsp;&nbsp; Detroit Free Press",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
       "tags": "城市文化",
@@ -86,17 +86,17 @@ window.TRAVEL_DATA = {
       "bucket": "recent-culture"
     },
     {
-      "id": "national-comedy-center-named-best-new-museum-in-the-country-by-usa-today-national-comedy-center-jamestown-ny",
-      "title": "National Comedy Center Named Best New Museum in the Country by USA Today - National Comedy Center - Jamestown, NY",
+      "id": "my-family-visited-edge-nyc-and-its-colorful-new-immersive-experience-is-fabulous-silive-com",
+      "title": "My family visited Edge NYC, and its colorful new immersive experience is fabulous - SILive.com",
       "location": "全球",
-      "freshness": "近月动态",
-      "summary": "National Comedy Center Named Best New Museum in the Country by USA Today &nbsp;&nbsp; National Comedy Center -",
+      "freshness": "刚更新",
+      "summary": "My family visited Edge NYC, and its colorful new immersive experience is fabulous &nbsp;&nbsp; SILive.com",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "城市文化",
-      "sourceName": "National Comedy Center - Jamestown, NY",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOem8xc1h4ZTJYdXBUSHlnaEhKeC1UdHk0Y0tZaTllQ0UzRk13VGJKY2xUMzZpQTJfU3RHUU5HTkVvR0pxbnV2ZHFVT0x6V1k5cFladFhXcXQ3NnN3ZUhvQlEyWjh6ZkFaWHdZNUdLUjdXTkItTDZjN0lSbVNGa0hXQWtrRFpUMTlRLTRyTTBBTG1XWDE4SHRpbktrNHhyelU?oc=5",
-      "publishedAt": "2026-02-28",
-      "bucket": "recent-culture"
+      "tags": "沉浸体验",
+      "sourceName": "SILive.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaklFR2pwVFlKc2c5cnlsOXdUREFBal8zaEJfVW5KcVFrR3h6LWlzb3Q3X1JLT29SMGM5ZE1DTmZGajBmVm90MUpnVlptd1lCRlhHUmpFanZNV1FfcnktQmlIajJVbnlyd0NlRWJJWkgtVjFveGFTaFdyTXpwaUtFV1BKNHBHVXpIdlhFRnpRb01laHJiQVBfU0owVkhrNVFNeV9zRDRmNE43QmtydGhMMkZtRGJsSzdkaFpfenJjM0xsYl9YS3RYSWh30gHeAUFVX3lxTE9FbVIwQlNkMmtwbmJVaEZlQkZvdHdENmFJNG43TlpHUFVpMWNpalFReFBVcWU3RDdEWmx6NHU4QVA0TnQ1VGl5UE1ieGdocXJLc3N0eE1vSXdRQTFfb3Aybl9ZQWlReUF3VzBTMTdNQV9OdzBaVTFHMW4zOTVNbkRvaUM2WFBzbGN5M2JkUVpMeTg5TlR4Q19YcTl4Q0s3TUNxR0t1YThDYW9Gc090SHg5ZU4xaXNQaVM2OXl4WTkwVHNmbGxhMHBUQkRTRnJ3UVhyRXBOaHl2N254Zmo3Zw?oc=5",
+      "publishedAt": "2026-06-28",
+      "bucket": "recent-launch"
     },
     {
       "id": "navan-unveils-new-hotel-catalog-infrastructure-business-travel-executive",
@@ -226,34 +226,6 @@ window.TRAVEL_DATA = {
   ],
   "classicPicks": [
     {
-      "name": "大理洱海西岸",
-      "location": "中国 · 云南大理",
-      "season": "春秋最佳",
-      "summary": "慢节奏与风景结合，适合恢复状态型旅行。",
-      "bestFor": "需要降速放松的人",
-      "budget": "中等",
-      "duration": "3 天",
-      "tags": [
-        "自然户外",
-        "轻度疗愈",
-        "慢旅行"
-      ]
-    },
-    {
-      "name": "巴塞罗那旧城与海边线",
-      "location": "西班牙 · 巴塞罗那",
-      "season": "春夏最佳",
-      "summary": "建筑、海风和夜生活同时在线。",
-      "bestFor": "情侣或第一次欧洲城市度假",
-      "budget": "中高",
-      "duration": "4 天",
-      "tags": [
-        "海边",
-        "城市文化",
-        "夜游"
-      ]
-    },
-    {
       "name": "清迈古城与山边咖啡路线",
       "location": "泰国 · 清迈",
       "season": "11 月到次年 2 月",
@@ -268,17 +240,45 @@ window.TRAVEL_DATA = {
       ]
     },
     {
-      "name": "京都岚山与嵯峨野",
-      "location": "日本 · 京都",
-      "season": "春秋最佳",
-      "summary": "清晨竹林、河岸与老街的慢节奏体验非常完整。",
-      "bestFor": "第一次去京都但不想赶景点",
-      "budget": "中等",
-      "duration": "2-3 天",
+      "name": "新加坡滨海湾到甘榜格南",
+      "location": "新加坡",
+      "season": "全年可去",
+      "summary": "现代建筑、夜景与街区生活感在短途中高度兼容。",
+      "bestFor": "第一次去东南亚城市",
+      "budget": "中高",
+      "duration": "3 天",
       "tags": [
         "城市文化",
-        "散步型",
-        "轻度疗愈"
+        "夜游",
+        "美食"
+      ]
+    },
+    {
+      "name": "香港西贡海岸线",
+      "location": "中国香港 · 西贡",
+      "season": "秋冬舒适",
+      "summary": "海岸、村落与咖啡店组合适合周末快闪。",
+      "bestFor": "想短途换气但不想准备复杂",
+      "budget": "中等偏低",
+      "duration": "1-2 天",
+      "tags": [
+        "海边",
+        "周末快闪",
+        "自然户外"
+      ]
+    },
+    {
+      "name": "巴塞罗那旧城与海边线",
+      "location": "西班牙 · 巴塞罗那",
+      "season": "春夏最佳",
+      "summary": "建筑、海风和夜生活同时在线。",
+      "bestFor": "情侣或第一次欧洲城市度假",
+      "budget": "中高",
+      "duration": "4 天",
+      "tags": [
+        "海边",
+        "城市文化",
+        "夜游"
       ]
     }
   ],
@@ -364,29 +364,16 @@ window.TRAVEL_DATA = {
   ],
   "playModes": [
     {
-      "title": "夜游城市副本",
-      "destination": "新加坡 / 香港 / 东京",
-      "pace": "高记忆点",
-      "summary": "白天轻量主线，夜晚作为体验高光时段。",
-      "route": "观景点 -> 夜间展演 -> 夜宵散步",
-      "bestFor": "朋友组队、情侣快闪",
+      "title": "市场寻味路线",
+      "destination": "台北 / 曼谷 / 里斯本",
+      "pace": "轻松具体",
+      "summary": "从市场和超市进入城市味觉地图，而不只打卡餐厅。",
+      "route": "早市 -> 食品店 -> 体验课 -> 晚餐",
+      "bestFor": "把吃当主线的用户",
       "moods": [
-        "夜游",
-        "朋友组队",
-        "城市娱乐"
-      ]
-    },
-    {
-      "title": "自然景区 + 沉浸展演",
-      "destination": "新加坡 / 北海道 / 温哥华",
-      "pace": "层次感强",
-      "summary": "白天自然线，夜间沉浸体验线，形成节奏反差。",
-      "route": "户外主线 -> 晚间沉浸展 -> 夜间散步",
-      "bestFor": "亲子、情侣、轻探险用户",
-      "moods": [
-        "自然户外",
-        "沉浸体验",
-        "亲子友好"
+        "美食",
+        "城市文化",
+        "慢旅行"
       ]
     },
     {
@@ -403,16 +390,29 @@ window.TRAVEL_DATA = {
       ]
     },
     {
-      "title": "市场寻味路线",
-      "destination": "台北 / 曼谷 / 里斯本",
-      "pace": "轻松具体",
-      "summary": "从市场和超市进入城市味觉地图，而不只打卡餐厅。",
-      "route": "早市 -> 食品店 -> 体验课 -> 晚餐",
-      "bestFor": "把吃当主线的用户",
+      "title": "自然景区 + 沉浸展演",
+      "destination": "新加坡 / 北海道 / 温哥华",
+      "pace": "层次感强",
+      "summary": "白天自然线，夜间沉浸体验线，形成节奏反差。",
+      "route": "户外主线 -> 晚间沉浸展 -> 夜间散步",
+      "bestFor": "亲子、情侣、轻探险用户",
       "moods": [
-        "美食",
-        "城市文化",
-        "慢旅行"
+        "自然户外",
+        "沉浸体验",
+        "亲子友好"
+      ]
+    },
+    {
+      "title": "夜游城市副本",
+      "destination": "新加坡 / 香港 / 东京",
+      "pace": "高记忆点",
+      "summary": "白天轻量主线，夜晚作为体验高光时段。",
+      "route": "观景点 -> 夜间展演 -> 夜宵散步",
+      "bestFor": "朋友组队、情侣快闪",
+      "moods": [
+        "夜游",
+        "朋友组队",
+        "城市娱乐"
       ]
     },
     {
@@ -448,16 +448,16 @@ window.TRAVEL_DATA = {
       "summary": "旅行越来越强调个性表达与生活方式契合。"
     },
     {
+      "name": "Shelf Discovery",
+      "summary": "市场与超市型体验成为城市旅行新入口。"
+    },
+    {
       "name": "Destination Check-in",
       "summary": "住宿空间本身成为旅行内容的一部分。"
     },
     {
       "name": "Glowmads",
       "summary": "Wellness 与放松体验正在被当作独立出游理由。"
-    },
-    {
-      "name": "Shelf Discovery",
-      "summary": "市场与超市型体验成为城市旅行新入口。"
     }
   ],
   "sources": [
