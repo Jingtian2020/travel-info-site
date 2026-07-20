@@ -2,7 +2,7 @@ window.TRAVEL_DATA = {
   "site": {
     "name": "去玩实验室",
     "description": "每周更新的旅行玩乐情报站",
-    "lastUpdated": "2026-07-13",
+    "lastUpdated": "2026-07-20",
     "refreshCadence": "每周自动刷新一次",
     "metrics": [
       {
@@ -34,30 +34,20 @@ window.TRAVEL_DATA = {
       "bucket": "recent-launch"
     },
     {
-      "id": "chase-travel-adds-new-hotel-price-match-guarantee-for-some-thrifty-traveler",
-      "title": "Chase Travel℠ Adds New Hotel Price-Match Guarantee … For Some - Thrifty Traveler",
+      "id": "a-new-museum-in-the-north-dakota-badlands-brings-theodore-roosevelt-s-life-and-love-of-nature-to-life-travel-leisure",
+      "title": "A New Museum in the North Dakota Badlands Brings Theodore Roosevelt’s Life (and Love of Nature) to Life - Travel + Leisure",
       "location": "全球",
-      "freshness": "近月动态",
-      "summary": "Chase Travel℠ Adds New Hotel Price-Match Guarantee … For Some &nbsp;&nbsp; Thrifty Traveler",
+      "freshness": "刚更新",
+      "summary": "A New Museum in the North Dakota Badlands Brings Theodore Roosevelt’s Life (and Love of Nature) to Life &nbsp;",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "酒店上新",
-      "sourceName": "Thrifty Traveler",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVFF4ZTlaLXlGUS0wSEozd2YxZDNyZzNrV01zUWt6QUluTVRTRXhGaXlJY0FvVGFKMkk4RV84M2tLQ2lyZVVobXNxVXlYYUx1SVZpSTJCUzllUVI4eVpMSlp2MW94aHVFTVJBc01TV2xIRlVUMHB2Y1hxM19BV0pEQ0JEX01ueER0T2F2OC1QUQ?oc=5",
-      "publishedAt": "2026-03-19",
-      "bucket": "recent-stay"
-    },
-    {
-      "id": "delaware-north-launches-new-attraction-at-niagara-falls-buffalo-business-first-the-business-journals",
-      "title": "Delaware North launches new attraction at Niagara Falls - Buffalo Business First - The Business Journals",
-      "location": "全球",
-      "freshness": "近期上新",
-      "summary": "Delaware North launches new attraction at Niagara Falls - Buffalo Business First &nbsp;&nbsp; The Business Jou",
-      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "新体验",
-      "sourceName": "The Business Journals",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbWFIZkF4cGk1UnpFUTNOR1liNF8zN1NpZUdxamdKQ3ZyT3JMc1UtVGJjbk1mYkVFNFZhZ3pFSGFkRXpUcklUODd5VGF6QWFtenJ1YnJRbEV2OVRjaUhSSldFSVV4cm1IZWJ1ajZyWVNDYmdLOGVTX3g2eG1UOE8yWFc5THctbTB6WnBwcDkzZU5BcHlhVlRxOG5tcm1VMWh5WFY4ZlByVGJLZw?oc=5",
-      "publishedAt": "2026-06-18",
-      "bucket": "recent-launch"
+      "tags": [
+        "城市文化",
+        "自然户外"
+      ],
+      "sourceName": "Travel + Leisure",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZjFXVThEOWhkMDQxTDFGSDR5ak9RT0xCUE5nd0doUHM1WlNrOWNDc0l5OExuUUdncFdmbjJrTm1jRlVneVVvZlB4MEp1bVR2ZUFxSzNMWU5vX3R5aDJ1WjU1akpCWTh5czVUMEFfalAzNWhZNHN2SldCU1o0X2dzLUVNU1ZobExh?oc=5",
+      "publishedAt": "2026-07-13",
+      "bucket": "recent-culture"
     },
     {
       "id": "inside-oberon-the-new-museum-s-first-ever-restaurant-by-oma-wallpaper-com",
@@ -86,56 +76,69 @@ window.TRAVEL_DATA = {
       "bucket": "recent-stay"
     },
     {
-      "id": "motown-museum-expansion-tour-reveals-what-visitors-will-see-detroit-free-press",
-      "title": "Motown Museum expansion tour reveals what visitors will see - Detroit Free Press",
+      "id": "nd-travel-industry-alliance-president-optimistic-about-this-summer-season-the-mighty-790-kfgo",
+      "title": "ND Travel Industry Alliance president optimistic about this summer season - The Mighty 790 KFGO",
       "location": "全球",
-      "freshness": "近期上新",
-      "summary": "Motown Museum expansion tour reveals what visitors will see &nbsp;&nbsp; Detroit Free Press",
+      "freshness": "近月动态",
+      "summary": "ND Travel Industry Alliance president optimistic about this summer season &nbsp;&nbsp; The Mighty 790 KFGO",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "城市文化",
-      "sourceName": "Detroit Free Press",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX0NMRnpKNUxUc1lzTFpXYWhDSFAzdFVSTVl3YXNBUlBuS2p5ODJ2a2FZSnZ4TzRpejV0ZWhwZEdfTktSdjRNU21iY1BhMGJHTktBUnd5VExPSGpfRUNBRU5yTi1lVm9yUVFfMlBmNHNheGUwZ3VtbXdUbFBkOXpUZE1TbjRSN0p6cXJ5aEo4WHpqbDZTMnhhYS1HblhrOFAxSTlKOHFyZTZ0TFNLazhFWnFBcTRWQmllbmE5T2pJLWRSeWJPVVE0?oc=5",
-      "publishedAt": "2026-06-14",
-      "bucket": "recent-culture"
-    },
-    {
-      "id": "my-family-visited-edge-nyc-and-its-colorful-new-immersive-experience-is-fabulous-silive-com",
-      "title": "My family visited Edge NYC, and its colorful new immersive experience is fabulous - SILive.com",
-      "location": "全球",
-      "freshness": "刚更新",
-      "summary": "My family visited Edge NYC, and its colorful new immersive experience is fabulous &nbsp;&nbsp; SILive.com",
-      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "沉浸体验",
-      "sourceName": "SILive.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaklFR2pwVFlKc2c5cnlsOXdUREFBal8zaEJfVW5KcVFrR3h6LWlzb3Q3X1JLT29SMGM5ZE1DTmZGajBmVm90MUpnVlptd1lCRlhHUmpFanZNV1FfcnktQmlIajJVbnlyd0NlRWJJWkgtVjFveGFTaFdyTXpwaUtFV1BKNHBHVXpIdlhFRnpRb01laHJiQVBfU0owVkhrNVFNeV9zRDRmNE43QmtydGhMMkZtRGJsSzdkaFpfenJjM0xsYl9YS3RYSWh30gHeAUFVX3lxTE9FbVIwQlNkMmtwbmJVaEZlQkZvdHdENmFJNG43TlpHUFVpMWNpalFReFBVcWU3RDdEWmx6NHU4QVA0TnQ1VGl5UE1ieGdocXJLc3N0eE1vSXdRQTFfb3Aybl9ZQWlReUF3VzBTMTdNQV9OdzBaVTFHMW4zOTVNbkRvaUM2WFBzbGN5M2JkUVpMeTg5TlR4Q19YcTl4Q0s3TUNxR0t1YThDYW9Gc090SHg5ZU4xaXNQaVM2OXl4WTkwVHNmbGxhMHBUQkRTRnJ3UVhyRXBOaHl2N254Zmo3Zw?oc=5",
-      "publishedAt": "2026-06-28",
+      "tags": "新体验",
+      "sourceName": "The Mighty 790 KFGO",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaUZkdkFuWEh3S3UtQ3Mwekx6ajI3VVZMb1NjaG5lYjJzZjNhVmhZR21hQ28wNjhMMjhZc1NQS0FlRm5oWGVUanVfVnR0UXZteWQ4M3ZvSGNBT2M5Mm10bDlaUlNIVGVtV2lRUzgyc1pGak8yaU9ZV3BnamE4Y1VGWXA1amRQb25DUHR3S0pfS2NWSVhLT0ZiemhBMmpjM1JOQ2FibA?oc=5",
+      "publishedAt": "2026-04-21",
       "bucket": "recent-launch"
     },
     {
-      "id": "navan-unveils-new-hotel-catalog-infrastructure-business-travel-executive",
-      "title": "Navan Unveils New Hotel Catalog Infrastructure - Business Travel Executive",
+      "id": "new-attraction-brings-visitors-revenue-back-to-mud-island-the-business-journals",
+      "title": "New attraction brings visitors, revenue back to Mud Island - The Business Journals",
       "location": "全球",
+      "freshness": "刚更新",
+      "summary": "New attraction brings visitors, revenue back to Mud Island &nbsp;&nbsp; The Business Journals",
+      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
+      "tags": "新体验",
+      "sourceName": "The Business Journals",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX0hlRVAxXzJ4N1FMUUdaS0ZZaEhCcDdBclF4cWtQUVpGQ2Z2QThhcmpCLWNyODVjTkxFcHdRSkxYbEpBZ0FiWkNIVEw4dkRFY0hiNnBhcGt1YTRNSktVS25fSE9XWkFzX1hSTkQ2eDc5dlFVcWNWX3pmaWNfU0lFRVhqTkhWM2JFZ28wQlNFVWJjQU5zRlVDd2RCSW04ZnAzYnhnQXp6ZkQ?oc=5",
+      "publishedAt": "2026-07-15",
+      "bucket": "recent-launch"
+    },
+    {
+      "id": "new-hotel-in-new-york-s-hamptons-opens-next-week-travel-weekly",
+      "title": "New hotel in New York's Hamptons opens next week - Travel Weekly",
+      "location": "美国",
       "freshness": "近月动态",
-      "summary": "Navan Unveils New Hotel Catalog Infrastructure &nbsp;&nbsp; Business Travel Executive",
+      "summary": "New hotel in New York's Hamptons opens next week &nbsp;&nbsp; Travel Weekly",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
       "tags": "酒店上新",
-      "sourceName": "Business Travel Executive",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNG1CSTZHUmZBQVZzNWZQaWUxeVdPRlRnRFp0aUJVc09sdXB4QVZreDNqS2doSkItR2V3RFNGSTVZbEt0V0FkbU9rdG9JRUxkeVZ5bEtHT3h5VWM2UEk0czRvV09lYXR0NlMzWGRxcVppa0Y5ZHZfX0c0aDJ0R0lTTHVweUVHMTAtTjBvOVVreFNpSkZtd0Jj?oc=5",
-      "publishedAt": "2026-03-16",
+      "sourceName": "Travel Weekly",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSlR4eFpVNC1IODBVdWdmNnNkdGhsanBvZEgxbnUxUVNXaVZzN3YyRGRjYlcwcllPRFEwX1JQcDJOcVlwTVBOYklBakZUUnlNZVNfUnNEUDJ2dWY4LVBSNGdTV0VoNjFfYjZoeEpZX2NCWjNXUVJPWm83X2Fjb01XWXZtY1VWM0FDb3d4VWl2aG9JaUMweVE?oc=5",
+      "publishedAt": "2026-05-27",
       "bucket": "recent-stay"
     },
     {
-      "id": "new-attraction-opening-at-detroit-zoo-this-summer-here-s-when-what-to-expect-clickondetroit-wdiv-local-4",
-      "title": "New attraction opening at Detroit Zoo this summer -- Here’s when, what to expect - ClickOnDetroit | WDIV Local 4",
+      "id": "new-immersive-experience-time-mission-clocks-into-houston-this-summer-innovationmap",
+      "title": "New immersive experience Time Mission clocks into Houston this summer - InnovationMap",
       "location": "全球",
       "freshness": "近月动态",
-      "summary": "New attraction opening at Detroit Zoo this summer -- Here’s when, what to expect &nbsp;&nbsp; ClickOnDetroit |",
+      "summary": "New immersive experience Time Mission clocks into Houston this summer &nbsp;&nbsp; InnovationMap",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "自然户外",
-      "sourceName": "ClickOnDetroit | WDIV Local 4",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOE1BbkktSU83d0c4dkJaYWlKc3JGUkdGaG42eGpVQjFGODctZ1hVLUtsLTEwN2hQbW4ySzNKZnVpOFQwTUk0WFctWC1KNElwcHBzVk5KSUYzaUVPNjZZc0g1RmlMZktJX1NGYVp2V2Q5MEJlUmhEWlZOYU5UbnllRG5lRm9WS1JSWk9na3lzQmpfVjd5cFdCZEp3NkRNRVB4NWVzb3hjQ1JJaXlHVXIxTEhWWVBSTURTZ0Iyb1pJZ1RHT29nM28yZg?oc=5",
-      "publishedAt": "2026-03-24",
+      "tags": "沉浸体验",
+      "sourceName": "InnovationMap",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBZMDh4ajRwSHlZOTBJMm9FaEpjYmtZNzltMUl4aHppckJkcm9tRXpkTTVxMUcwM1JCQlZIdDdmVUpnWHp1eFZsSDdURlI0aXE1eHM2LXZ4dzhVSmZJRHdCd1RlSWhoVXBNMFpyTEdmN0VwNkdscmpDQ1hn?oc=5",
+      "publishedAt": "2026-05-06",
       "bucket": "recent-launch"
+    },
+    {
+      "id": "new-museum-store-doubles-the-retail-space-at-hall-of-fame-baseball-hall-of-fame",
+      "title": "New Museum Store doubles the retail space at Hall of Fame - Baseball Hall of Fame",
+      "location": "全球",
+      "freshness": "近月动态",
+      "summary": "New Museum Store doubles the retail space at Hall of Fame &nbsp;&nbsp; Baseball Hall of Fame",
+      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
+      "tags": "城市文化",
+      "sourceName": "Baseball Hall of Fame",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfNDcxc1J0Qk9qSzdJemlrM0F6djlyazFQT0ZrS2lNUzJsSkR5a09TcWU1NDlsMG5ZTnJkdkRtRUQ1ZnN6Y3VpUmxZaXBmdHNSNVdxNlBEaGc0S0RCMmMtTVc5X3dZZDhKWGlfYVpMYTVTcnRWcEtiZQ?oc=5",
+      "publishedAt": "2026-05-11",
+      "bucket": "recent-culture"
     }
   ],
   "classicLibrary": [
@@ -240,17 +243,17 @@ window.TRAVEL_DATA = {
       ]
     },
     {
-      "name": "清迈古城与山边咖啡路线",
-      "location": "泰国 · 清迈",
-      "season": "11 月到次年 2 月",
-      "summary": "寺庙、手作、咖啡与自然景串联轻松。",
-      "bestFor": "独自旅行或疗愈型出游",
+      "name": "香港西贡海岸线",
+      "location": "中国香港 · 西贡",
+      "season": "秋冬舒适",
+      "summary": "海岸、村落与咖啡店组合适合周末快闪。",
+      "bestFor": "想短途换气但不想准备复杂",
       "budget": "中等偏低",
-      "duration": "3 天",
+      "duration": "1-2 天",
       "tags": [
-        "手作",
-        "轻度疗愈",
-        "慢旅行"
+        "海边",
+        "周末快闪",
+        "自然户外"
       ]
     },
     {
@@ -268,17 +271,17 @@ window.TRAVEL_DATA = {
       ]
     },
     {
-      "name": "香港西贡海岸线",
-      "location": "中国香港 · 西贡",
-      "season": "秋冬舒适",
-      "summary": "海岸、村落与咖啡店组合适合周末快闪。",
-      "bestFor": "想短途换气但不想准备复杂",
+      "name": "清迈古城与山边咖啡路线",
+      "location": "泰国 · 清迈",
+      "season": "11 月到次年 2 月",
+      "summary": "寺庙、手作、咖啡与自然景串联轻松。",
+      "bestFor": "独自旅行或疗愈型出游",
       "budget": "中等偏低",
-      "duration": "1-2 天",
+      "duration": "3 天",
       "tags": [
-        "海边",
-        "周末快闪",
-        "自然户外"
+        "手作",
+        "轻度疗愈",
+        "慢旅行"
       ]
     }
   ],
@@ -364,19 +367,6 @@ window.TRAVEL_DATA = {
   ],
   "playModes": [
     {
-      "title": "观赛或演出带着走",
-      "destination": "大阪 / 新加坡 / 纽约",
-      "pace": "高情绪价值",
-      "summary": "以赛事或演出为锚点，周边行程轻量串联。",
-      "route": "进场前街区 -> 赛事演出 -> 散场夜宵",
-      "bestFor": "兴趣事件驱动型用户",
-      "moods": [
-        "朋友组队",
-        "城市娱乐",
-        "周末快闪"
-      ]
-    },
-    {
       "title": "自然景区 + 沉浸展演",
       "destination": "新加坡 / 北海道 / 温哥华",
       "pace": "层次感强",
@@ -387,6 +377,19 @@ window.TRAVEL_DATA = {
         "自然户外",
         "沉浸体验",
         "亲子友好"
+      ]
+    },
+    {
+      "title": "目的地酒店玩法",
+      "destination": "拉斯维加斯 / 海滨度假区",
+      "pace": "轻决策高舒适",
+      "summary": "把酒店升级为行程主角，外出只补少量重点点位。",
+      "route": "入住体验型酒店 -> 在地停留 -> 1-2 个外出点",
+      "bestFor": "短假、庆祝型出游",
+      "moods": [
+        "目的地酒店",
+        "情侣约会",
+        "周末快闪"
       ]
     },
     {
@@ -429,15 +432,15 @@ window.TRAVEL_DATA = {
       ]
     },
     {
-      "title": "目的地酒店玩法",
-      "destination": "拉斯维加斯 / 海滨度假区",
-      "pace": "轻决策高舒适",
-      "summary": "把酒店升级为行程主角，外出只补少量重点点位。",
-      "route": "入住体验型酒店 -> 在地停留 -> 1-2 个外出点",
-      "bestFor": "短假、庆祝型出游",
+      "title": "观赛或演出带着走",
+      "destination": "大阪 / 新加坡 / 纽约",
+      "pace": "高情绪价值",
+      "summary": "以赛事或演出为锚点，周边行程轻量串联。",
+      "route": "进场前街区 -> 赛事演出 -> 散场夜宵",
+      "bestFor": "兴趣事件驱动型用户",
       "moods": [
-        "目的地酒店",
-        "情侣约会",
+        "朋友组队",
+        "城市娱乐",
         "周末快闪"
       ]
     }
@@ -448,12 +451,12 @@ window.TRAVEL_DATA = {
       "summary": "Wellness 与放松体验正在被当作独立出游理由。"
     },
     {
-      "name": "Destination Check-in",
-      "summary": "住宿空间本身成为旅行内容的一部分。"
-    },
-    {
       "name": "Shelf Discovery",
       "summary": "市场与超市型体验成为城市旅行新入口。"
+    },
+    {
+      "name": "Destination Check-in",
+      "summary": "住宿空间本身成为旅行内容的一部分。"
     },
     {
       "name": "Made-for-me Travel",
