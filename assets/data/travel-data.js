@@ -2,7 +2,7 @@ window.TRAVEL_DATA = {
   "site": {
     "name": "去玩实验室",
     "description": "每周更新的旅行玩乐情报站",
-    "lastUpdated": "2026-07-20",
+    "lastUpdated": "2026-07-27",
     "refreshCadence": "每周自动刷新一次",
     "metrics": [
       {
@@ -20,6 +20,22 @@ window.TRAVEL_DATA = {
     ]
   },
   "recentLaunches": [
+    {
+      "id": "mind-of-a-serial-killer-the-experience-new-immersive-exhibition-makes-its-global-debut-in-new-york-city-this-april-fever-newsroom",
+      "title": "“Mind of a Serial Killer: The Experience” New immersive exhibition makes its global debut in New York City this April - Fever Newsroom",
+      "location": "美国",
+      "freshness": "近月动态",
+      "summary": "“Mind of a Serial Killer: The Experience” New immersive exhibition makes its global debut in New York City thi",
+      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
+      "tags": [
+        "城市文化",
+        "沉浸体验"
+      ],
+      "sourceName": "Fever Newsroom",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPd2ZTNTAyMWl1R0dpUjhBMjQzS0lYSGY4aUNsWGlXY0gtMmxqUGFub25lSUYyMXB1VDdwR1B1V3pkbjhSYnNjSHZ5Z1ZCcDNkeFZNWWJOd01JSHJmTmNQaXhPSnhlbDhGZDh0Y1ZmZHBJMzJySjNYQ0thS0x5M3dEdmxFTm9PX1FsZngwaE9yUHZPdHZmdzFtWElOVkFab1dacUpOc2FubGd6S2NLdmRzMEJiV0puanM0bzRqaUZ2S1pKekF0RW9zTkhsZ0JVcGxMcFI2ekF1ZlhXcVdvek1rRE1ULVdHTktDTGF4SkNLNkktaUU?oc=5",
+      "publishedAt": "2026-04-16",
+      "bucket": "recent-launch"
+    },
     {
       "id": "a-new-era-of-hollywood-in-germany-movie-park-germany-presents-its-new-exclusive-paramount-attraction-journey-to-the-forbidden-chamber-amusement-today",
       "title": "A new era of Hollywood in Germany: Movie Park Germany presents its new exclusive Paramount attraction “Journey to the Forbidden Chamber”! - Amusement Today",
@@ -53,7 +69,7 @@ window.TRAVEL_DATA = {
       "id": "inside-oberon-the-new-museum-s-first-ever-restaurant-by-oma-wallpaper-com",
       "title": "Inside Oberon, the New Museum's first-ever restaurant by OMA - wallpaper.com",
       "location": "全球",
-      "freshness": "刚更新",
+      "freshness": "近期上新",
       "summary": "Inside Oberon, the New Museum's first-ever restaurant by OMA &nbsp;&nbsp; wallpaper.com",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
       "tags": "城市文化",
@@ -61,6 +77,19 @@ window.TRAVEL_DATA = {
       "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44RFVzektMWGt3UDBrbExRM0hRTV81Vl9YV2lpUEZ0U21SempRY21aX1lrV0gyZ2xmNmo0aS03ZVpiYlBhU0JZNEs4Znl5QmlBZmg0MmxCczJZdjg1eFd3aGs1Q0NQMTJsRkJ6NWxJR1ZZNDlDbk1WUTREUThGUQ?oc=5",
       "publishedAt": "2026-07-07",
       "bucket": "recent-culture"
+    },
+    {
+      "id": "maui-council-weighs-new-hotel-zones-in-vacation-rental-phase-out-equation-hawaii-public-radio",
+      "title": "Maui council weighs new hotel zones in vacation rental phase-out equation - Hawaii Public Radio",
+      "location": "全球",
+      "freshness": "近月动态",
+      "summary": "Maui council weighs new hotel zones in vacation rental phase-out equation &nbsp;&nbsp; Hawaii Public Radio",
+      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
+      "tags": "酒店上新",
+      "sourceName": "Hawaii Public Radio",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeVVyc2JVQ3VwaVdteFFxYzVMZzVGNUpjZC1aZHRuNlVFQ1J0VGp4aGdpdDVJb05qY3Q1Sk5NbW5mb0JKdDNWdVB6RmkxdzBzVFpqbkwtWTNlSHJQbGI2dHBuMHphNEl6cmZ1b2M5RTMyaW4xOHVBSlM3QzNidHd3NEdnbGtreUNrX3JrcGlOWThCbTJvdGtETjRqYW5pMTlzRng4TzJUdVZDZFRwTUlaejlYQU1GbFltVExwOUxOYlpnN190aERrZg?oc=5",
+      "publishedAt": "2026-05-28",
+      "bucket": "recent-stay"
     },
     {
       "id": "maui-s-new-hotel-zoning-districts-could-grandfather-in-4-500-vacation-rentals-planetizen",
@@ -76,16 +105,16 @@ window.TRAVEL_DATA = {
       "bucket": "recent-stay"
     },
     {
-      "id": "nd-travel-industry-alliance-president-optimistic-about-this-summer-season-the-mighty-790-kfgo",
-      "title": "ND Travel Industry Alliance president optimistic about this summer season - The Mighty 790 KFGO",
+      "id": "my-family-visited-edge-nyc-and-its-colorful-new-immersive-experience-is-fabulous-silive-com",
+      "title": "My family visited Edge NYC, and its colorful new immersive experience is fabulous - SILive.com",
       "location": "全球",
-      "freshness": "近月动态",
-      "summary": "ND Travel Industry Alliance president optimistic about this summer season &nbsp;&nbsp; The Mighty 790 KFGO",
+      "freshness": "近期上新",
+      "summary": "My family visited Edge NYC, and its colorful new immersive experience is fabulous &nbsp;&nbsp; SILive.com",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "新体验",
-      "sourceName": "The Mighty 790 KFGO",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaUZkdkFuWEh3S3UtQ3Mwekx6ajI3VVZMb1NjaG5lYjJzZjNhVmhZR21hQ28wNjhMMjhZc1NQS0FlRm5oWGVUanVfVnR0UXZteWQ4M3ZvSGNBT2M5Mm10bDlaUlNIVGVtV2lRUzgyc1pGak8yaU9ZV3BnamE4Y1VGWXA1amRQb25DUHR3S0pfS2NWSVhLT0ZiemhBMmpjM1JOQ2FibA?oc=5",
-      "publishedAt": "2026-04-21",
+      "tags": "沉浸体验",
+      "sourceName": "SILive.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaklFR2pwVFlKc2c5cnlsOXdUREFBal8zaEJfVW5KcVFrR3h6LWlzb3Q3X1JLT29SMGM5ZE1DTmZGajBmVm90MUpnVlptd1lCRlhHUmpFanZNV1FfcnktQmlIajJVbnlyd0NlRWJJWkgtVjFveGFTaFdyTXpwaUtFV1BKNHBHVXpIdlhFRnpRb01laHJiQVBfU0owVkhrNVFNeV9zRDRmNE43QmtydGhMMkZtRGJsSzdkaFpfenJjM0xsYl9YS3RYSWh30gHeAUFVX3lxTE9FbVIwQlNkMmtwbmJVaEZlQkZvdHdENmFJNG43TlpHUFVpMWNpalFReFBVcWU3RDdEWmx6NHU4QVA0TnQ1VGl5UE1ieGdocXJLc3N0eE1vSXdRQTFfb3Aybl9ZQWlReUF3VzBTMTdNQV9OdzBaVTFHMW4zOTVNbkRvaUM2WFBzbGN5M2JkUVpMeTg5TlR4Q19YcTl4Q0s3TUNxR0t1YThDYW9Gc090SHg5ZU4xaXNQaVM2OXl4WTkwVHNmbGxhMHBUQkRTRnJ3UVhyRXBOaHl2N254Zmo3Zw?oc=5",
+      "publishedAt": "2026-06-28",
       "bucket": "recent-launch"
     },
     {
@@ -113,32 +142,6 @@ window.TRAVEL_DATA = {
       "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSlR4eFpVNC1IODBVdWdmNnNkdGhsanBvZEgxbnUxUVNXaVZzN3YyRGRjYlcwcllPRFEwX1JQcDJOcVlwTVBOYklBakZUUnlNZVNfUnNEUDJ2dWY4LVBSNGdTV0VoNjFfYjZoeEpZX2NCWjNXUVJPWm83X2Fjb01XWXZtY1VWM0FDb3d4VWl2aG9JaUMweVE?oc=5",
       "publishedAt": "2026-05-27",
       "bucket": "recent-stay"
-    },
-    {
-      "id": "new-immersive-experience-time-mission-clocks-into-houston-this-summer-innovationmap",
-      "title": "New immersive experience Time Mission clocks into Houston this summer - InnovationMap",
-      "location": "全球",
-      "freshness": "近月动态",
-      "summary": "New immersive experience Time Mission clocks into Houston this summer &nbsp;&nbsp; InnovationMap",
-      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "沉浸体验",
-      "sourceName": "InnovationMap",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBZMDh4ajRwSHlZOTBJMm9FaEpjYmtZNzltMUl4aHppckJkcm9tRXpkTTVxMUcwM1JCQlZIdDdmVUpnWHp1eFZsSDdURlI0aXE1eHM2LXZ4dzhVSmZJRHdCd1RlSWhoVXBNMFpyTEdmN0VwNkdscmpDQ1hn?oc=5",
-      "publishedAt": "2026-05-06",
-      "bucket": "recent-launch"
-    },
-    {
-      "id": "new-museum-store-doubles-the-retail-space-at-hall-of-fame-baseball-hall-of-fame",
-      "title": "New Museum Store doubles the retail space at Hall of Fame - Baseball Hall of Fame",
-      "location": "全球",
-      "freshness": "近月动态",
-      "summary": "New Museum Store doubles the retail space at Hall of Fame &nbsp;&nbsp; Baseball Hall of Fame",
-      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "城市文化",
-      "sourceName": "Baseball Hall of Fame",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfNDcxc1J0Qk9qSzdJemlrM0F6djlyazFQT0ZrS2lNUzJsSkR5a09TcWU1NDlsMG5ZTnJkdkRtRUQ1ZnN6Y3VpUmxZaXBmdHNSNVdxNlBEaGc0S0RCMmMtTVc5X3dZZDhKWGlfYVpMYTVTcnRWcEtiZQ?oc=5",
-      "publishedAt": "2026-05-11",
-      "bucket": "recent-culture"
     }
   ],
   "classicLibrary": [
@@ -229,15 +232,43 @@ window.TRAVEL_DATA = {
   ],
   "classicPicks": [
     {
-      "name": "大理洱海西岸",
-      "location": "中国 · 云南大理",
-      "season": "春秋最佳",
-      "summary": "慢节奏与风景结合，适合恢复状态型旅行。",
-      "bestFor": "需要降速放松的人",
-      "budget": "中等",
+      "name": "新加坡滨海湾到甘榜格南",
+      "location": "新加坡",
+      "season": "全年可去",
+      "summary": "现代建筑、夜景与街区生活感在短途中高度兼容。",
+      "bestFor": "第一次去东南亚城市",
+      "budget": "中高",
       "duration": "3 天",
       "tags": [
-        "自然户外",
+        "城市文化",
+        "夜游",
+        "美食"
+      ]
+    },
+    {
+      "name": "巴塞罗那旧城与海边线",
+      "location": "西班牙 · 巴塞罗那",
+      "season": "春夏最佳",
+      "summary": "建筑、海风和夜生活同时在线。",
+      "bestFor": "情侣或第一次欧洲城市度假",
+      "budget": "中高",
+      "duration": "4 天",
+      "tags": [
+        "海边",
+        "城市文化",
+        "夜游"
+      ]
+    },
+    {
+      "name": "清迈古城与山边咖啡路线",
+      "location": "泰国 · 清迈",
+      "season": "11 月到次年 2 月",
+      "summary": "寺庙、手作、咖啡与自然景串联轻松。",
+      "bestFor": "独自旅行或疗愈型出游",
+      "budget": "中等偏低",
+      "duration": "3 天",
+      "tags": [
+        "手作",
         "轻度疗愈",
         "慢旅行"
       ]
@@ -254,34 +285,6 @@ window.TRAVEL_DATA = {
         "海边",
         "周末快闪",
         "自然户外"
-      ]
-    },
-    {
-      "name": "新加坡滨海湾到甘榜格南",
-      "location": "新加坡",
-      "season": "全年可去",
-      "summary": "现代建筑、夜景与街区生活感在短途中高度兼容。",
-      "bestFor": "第一次去东南亚城市",
-      "budget": "中高",
-      "duration": "3 天",
-      "tags": [
-        "城市文化",
-        "夜游",
-        "美食"
-      ]
-    },
-    {
-      "name": "清迈古城与山边咖啡路线",
-      "location": "泰国 · 清迈",
-      "season": "11 月到次年 2 月",
-      "summary": "寺庙、手作、咖啡与自然景串联轻松。",
-      "bestFor": "独自旅行或疗愈型出游",
-      "budget": "中等偏低",
-      "duration": "3 天",
-      "tags": [
-        "手作",
-        "轻度疗愈",
-        "慢旅行"
       ]
     }
   ],
@@ -367,42 +370,16 @@ window.TRAVEL_DATA = {
   ],
   "playModes": [
     {
-      "title": "自然景区 + 沉浸展演",
-      "destination": "新加坡 / 北海道 / 温哥华",
-      "pace": "层次感强",
-      "summary": "白天自然线，夜间沉浸体验线，形成节奏反差。",
-      "route": "户外主线 -> 晚间沉浸展 -> 夜间散步",
-      "bestFor": "亲子、情侣、轻探险用户",
+      "title": "观赛或演出带着走",
+      "destination": "大阪 / 新加坡 / 纽约",
+      "pace": "高情绪价值",
+      "summary": "以赛事或演出为锚点，周边行程轻量串联。",
+      "route": "进场前街区 -> 赛事演出 -> 散场夜宵",
+      "bestFor": "兴趣事件驱动型用户",
       "moods": [
-        "自然户外",
-        "沉浸体验",
-        "亲子友好"
-      ]
-    },
-    {
-      "title": "目的地酒店玩法",
-      "destination": "拉斯维加斯 / 海滨度假区",
-      "pace": "轻决策高舒适",
-      "summary": "把酒店升级为行程主角，外出只补少量重点点位。",
-      "route": "入住体验型酒店 -> 在地停留 -> 1-2 个外出点",
-      "bestFor": "短假、庆祝型出游",
-      "moods": [
-        "目的地酒店",
-        "情侣约会",
-        "周末快闪"
-      ]
-    },
-    {
-      "title": "夜游城市副本",
-      "destination": "新加坡 / 香港 / 东京",
-      "pace": "高记忆点",
-      "summary": "白天轻量主线，夜晚作为体验高光时段。",
-      "route": "观景点 -> 夜间展演 -> 夜宵散步",
-      "bestFor": "朋友组队、情侣快闪",
-      "moods": [
-        "夜游",
         "朋友组队",
-        "城市娱乐"
+        "城市娱乐",
+        "周末快闪"
       ]
     },
     {
@@ -419,6 +396,45 @@ window.TRAVEL_DATA = {
       ]
     },
     {
+      "title": "夜游城市副本",
+      "destination": "新加坡 / 香港 / 东京",
+      "pace": "高记忆点",
+      "summary": "白天轻量主线，夜晚作为体验高光时段。",
+      "route": "观景点 -> 夜间展演 -> 夜宵散步",
+      "bestFor": "朋友组队、情侣快闪",
+      "moods": [
+        "夜游",
+        "朋友组队",
+        "城市娱乐"
+      ]
+    },
+    {
+      "title": "目的地酒店玩法",
+      "destination": "拉斯维加斯 / 海滨度假区",
+      "pace": "轻决策高舒适",
+      "summary": "把酒店升级为行程主角，外出只补少量重点点位。",
+      "route": "入住体验型酒店 -> 在地停留 -> 1-2 个外出点",
+      "bestFor": "短假、庆祝型出游",
+      "moods": [
+        "目的地酒店",
+        "情侣约会",
+        "周末快闪"
+      ]
+    },
+    {
+      "title": "自然景区 + 沉浸展演",
+      "destination": "新加坡 / 北海道 / 温哥华",
+      "pace": "层次感强",
+      "summary": "白天自然线，夜间沉浸体验线，形成节奏反差。",
+      "route": "户外主线 -> 晚间沉浸展 -> 夜间散步",
+      "bestFor": "亲子、情侣、轻探险用户",
+      "moods": [
+        "自然户外",
+        "沉浸体验",
+        "亲子友好"
+      ]
+    },
+    {
       "title": "晨型人能量路线",
       "destination": "京都 / 大理 / 清迈",
       "pace": "松弛恢复型",
@@ -430,19 +446,6 @@ window.TRAVEL_DATA = {
         "一个人出走",
         "自然户外"
       ]
-    },
-    {
-      "title": "观赛或演出带着走",
-      "destination": "大阪 / 新加坡 / 纽约",
-      "pace": "高情绪价值",
-      "summary": "以赛事或演出为锚点，周边行程轻量串联。",
-      "route": "进场前街区 -> 赛事演出 -> 散场夜宵",
-      "bestFor": "兴趣事件驱动型用户",
-      "moods": [
-        "朋友组队",
-        "城市娱乐",
-        "周末快闪"
-      ]
     }
   ],
   "trendSignals": [
@@ -451,16 +454,16 @@ window.TRAVEL_DATA = {
       "summary": "Wellness 与放松体验正在被当作独立出游理由。"
     },
     {
-      "name": "Shelf Discovery",
-      "summary": "市场与超市型体验成为城市旅行新入口。"
+      "name": "Made-for-me Travel",
+      "summary": "旅行越来越强调个性表达与生活方式契合。"
     },
     {
       "name": "Destination Check-in",
       "summary": "住宿空间本身成为旅行内容的一部分。"
     },
     {
-      "name": "Made-for-me Travel",
-      "summary": "旅行越来越强调个性表达与生活方式契合。"
+      "name": "Shelf Discovery",
+      "summary": "市场与超市型体验成为城市旅行新入口。"
     }
   ],
   "sources": [
