@@ -2,7 +2,7 @@ window.TRAVEL_DATA = {
   "site": {
     "name": "去玩实验室",
     "description": "每周更新的旅行玩乐情报站",
-    "lastUpdated": "2026-07-27",
+    "lastUpdated": "2026-08-03",
     "refreshCadence": "每周自动刷新一次",
     "metrics": [
       {
@@ -232,20 +232,6 @@ window.TRAVEL_DATA = {
   ],
   "classicPicks": [
     {
-      "name": "新加坡滨海湾到甘榜格南",
-      "location": "新加坡",
-      "season": "全年可去",
-      "summary": "现代建筑、夜景与街区生活感在短途中高度兼容。",
-      "bestFor": "第一次去东南亚城市",
-      "budget": "中高",
-      "duration": "3 天",
-      "tags": [
-        "城市文化",
-        "夜游",
-        "美食"
-      ]
-    },
-    {
       "name": "巴塞罗那旧城与海边线",
       "location": "西班牙 · 巴塞罗那",
       "season": "春夏最佳",
@@ -260,17 +246,17 @@ window.TRAVEL_DATA = {
       ]
     },
     {
-      "name": "清迈古城与山边咖啡路线",
-      "location": "泰国 · 清迈",
-      "season": "11 月到次年 2 月",
-      "summary": "寺庙、手作、咖啡与自然景串联轻松。",
-      "bestFor": "独自旅行或疗愈型出游",
-      "budget": "中等偏低",
-      "duration": "3 天",
+      "name": "京都岚山与嵯峨野",
+      "location": "日本 · 京都",
+      "season": "春秋最佳",
+      "summary": "清晨竹林、河岸与老街的慢节奏体验非常完整。",
+      "bestFor": "第一次去京都但不想赶景点",
+      "budget": "中等",
+      "duration": "2-3 天",
       "tags": [
-        "手作",
-        "轻度疗愈",
-        "慢旅行"
+        "城市文化",
+        "散步型",
+        "轻度疗愈"
       ]
     },
     {
@@ -285,6 +271,20 @@ window.TRAVEL_DATA = {
         "海边",
         "周末快闪",
         "自然户外"
+      ]
+    },
+    {
+      "name": "清迈古城与山边咖啡路线",
+      "location": "泰国 · 清迈",
+      "season": "11 月到次年 2 月",
+      "summary": "寺庙、手作、咖啡与自然景串联轻松。",
+      "bestFor": "独自旅行或疗愈型出游",
+      "budget": "中等偏低",
+      "duration": "3 天",
+      "tags": [
+        "手作",
+        "轻度疗愈",
+        "慢旅行"
       ]
     }
   ],
@@ -370,32 +370,6 @@ window.TRAVEL_DATA = {
   ],
   "playModes": [
     {
-      "title": "观赛或演出带着走",
-      "destination": "大阪 / 新加坡 / 纽约",
-      "pace": "高情绪价值",
-      "summary": "以赛事或演出为锚点，周边行程轻量串联。",
-      "route": "进场前街区 -> 赛事演出 -> 散场夜宵",
-      "bestFor": "兴趣事件驱动型用户",
-      "moods": [
-        "朋友组队",
-        "城市娱乐",
-        "周末快闪"
-      ]
-    },
-    {
-      "title": "市场寻味路线",
-      "destination": "台北 / 曼谷 / 里斯本",
-      "pace": "轻松具体",
-      "summary": "从市场和超市进入城市味觉地图，而不只打卡餐厅。",
-      "route": "早市 -> 食品店 -> 体验课 -> 晚餐",
-      "bestFor": "把吃当主线的用户",
-      "moods": [
-        "美食",
-        "城市文化",
-        "慢旅行"
-      ]
-    },
-    {
       "title": "夜游城市副本",
       "destination": "新加坡 / 香港 / 东京",
       "pace": "高记忆点",
@@ -406,19 +380,6 @@ window.TRAVEL_DATA = {
         "夜游",
         "朋友组队",
         "城市娱乐"
-      ]
-    },
-    {
-      "title": "目的地酒店玩法",
-      "destination": "拉斯维加斯 / 海滨度假区",
-      "pace": "轻决策高舒适",
-      "summary": "把酒店升级为行程主角，外出只补少量重点点位。",
-      "route": "入住体验型酒店 -> 在地停留 -> 1-2 个外出点",
-      "bestFor": "短假、庆祝型出游",
-      "moods": [
-        "目的地酒店",
-        "情侣约会",
-        "周末快闪"
       ]
     },
     {
@@ -435,6 +396,19 @@ window.TRAVEL_DATA = {
       ]
     },
     {
+      "title": "市场寻味路线",
+      "destination": "台北 / 曼谷 / 里斯本",
+      "pace": "轻松具体",
+      "summary": "从市场和超市进入城市味觉地图，而不只打卡餐厅。",
+      "route": "早市 -> 食品店 -> 体验课 -> 晚餐",
+      "bestFor": "把吃当主线的用户",
+      "moods": [
+        "美食",
+        "城市文化",
+        "慢旅行"
+      ]
+    },
+    {
       "title": "晨型人能量路线",
       "destination": "京都 / 大理 / 清迈",
       "pace": "松弛恢复型",
@@ -446,6 +420,32 @@ window.TRAVEL_DATA = {
         "一个人出走",
         "自然户外"
       ]
+    },
+    {
+      "title": "目的地酒店玩法",
+      "destination": "拉斯维加斯 / 海滨度假区",
+      "pace": "轻决策高舒适",
+      "summary": "把酒店升级为行程主角，外出只补少量重点点位。",
+      "route": "入住体验型酒店 -> 在地停留 -> 1-2 个外出点",
+      "bestFor": "短假、庆祝型出游",
+      "moods": [
+        "目的地酒店",
+        "情侣约会",
+        "周末快闪"
+      ]
+    },
+    {
+      "title": "观赛或演出带着走",
+      "destination": "大阪 / 新加坡 / 纽约",
+      "pace": "高情绪价值",
+      "summary": "以赛事或演出为锚点，周边行程轻量串联。",
+      "route": "进场前街区 -> 赛事演出 -> 散场夜宵",
+      "bestFor": "兴趣事件驱动型用户",
+      "moods": [
+        "朋友组队",
+        "城市娱乐",
+        "周末快闪"
+      ]
     }
   ],
   "trendSignals": [
@@ -454,16 +454,16 @@ window.TRAVEL_DATA = {
       "summary": "Wellness 与放松体验正在被当作独立出游理由。"
     },
     {
-      "name": "Made-for-me Travel",
-      "summary": "旅行越来越强调个性表达与生活方式契合。"
-    },
-    {
       "name": "Destination Check-in",
       "summary": "住宿空间本身成为旅行内容的一部分。"
     },
     {
       "name": "Shelf Discovery",
       "summary": "市场与超市型体验成为城市旅行新入口。"
+    },
+    {
+      "name": "Made-for-me Travel",
+      "summary": "旅行越来越强调个性表达与生活方式契合。"
     }
   ],
   "sources": [
