@@ -2,7 +2,7 @@ window.TRAVEL_DATA = {
   "site": {
     "name": "去玩实验室",
     "description": "每周更新的旅行玩乐情报站",
-    "lastUpdated": "2026-08-17",
+    "lastUpdated": "2026-08-24",
     "refreshCadence": "每周自动刷新一次",
     "metrics": [
       {
@@ -34,6 +34,19 @@ window.TRAVEL_DATA = {
       "bucket": "recent-launch"
     },
     {
+      "id": "a-new-hotel-on-georgetown-s-waterfront-the-georgetowner",
+      "title": "A New Hotel on Georgetown’s Waterfront - The Georgetowner",
+      "location": "全球",
+      "freshness": "近期上新",
+      "summary": "A New Hotel on Georgetown’s Waterfront &nbsp;&nbsp; The Georgetowner",
+      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
+      "tags": "酒店上新",
+      "sourceName": "The Georgetowner",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaEJyWWZoSTJNZzZWd3Z6Y2o5MFk5UDl6QXBjckRuald4RGk0TzhaTUNaSm1LcHN1b1NzTVdLQWJxdHFqM0hMZmVvenNqSjFHZFZvbTJERGRNWTZGbDdTRGV2Y1V4cEZsUC00ejZVZ3J6d0RTR3RURlZlUzVTOXptVS1XQVZVYW9KdDVZ?oc=5",
+      "publishedAt": "2026-07-27",
+      "bucket": "recent-stay"
+    },
+    {
       "id": "a-new-museum-in-the-north-dakota-badlands-brings-theodore-roosevelt-s-life-and-love-of-nature-to-life-travel-leisure",
       "title": "A New Museum in the North Dakota Badlands Brings Theodore Roosevelt’s Life (and Love of Nature) to Life - Travel + Leisure",
       "location": "全球",
@@ -63,19 +76,6 @@ window.TRAVEL_DATA = {
       "bucket": "recent-stay"
     },
     {
-      "id": "can-banks-become-the-new-hotel-tastemakers-capital-one-travel-thinks-so-skift",
-      "title": "Can Banks Become the New Hotel Tastemakers? Capital One Travel Thinks So - Skift",
-      "location": "全球",
-      "freshness": "刚更新",
-      "summary": "Can Banks Become the New Hotel Tastemakers? Capital One Travel Thinks So &nbsp;&nbsp; Skift",
-      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "酒店上新",
-      "sourceName": "Skift",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xb1RBQXBLLU5BcENaSVJSbmg5cFJwYWwzQS1xUTEyZ0VRcUdVMGU5Z3MzM0tiNWxVYjFpOVp5UlZxbzViNHpDSkxNVkd5bUJMN3pTM19CTGhZalhwN1ltbHktbWkzT240bFJoYXEtUUZrNU9ma25xa3lEQ3V6Zw?oc=5",
-      "publishedAt": "2026-08-05",
-      "bucket": "recent-stay"
-    },
-    {
       "id": "disney-world-opens-a-key-new-attraction-early-thestreet-com",
       "title": "Disney World opens a key new attraction early - thestreet.com",
       "location": "全球",
@@ -89,10 +89,36 @@ window.TRAVEL_DATA = {
       "bucket": "recent-launch"
     },
     {
+      "id": "faena-new-york-named-best-new-hotel-by-virtuoso-travel-network-hotelsmag-com",
+      "title": "Faena New York named best new hotel by Virtuoso travel network - HOTELSMag.com",
+      "location": "美国",
+      "freshness": "刚更新",
+      "summary": "Faena New York named best new hotel by Virtuoso travel network &nbsp;&nbsp; HOTELSMag.com",
+      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
+      "tags": "酒店上新",
+      "sourceName": "HOTELSMag.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSkp0aXlmb014Y1BGRngzcFVMRGZNRHNtZ002WXZMalBDb0ZMUnNRUkNHT0ZodGFJTlZLR0gzUGNKSzc4bllqT2hiaWVaUEJPYlVwLUNoeW9BRXhJa0FaT0xxLW90WHJxV0VJVGx6VTYxWmcxeGhheVprZ0ZsektnOFZYWDQ2MXVBdjBGaXhSSHl0aGFK?oc=5",
+      "publishedAt": "2026-08-20",
+      "bucket": "recent-stay"
+    },
+    {
+      "id": "from-tomorrowland-to-avengers-to-avatar-disney-had-surprises-for-everyone-at-d23-the-ultimate-disney-fan-event-facebook-com",
+      "title": "From Tomorrowland to Avengers to Avatar, Disney had surprises for everyone at D23: The Ultimate Disney Fan Event. - facebook.com",
+      "location": "全球",
+      "freshness": "刚更新",
+      "summary": "From Tomorrowland to Avengers to Avatar, Disney had surprises for everyone at D23: The Ultimate Disney Fan Eve",
+      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
+      "tags": "新体验",
+      "sourceName": "facebook.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQVFKVEJZRTYzR24yejlTRGVxU2FQZl9seHJMa185VTVXaS1KeEZNMi1YLWIzQXRXLUVvU2JtMEl0ZDd3c3BRWnJYNUItR3Q3T3J1OUJ5LWRFckxWVVVyTWJfVF84TlI0VE5pckJMUzlkNk1DdmM2OC1HZU01cHZpd2pWamhaejJTOXRsX25mQUd5WmEyX0pCRVJUMFVwUmhDLUsyT1RNaVN0QUtCTHBvcDl5b25UYkJ0bUJaMHkzcUZiZWVRRzFXeW13R1lDMnVQakJ2bkppNThya0U3cmpZ?oc=5",
+      "publishedAt": "2026-08-17",
+      "bucket": "recent-launch"
+    },
+    {
       "id": "inside-oberon-the-new-museum-s-first-ever-restaurant-by-oma-wallpaper-com",
       "title": "Inside Oberon, the New Museum's first-ever restaurant by OMA - wallpaper.com",
       "location": "全球",
-      "freshness": "近期上新",
+      "freshness": "近月动态",
       "summary": "Inside Oberon, the New Museum's first-ever restaurant by OMA &nbsp;&nbsp; wallpaper.com",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
       "tags": "城市文化",
@@ -102,43 +128,17 @@ window.TRAVEL_DATA = {
       "bucket": "recent-culture"
     },
     {
-      "id": "monstropolis-moves-up-to-2027-opening-at-disney-s-hollywood-studios-new-attraction-dining-details-disney-tourist-blog",
-      "title": "Monstropolis Moves Up to 2027 Opening at Disney's Hollywood Studios, New Attraction & Dining Details - Disney Tourist Blog",
-      "location": "全球",
-      "freshness": "刚更新",
-      "summary": "Monstropolis Moves Up to 2027 Opening at Disney's Hollywood Studios, New Attraction & Dining Details &nbsp;&nb",
-      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "新体验",
-      "sourceName": "Disney Tourist Blog",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZnkzQXI2Q253ZGtFNFlXSlpXMWxhbkUzMDZCdzdka24xQ3pSY1BLWGFWNW9VRHFSUmtJdUY2WkdaMXpCbWl2c1hNbjFuU29vYU1ZN2JLR1NJMXNIUzdqd1dPcnNqZWNEZGVUQnhpRzFiX05CRlNmZkt2eGgxNDdmcUh3Q0NQdzh1NE5nSkRXNEhxMm5BYlE2TnhySHJUeHVubU5RUlozQXV1ekF4SlJwWURyZ1pIOEQtYXRqeVhDeVh1MVd4clN1N2k1UQ?oc=5",
-      "publishedAt": "2026-08-16",
-      "bucket": "recent-launch"
-    },
-    {
-      "id": "motown-museum-expansion-tour-reveals-what-visitors-will-see-detroit-free-press",
-      "title": "Motown Museum expansion tour reveals what visitors will see - Detroit Free Press",
+      "id": "maui-council-weighs-new-hotel-zones-in-vacation-rental-phase-out-equation-hawaii-public-radio",
+      "title": "Maui council weighs new hotel zones in vacation rental phase-out equation - Hawaii Public Radio",
       "location": "全球",
       "freshness": "近月动态",
-      "summary": "Motown Museum expansion tour reveals what visitors will see &nbsp;&nbsp; Detroit Free Press",
+      "summary": "Maui council weighs new hotel zones in vacation rental phase-out equation &nbsp;&nbsp; Hawaii Public Radio",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "城市文化",
-      "sourceName": "Detroit Free Press",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX0NMRnpKNUxUc1lzTFpXYWhDSFAzdFVSTVl3YXNBUlBuS2p5ODJ2a2FZSnZ4TzRpejV0ZWhwZEdfTktSdjRNU21iY1BhMGJHTktBUnd5VExPSGpfRUNBRU5yTi1lVm9yUVFfMlBmNHNheGUwZ3VtbXdUbFBkOXpUZE1TbjRSN0p6cXJ5aEo4WHpqbDZTMnhhYS1HblhrOFAxSTlKOHFyZTZ0TFNLazhFWnFBcTRWQmllbmE5T2pJLWRSeWJPVVE0?oc=5",
-      "publishedAt": "2026-06-14",
-      "bucket": "recent-culture"
-    },
-    {
-      "id": "new-attraction-brings-visitors-revenue-back-to-mud-island-the-business-journals",
-      "title": "New attraction brings visitors, revenue back to Mud Island - The Business Journals",
-      "location": "全球",
-      "freshness": "近期上新",
-      "summary": "New attraction brings visitors, revenue back to Mud Island &nbsp;&nbsp; The Business Journals",
-      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "新体验",
-      "sourceName": "The Business Journals",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX0hlRVAxXzJ4N1FMUUdaS0ZZaEhCcDdBclF4cWtQUVpGQ2Z2QThhcmpCLWNyODVjTkxFcHdRSkxYbEpBZ0FiWkNIVEw4dkRFY0hiNnBhcGt1YTRNSktVS25fSE9XWkFzX1hSTkQ2eDc5dlFVcWNWX3pmaWNfU0lFRVhqTkhWM2JFZ28wQlNFVWJjQU5zRlVDd2RCSW04ZnAzYnhnQXp6ZkQ?oc=5",
-      "publishedAt": "2026-07-15",
-      "bucket": "recent-launch"
+      "tags": "酒店上新",
+      "sourceName": "Hawaii Public Radio",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeVVyc2JVQ3VwaVdteFFxYzVMZzVGNUpjZC1aZHRuNlVFQ1J0VGp4aGdpdDVJb05qY3Q1Sk5NbW5mb0JKdDNWdVB6RmkxdzBzVFpqbkwtWTNlSHJQbGI2dHBuMHphNEl6cmZ1b2M5RTMyaW4xOHVBSlM3QzNidHd3NEdnbGtreUNrX3JrcGlOWThCbTJvdGtETjRqYW5pMTlzRng4TzJUdVZDZFRwTUlaejlYQU1GbFltVExwOUxOYlpnN190aERrZg?oc=5",
+      "publishedAt": "2026-05-28",
+      "bucket": "recent-stay"
     }
   ],
   "classicLibrary": [
@@ -229,34 +229,6 @@ window.TRAVEL_DATA = {
   ],
   "classicPicks": [
     {
-      "name": "香港西贡海岸线",
-      "location": "中国香港 · 西贡",
-      "season": "秋冬舒适",
-      "summary": "海岸、村落与咖啡店组合适合周末快闪。",
-      "bestFor": "想短途换气但不想准备复杂",
-      "budget": "中等偏低",
-      "duration": "1-2 天",
-      "tags": [
-        "海边",
-        "周末快闪",
-        "自然户外"
-      ]
-    },
-    {
-      "name": "新加坡滨海湾到甘榜格南",
-      "location": "新加坡",
-      "season": "全年可去",
-      "summary": "现代建筑、夜景与街区生活感在短途中高度兼容。",
-      "bestFor": "第一次去东南亚城市",
-      "budget": "中高",
-      "duration": "3 天",
-      "tags": [
-        "城市文化",
-        "夜游",
-        "美食"
-      ]
-    },
-    {
       "name": "巴塞罗那旧城与海边线",
       "location": "西班牙 · 巴塞罗那",
       "season": "春夏最佳",
@@ -282,6 +254,34 @@ window.TRAVEL_DATA = {
         "城市文化",
         "散步型",
         "轻度疗愈"
+      ]
+    },
+    {
+      "name": "香港西贡海岸线",
+      "location": "中国香港 · 西贡",
+      "season": "秋冬舒适",
+      "summary": "海岸、村落与咖啡店组合适合周末快闪。",
+      "bestFor": "想短途换气但不想准备复杂",
+      "budget": "中等偏低",
+      "duration": "1-2 天",
+      "tags": [
+        "海边",
+        "周末快闪",
+        "自然户外"
+      ]
+    },
+    {
+      "name": "清迈古城与山边咖啡路线",
+      "location": "泰国 · 清迈",
+      "season": "11 月到次年 2 月",
+      "summary": "寺庙、手作、咖啡与自然景串联轻松。",
+      "bestFor": "独自旅行或疗愈型出游",
+      "budget": "中等偏低",
+      "duration": "3 天",
+      "tags": [
+        "手作",
+        "轻度疗愈",
+        "慢旅行"
       ]
     }
   ],
@@ -367,16 +367,16 @@ window.TRAVEL_DATA = {
   ],
   "playModes": [
     {
-      "title": "自然景区 + 沉浸展演",
-      "destination": "新加坡 / 北海道 / 温哥华",
-      "pace": "层次感强",
-      "summary": "白天自然线，夜间沉浸体验线，形成节奏反差。",
-      "route": "户外主线 -> 晚间沉浸展 -> 夜间散步",
-      "bestFor": "亲子、情侣、轻探险用户",
+      "title": "观赛或演出带着走",
+      "destination": "大阪 / 新加坡 / 纽约",
+      "pace": "高情绪价值",
+      "summary": "以赛事或演出为锚点，周边行程轻量串联。",
+      "route": "进场前街区 -> 赛事演出 -> 散场夜宵",
+      "bestFor": "兴趣事件驱动型用户",
       "moods": [
-        "自然户外",
-        "沉浸体验",
-        "亲子友好"
+        "朋友组队",
+        "城市娱乐",
+        "周末快闪"
       ]
     },
     {
@@ -406,6 +406,19 @@ window.TRAVEL_DATA = {
       ]
     },
     {
+      "title": "自然景区 + 沉浸展演",
+      "destination": "新加坡 / 北海道 / 温哥华",
+      "pace": "层次感强",
+      "summary": "白天自然线，夜间沉浸体验线，形成节奏反差。",
+      "route": "户外主线 -> 晚间沉浸展 -> 夜间散步",
+      "bestFor": "亲子、情侣、轻探险用户",
+      "moods": [
+        "自然户外",
+        "沉浸体验",
+        "亲子友好"
+      ]
+    },
+    {
       "title": "晨型人能量路线",
       "destination": "京都 / 大理 / 清迈",
       "pace": "松弛恢复型",
@@ -416,19 +429,6 @@ window.TRAVEL_DATA = {
         "轻度疗愈",
         "一个人出走",
         "自然户外"
-      ]
-    },
-    {
-      "title": "观赛或演出带着走",
-      "destination": "大阪 / 新加坡 / 纽约",
-      "pace": "高情绪价值",
-      "summary": "以赛事或演出为锚点，周边行程轻量串联。",
-      "route": "进场前街区 -> 赛事演出 -> 散场夜宵",
-      "bestFor": "兴趣事件驱动型用户",
-      "moods": [
-        "朋友组队",
-        "城市娱乐",
-        "周末快闪"
       ]
     },
     {
