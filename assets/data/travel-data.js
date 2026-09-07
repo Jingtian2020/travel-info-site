@@ -2,7 +2,7 @@ window.TRAVEL_DATA = {
   "site": {
     "name": "去玩实验室",
     "description": "每周更新的旅行玩乐情报站",
-    "lastUpdated": "2026-08-31",
+    "lastUpdated": "2026-09-07",
     "refreshCadence": "每周自动刷新一次",
     "metrics": [
       {
@@ -21,14 +21,14 @@ window.TRAVEL_DATA = {
   },
   "recentLaunches": [
     {
-      "id": "dear-van-gogh-launches-in-sky-children-of-the-light-a-new-immersive-experience-from-thatgamecompany-games-press",
-      "title": "“ Dear Van Gogh” Launches in Sky: Children of the Light , a New Immersive Experience from thatgamecompany - Games Press",
+      "id": "dear-van-gogh-launches-in-sky-children-of-the-light-a-new-immersive-experience-from-thatgamecompany-gamespress-com",
+      "title": "“ Dear Van Gogh” Launches in Sky: Children of the Light , a New Immersive Experience from thatgamecompany - gamespress.com",
       "location": "全球",
-      "freshness": "近期上新",
+      "freshness": "近月动态",
       "summary": "“ Dear Van Gogh” Launches in Sky: Children of the Light , a New Immersive Experience from thatgamecompany &nbs",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
       "tags": "沉浸体验",
-      "sourceName": "Games Press",
+      "sourceName": "gamespress.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY29EaFdBd3hONENESjA3cl9FelRta3UzeVppS3hmTzFZbHBYQWdoZTVxbzJ0T3ZKRlhfdzlOVWFGSUg0T0RiTnJrVWhGVkxBZ2YxTlhHeWRBZVJnUTVKT2VtNkdjNDlrWjFTQzFROEtyc19ILVRfcE9kZjdoSWJwUzlvUEpOQ0hhOENnRXZWMzcyUkdiZ3ZZS055RlQwdF9hUTRJUUpB?oc=5",
       "publishedAt": "2026-07-17",
       "bucket": "recent-launch"
@@ -45,6 +45,38 @@ window.TRAVEL_DATA = {
       "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaEJyWWZoSTJNZzZWd3Z6Y2o5MFk5UDl6QXBjckRuald4RGk0TzhaTUNaSm1LcHN1b1NzTVdLQWJxdHFqM0hMZmVvenNqSjFHZFZvbTJERGRNWTZGbDdTRGV2Y1V4cEZsUC00ejZVZ3J6d0RTR3RURlZlUzVTOXptVS1XQVZVYW9KdDVZ?oc=5",
       "publishedAt": "2026-07-27",
       "bucket": "recent-stay"
+    },
+    {
+      "id": "a-new-immersive-experience-is-open-at-the-gladys-porter-zoo-phase-ii-of-el-mundo-huasteco-y-totonaco-is-officially-complete-bringing-expanded-habitats-new-animal-experiences-and-the-incredible-ocelot-skywalk-to-the-zoo-read-more-https-vist-ly-5gghf-facebook-com",
+      "title": "A new immersive experience is open at the Gladys Porter Zoo! Phase II of El Mundo Huasteco y Totonaco is officially complete, bringing expanded habitats, new animal experiences and the incredible Ocelot Skywalk to the Zoo. Read more: https://vist.ly/5gghf - facebook.com",
+      "location": "全球",
+      "freshness": "刚更新",
+      "summary": "A new immersive experience is open at the Gladys Porter Zoo! Phase II of El Mundo Huasteco y Totonaco is offic",
+      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
+      "tags": [
+        "沉浸体验",
+        "自然户外"
+      ],
+      "sourceName": "facebook.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOU2Fub1dOc1U2NHVFMzZoTjZHQUR0V0NVZVVzOEZaSmNjbzlNSmV4LWV5YUtDME9yWTBMNXEzXzM0VUJZSlZjWmlQRjV6NjdVWmlTODc5c3NvYUpzQ1dlN2xxRnNlcm5DXzRxY3g2aXVzcThPMXBVZVk3ZkM3VS1mZU5FSzFBeGxvQUpoTzhBamJFRTdWVDV6X21waEh0bEphbnFVR2JrSVBieDl2c0p6Q2lzX2hpX1Y1c18xQ0hEUFh5ZXFxNXoxcDNlVTB1TEVnMVE?oc=5",
+      "publishedAt": "2026-08-28",
+      "bucket": "recent-launch"
+    },
+    {
+      "id": "a-new-museum-and-virtual-tour-gives-visitors-a-new-way-to-experience-the-northwoods-wpr",
+      "title": "A new museum and virtual tour gives visitors a new way to experience the Northwoods - WPR",
+      "location": "全球",
+      "freshness": "刚更新",
+      "summary": "A new museum and virtual tour gives visitors a new way to experience the Northwoods &nbsp;&nbsp; WPR",
+      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
+      "tags": [
+        "城市文化",
+        "沉浸体验"
+      ],
+      "sourceName": "WPR",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQekR4S3FJOWt1bG5WQWw4cmJjdFdvYm5WQUFlYTZhMXlXZDF3dW96cUZ0d091WHgwNWFGMVAzcXg3eDJzUEIzVGVZMlBSNVJoUmtRbTM0bmFOSk8wS2R5LTJQRmlqY28tamR1c3BLMG1SWDNqOHFRNHZ1SkxtNkdPVVpjTlluN0NCRm1lM2psdkdVeHJOejBUMTFpYXE?oc=5",
+      "publishedAt": "2026-09-03",
+      "bucket": "recent-culture"
     },
     {
       "id": "a-new-museum-in-the-north-dakota-badlands-brings-theodore-roosevelt-s-life-and-love-of-nature-to-life-travel-leisure",
@@ -76,68 +108,42 @@ window.TRAVEL_DATA = {
       "bucket": "recent-launch"
     },
     {
-      "id": "fairmont-to-open-property-in-india-near-the-himalayas-travelweekly-com",
-      "title": "Fairmont to open property in India near the Himalayas - travelweekly.com",
+      "id": "four-seasons-is-opening-a-luxe-new-hotel-in-mykonos-here-s-a-look-inside-robb-report",
+      "title": "Four Seasons Is Opening a Luxe New Hotel in Mykonos. Here’s a Look Inside. - Robb Report",
       "location": "全球",
-      "freshness": "近期上新",
-      "summary": "Fairmont to open property in India near the Himalayas &nbsp;&nbsp; travelweekly.com",
+      "freshness": "近月动态",
+      "summary": "Four Seasons Is Opening a Luxe New Hotel in Mykonos. Here’s a Look Inside. &nbsp;&nbsp; Robb Report",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "新体验",
-      "sourceName": "travelweekly.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc09sRmUzSldQQU5ha3g3TXhKT2xxSC1YTmJIYkdDN0hiS0RFU3VkazU2YzRzOUJUUFFoLUg1LXNnUnI1Tk14aV9lb21EQ1NNUXVuNlB1al9fN0JicDVYTUZjdldlSEFYZk5pdHlvbVlSd3RMemNCT3FyMEFYV0lVVVVxZjFoczVpckRZZ042RGRQQnhxOG93bDZWNllPMVhLb3N0UzM0cEo?oc=5",
-      "publishedAt": "2026-08-12",
+      "tags": "酒店上新",
+      "sourceName": "Robb Report",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONGF1Ny11Q0NiNHVUODFfTThrYjdYbUY2MXNoRnlSNi1BYm1EYm95Wm1lSnlwaXdpOFlXeTNFQzFHTDFGdmsxY3JsUm5hczg1bVMzazJUcWFfTjhDZzM2S1pfMWpiWkE4V2poeXROaklYSkpzSnV3aE55R21zUXoyWEdxZzV6cEpQbXc?oc=5",
+      "publishedAt": "2026-06-24",
       "bucket": "recent-stay"
     },
     {
-      "id": "inside-oberon-the-new-museum-s-first-ever-restaurant-by-oma-wallpaper-com",
-      "title": "Inside Oberon, the New Museum's first-ever restaurant by OMA - wallpaper.com",
+      "id": "in-uzbekistan-a-prized-religious-artifact-sits-at-the-heart-of-a-new-museum-cond-nast-traveler",
+      "title": "In Uzbekistan, a Prized Religious Artifact Sits at the Heart of a New Museum - Condé Nast Traveler",
       "location": "全球",
-      "freshness": "近月动态",
-      "summary": "Inside Oberon, the New Museum's first-ever restaurant by OMA &nbsp;&nbsp; wallpaper.com",
+      "freshness": "刚更新",
+      "summary": "In Uzbekistan, a Prized Religious Artifact Sits at the Heart of a New Museum &nbsp;&nbsp; Condé Nast Traveler",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
       "tags": "城市文化",
-      "sourceName": "wallpaper.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44RFVzektMWGt3UDBrbExRM0hRTV81Vl9YV2lpUEZ0U21SempRY21aX1lrV0gyZ2xmNmo0aS03ZVpiYlBhU0JZNEs4Znl5QmlBZmg0MmxCczJZdjg1eFd3aGs1Q0NQMTJsRkJ6NWxJR1ZZNDlDbk1WUTREUThGUQ?oc=5",
-      "publishedAt": "2026-07-07",
+      "sourceName": "Condé Nast Traveler",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcTNIdTBZZmRRbEtJMXl1QjF1SkM5SnVhdEV0dHZ6ZjBQRHBMT1hLNm5NdWFtSk5sYjhaNEZDSVZpUDRNVks4NGVnLXN2RTN4OG5RVk9fV21rYkJhUE5TblpkdGdZLVlieDc4U2xOV1p6NWdZRVgtVi02cm1mRTgtdy1mSEVzVGx6Q0dNaTYzT2hsaXNCdDNXRmpQN0ZLa2hYd2E5X1NrMnQyajlN?oc=5",
+      "publishedAt": "2026-09-01",
       "bucket": "recent-culture"
     },
     {
-      "id": "maui-council-weighs-new-hotel-zones-in-vacation-rental-phase-out-equation-hawaii-public-radio",
-      "title": "Maui council weighs new hotel zones in vacation rental phase-out equation - Hawaii Public Radio",
+      "id": "new-attraction-brings-visitors-revenue-back-to-mud-island-bizjournals-com",
+      "title": "New attraction brings visitors, revenue back to Mud Island - bizjournals.com",
       "location": "全球",
       "freshness": "近月动态",
-      "summary": "Maui council weighs new hotel zones in vacation rental phase-out equation &nbsp;&nbsp; Hawaii Public Radio",
-      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "酒店上新",
-      "sourceName": "Hawaii Public Radio",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeVVyc2JVQ3VwaVdteFFxYzVMZzVGNUpjZC1aZHRuNlVFQ1J0VGp4aGdpdDVJb05qY3Q1Sk5NbW5mb0JKdDNWdVB6RmkxdzBzVFpqbkwtWTNlSHJQbGI2dHBuMHphNEl6cmZ1b2M5RTMyaW4xOHVBSlM3QzNidHd3NEdnbGtreUNrX3JrcGlOWThCbTJvdGtETjRqYW5pMTlzRng4TzJUdVZDZFRwTUlaejlYQU1GbFltVExwOUxOYlpnN190aERrZg?oc=5",
-      "publishedAt": "2026-05-28",
-      "bucket": "recent-stay"
-    },
-    {
-      "id": "new-attraction-brings-visitors-revenue-back-to-mud-island-the-business-journals",
-      "title": "New attraction brings visitors, revenue back to Mud Island - The Business Journals",
-      "location": "全球",
-      "freshness": "近月动态",
-      "summary": "New attraction brings visitors, revenue back to Mud Island &nbsp;&nbsp; The Business Journals",
+      "summary": "New attraction brings visitors, revenue back to Mud Island &nbsp;&nbsp; bizjournals.com",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
       "tags": "新体验",
-      "sourceName": "The Business Journals",
+      "sourceName": "bizjournals.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX0hlRVAxXzJ4N1FMUUdaS0ZZaEhCcDdBclF4cWtQUVpGQ2Z2QThhcmpCLWNyODVjTkxFcHdRSkxYbEpBZ0FiWkNIVEw4dkRFY0hiNnBhcGt1YTRNSktVS25fSE9XWkFzX1hSTkQ2eDc5dlFVcWNWX3pmaWNfU0lFRVhqTkhWM2JFZ28wQlNFVWJjQU5zRlVDd2RCSW04ZnAzYnhnQXp6ZkQ?oc=5",
       "publishedAt": "2026-07-15",
-      "bucket": "recent-launch"
-    },
-    {
-      "id": "new-immersive-experience-time-mission-clocks-into-houston-this-summer-innovationmap",
-      "title": "New immersive experience Time Mission clocks into Houston this summer - InnovationMap",
-      "location": "全球",
-      "freshness": "近月动态",
-      "summary": "New immersive experience Time Mission clocks into Houston this summer &nbsp;&nbsp; InnovationMap",
-      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "沉浸体验",
-      "sourceName": "InnovationMap",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBZMDh4ajRwSHlZOTBJMm9FaEpjYmtZNzltMUl4aHppckJkcm9tRXpkTTVxMUcwM1JCQlZIdDdmVUpnWHp1eFZsSDdURlI0aXE1eHM2LXZ4dzhVSmZJRHdCd1RlSWhoVXBNMFpyTEdmN0VwNkdscmpDQ1hn?oc=5",
-      "publishedAt": "2026-05-06",
       "bucket": "recent-launch"
     }
   ],
@@ -229,31 +235,17 @@ window.TRAVEL_DATA = {
   ],
   "classicPicks": [
     {
-      "name": "香港西贡海岸线",
-      "location": "中国香港 · 西贡",
-      "season": "秋冬舒适",
-      "summary": "海岸、村落与咖啡店组合适合周末快闪。",
-      "bestFor": "想短途换气但不想准备复杂",
-      "budget": "中等偏低",
-      "duration": "1-2 天",
+      "name": "大理洱海西岸",
+      "location": "中国 · 云南大理",
+      "season": "春秋最佳",
+      "summary": "慢节奏与风景结合，适合恢复状态型旅行。",
+      "bestFor": "需要降速放松的人",
+      "budget": "中等",
+      "duration": "3 天",
       "tags": [
-        "海边",
-        "周末快闪",
-        "自然户外"
-      ]
-    },
-    {
-      "name": "巴塞罗那旧城与海边线",
-      "location": "西班牙 · 巴塞罗那",
-      "season": "春夏最佳",
-      "summary": "建筑、海风和夜生活同时在线。",
-      "bestFor": "情侣或第一次欧洲城市度假",
-      "budget": "中高",
-      "duration": "4 天",
-      "tags": [
-        "海边",
-        "城市文化",
-        "夜游"
+        "自然户外",
+        "轻度疗愈",
+        "慢旅行"
       ]
     },
     {
@@ -268,6 +260,20 @@ window.TRAVEL_DATA = {
         "城市文化",
         "夜游",
         "美食"
+      ]
+    },
+    {
+      "name": "清迈古城与山边咖啡路线",
+      "location": "泰国 · 清迈",
+      "season": "11 月到次年 2 月",
+      "summary": "寺庙、手作、咖啡与自然景串联轻松。",
+      "bestFor": "独自旅行或疗愈型出游",
+      "budget": "中等偏低",
+      "duration": "3 天",
+      "tags": [
+        "手作",
+        "轻度疗愈",
+        "慢旅行"
       ]
     },
     {
@@ -367,15 +373,15 @@ window.TRAVEL_DATA = {
   ],
   "playModes": [
     {
-      "title": "观赛或演出带着走",
-      "destination": "大阪 / 新加坡 / 纽约",
-      "pace": "高情绪价值",
-      "summary": "以赛事或演出为锚点，周边行程轻量串联。",
-      "route": "进场前街区 -> 赛事演出 -> 散场夜宵",
-      "bestFor": "兴趣事件驱动型用户",
+      "title": "目的地酒店玩法",
+      "destination": "拉斯维加斯 / 海滨度假区",
+      "pace": "轻决策高舒适",
+      "summary": "把酒店升级为行程主角，外出只补少量重点点位。",
+      "route": "入住体验型酒店 -> 在地停留 -> 1-2 个外出点",
+      "bestFor": "短假、庆祝型出游",
       "moods": [
-        "朋友组队",
-        "城市娱乐",
+        "目的地酒店",
+        "情侣约会",
         "周末快闪"
       ]
     },
@@ -406,6 +412,19 @@ window.TRAVEL_DATA = {
       ]
     },
     {
+      "title": "观赛或演出带着走",
+      "destination": "大阪 / 新加坡 / 纽约",
+      "pace": "高情绪价值",
+      "summary": "以赛事或演出为锚点，周边行程轻量串联。",
+      "route": "进场前街区 -> 赛事演出 -> 散场夜宵",
+      "bestFor": "兴趣事件驱动型用户",
+      "moods": [
+        "朋友组队",
+        "城市娱乐",
+        "周末快闪"
+      ]
+    },
+    {
       "title": "夜游城市副本",
       "destination": "新加坡 / 香港 / 东京",
       "pace": "高记忆点",
@@ -429,19 +448,6 @@ window.TRAVEL_DATA = {
         "轻度疗愈",
         "一个人出走",
         "自然户外"
-      ]
-    },
-    {
-      "title": "目的地酒店玩法",
-      "destination": "拉斯维加斯 / 海滨度假区",
-      "pace": "轻决策高舒适",
-      "summary": "把酒店升级为行程主角，外出只补少量重点点位。",
-      "route": "入住体验型酒店 -> 在地停留 -> 1-2 个外出点",
-      "bestFor": "短假、庆祝型出游",
-      "moods": [
-        "目的地酒店",
-        "情侣约会",
-        "周末快闪"
       ]
     }
   ],
