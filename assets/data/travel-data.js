@@ -2,7 +2,7 @@ window.TRAVEL_DATA = {
   "site": {
     "name": "去玩实验室",
     "description": "每周更新的旅行玩乐情报站",
-    "lastUpdated": "2026-09-07",
+    "lastUpdated": "2026-09-14",
     "refreshCadence": "每周自动刷新一次",
     "metrics": [
       {
@@ -21,14 +21,14 @@ window.TRAVEL_DATA = {
   },
   "recentLaunches": [
     {
-      "id": "dear-van-gogh-launches-in-sky-children-of-the-light-a-new-immersive-experience-from-thatgamecompany-gamespress-com",
-      "title": "“ Dear Van Gogh” Launches in Sky: Children of the Light , a New Immersive Experience from thatgamecompany - gamespress.com",
+      "id": "dear-van-gogh-launches-in-sky-children-of-the-light-a-new-immersive-experience-from-thatgamecompany-games-press",
+      "title": "“ Dear Van Gogh” Launches in Sky: Children of the Light , a New Immersive Experience from thatgamecompany - Games Press",
       "location": "全球",
       "freshness": "近月动态",
       "summary": "“ Dear Van Gogh” Launches in Sky: Children of the Light , a New Immersive Experience from thatgamecompany &nbs",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
       "tags": "沉浸体验",
-      "sourceName": "gamespress.com",
+      "sourceName": "Games Press",
       "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY29EaFdBd3hONENESjA3cl9FelRta3UzeVppS3hmTzFZbHBYQWdoZTVxbzJ0T3ZKRlhfdzlOVWFGSUg0T0RiTnJrVWhGVkxBZ2YxTlhHeWRBZVJnUTVKT2VtNkdjNDlrWjFTQzFROEtyc19ILVRfcE9kZjdoSWJwUzlvUEpOQ0hhOENnRXZWMzcyUkdiZ3ZZS055RlQwdF9hUTRJUUpB?oc=5",
       "publishedAt": "2026-07-17",
       "bucket": "recent-launch"
@@ -37,7 +37,7 @@ window.TRAVEL_DATA = {
       "id": "a-new-hotel-on-georgetown-s-waterfront-the-georgetowner",
       "title": "A New Hotel on Georgetown’s Waterfront - The Georgetowner",
       "location": "全球",
-      "freshness": "近期上新",
+      "freshness": "近月动态",
       "summary": "A New Hotel on Georgetown’s Waterfront &nbsp;&nbsp; The Georgetowner",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
       "tags": "酒店上新",
@@ -45,22 +45,6 @@ window.TRAVEL_DATA = {
       "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaEJyWWZoSTJNZzZWd3Z6Y2o5MFk5UDl6QXBjckRuald4RGk0TzhaTUNaSm1LcHN1b1NzTVdLQWJxdHFqM0hMZmVvenNqSjFHZFZvbTJERGRNWTZGbDdTRGV2Y1V4cEZsUC00ejZVZ3J6d0RTR3RURlZlUzVTOXptVS1XQVZVYW9KdDVZ?oc=5",
       "publishedAt": "2026-07-27",
       "bucket": "recent-stay"
-    },
-    {
-      "id": "a-new-immersive-experience-is-open-at-the-gladys-porter-zoo-phase-ii-of-el-mundo-huasteco-y-totonaco-is-officially-complete-bringing-expanded-habitats-new-animal-experiences-and-the-incredible-ocelot-skywalk-to-the-zoo-read-more-https-vist-ly-5gghf-facebook-com",
-      "title": "A new immersive experience is open at the Gladys Porter Zoo! Phase II of El Mundo Huasteco y Totonaco is officially complete, bringing expanded habitats, new animal experiences and the incredible Ocelot Skywalk to the Zoo. Read more: https://vist.ly/5gghf - facebook.com",
-      "location": "全球",
-      "freshness": "刚更新",
-      "summary": "A new immersive experience is open at the Gladys Porter Zoo! Phase II of El Mundo Huasteco y Totonaco is offic",
-      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": [
-        "沉浸体验",
-        "自然户外"
-      ],
-      "sourceName": "facebook.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOU2Fub1dOc1U2NHVFMzZoTjZHQUR0V0NVZVVzOEZaSmNjbzlNSmV4LWV5YUtDME9yWTBMNXEzXzM0VUJZSlZjWmlQRjV6NjdVWmlTODc5c3NvYUpzQ1dlN2xxRnNlcm5DXzRxY3g2aXVzcThPMXBVZVk3ZkM3VS1mZU5FSzFBeGxvQUpoTzhBamJFRTdWVDV6X21waEh0bEphbnFVR2JrSVBieDl2c0p6Q2lzX2hpX1Y1c18xQ0hEUFh5ZXFxNXoxcDNlVTB1TEVnMVE?oc=5",
-      "publishedAt": "2026-08-28",
-      "bucket": "recent-launch"
     },
     {
       "id": "a-new-museum-and-virtual-tour-gives-visitors-a-new-way-to-experience-the-northwoods-wpr",
@@ -95,6 +79,19 @@ window.TRAVEL_DATA = {
       "bucket": "recent-culture"
     },
     {
+      "id": "a-new-museum-cruise-haute-couture-and-gorgeous-glassware-here-s-what-s-exciting-us-in-travel-right-now-cntraveler-com",
+      "title": "A New Museum, Cruise Haute Couture, and Gorgeous Glassware: Here's What's Exciting Us in Travel Right Now - cntraveler.com",
+      "location": "全球",
+      "freshness": "刚更新",
+      "summary": "A New Museum, Cruise Haute Couture, and Gorgeous Glassware: Here's What's Exciting Us in Travel Right Now &nbs",
+      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
+      "tags": "城市文化",
+      "sourceName": "cntraveler.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSUpJRWNkQXlfQS1wSHhUbkdBZ1FtZ1RHYXV6OXRKYllFcnVBRWxKSWRTdkJIYU9oU1RsSkNSS19SNWxMOEFicEJqeG5nNVZJYjZnbTd6d25KMHB4Ulp3c2tzOTdhblJvd1FWSXpyQUdXZEVGbklZSUN0Vi1adVZtNXExT3RheENKUE8wY2V4UGJtMlhHWmlHcElhT3JDMU1GdWtOaDNuZHJ3XzhYTFE2MFdxNTdfZmZhaXNCeG43TUJsRTJmOTVERVQzUEdoZw?oc=5",
+      "publishedAt": "2026-09-07",
+      "bucket": "recent-culture"
+    },
+    {
       "id": "disney-world-opens-a-key-new-attraction-early-thestreet-com",
       "title": "Disney World opens a key new attraction early - thestreet.com",
       "location": "全球",
@@ -108,43 +105,43 @@ window.TRAVEL_DATA = {
       "bucket": "recent-launch"
     },
     {
-      "id": "four-seasons-is-opening-a-luxe-new-hotel-in-mykonos-here-s-a-look-inside-robb-report",
-      "title": "Four Seasons Is Opening a Luxe New Hotel in Mykonos. Here’s a Look Inside. - Robb Report",
+      "id": "new-attraction-brings-visitors-revenue-back-to-mud-island-the-business-journals",
+      "title": "New attraction brings visitors, revenue back to Mud Island - The Business Journals",
       "location": "全球",
       "freshness": "近月动态",
-      "summary": "Four Seasons Is Opening a Luxe New Hotel in Mykonos. Here’s a Look Inside. &nbsp;&nbsp; Robb Report",
-      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "酒店上新",
-      "sourceName": "Robb Report",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONGF1Ny11Q0NiNHVUODFfTThrYjdYbUY2MXNoRnlSNi1BYm1EYm95Wm1lSnlwaXdpOFlXeTNFQzFHTDFGdmsxY3JsUm5hczg1bVMzazJUcWFfTjhDZzM2S1pfMWpiWkE4V2poeXROaklYSkpzSnV3aE55R21zUXoyWEdxZzV6cEpQbXc?oc=5",
-      "publishedAt": "2026-06-24",
-      "bucket": "recent-stay"
-    },
-    {
-      "id": "in-uzbekistan-a-prized-religious-artifact-sits-at-the-heart-of-a-new-museum-cond-nast-traveler",
-      "title": "In Uzbekistan, a Prized Religious Artifact Sits at the Heart of a New Museum - Condé Nast Traveler",
-      "location": "全球",
-      "freshness": "刚更新",
-      "summary": "In Uzbekistan, a Prized Religious Artifact Sits at the Heart of a New Museum &nbsp;&nbsp; Condé Nast Traveler",
-      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "城市文化",
-      "sourceName": "Condé Nast Traveler",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcTNIdTBZZmRRbEtJMXl1QjF1SkM5SnVhdEV0dHZ6ZjBQRHBMT1hLNm5NdWFtSk5sYjhaNEZDSVZpUDRNVks4NGVnLXN2RTN4OG5RVk9fV21rYkJhUE5TblpkdGdZLVlieDc4U2xOV1p6NWdZRVgtVi02cm1mRTgtdy1mSEVzVGx6Q0dNaTYzT2hsaXNCdDNXRmpQN0ZLa2hYd2E5X1NrMnQyajlN?oc=5",
-      "publishedAt": "2026-09-01",
-      "bucket": "recent-culture"
-    },
-    {
-      "id": "new-attraction-brings-visitors-revenue-back-to-mud-island-bizjournals-com",
-      "title": "New attraction brings visitors, revenue back to Mud Island - bizjournals.com",
-      "location": "全球",
-      "freshness": "近月动态",
-      "summary": "New attraction brings visitors, revenue back to Mud Island &nbsp;&nbsp; bizjournals.com",
+      "summary": "New attraction brings visitors, revenue back to Mud Island &nbsp;&nbsp; The Business Journals",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
       "tags": "新体验",
-      "sourceName": "bizjournals.com",
+      "sourceName": "The Business Journals",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX0hlRVAxXzJ4N1FMUUdaS0ZZaEhCcDdBclF4cWtQUVpGQ2Z2QThhcmpCLWNyODVjTkxFcHdRSkxYbEpBZ0FiWkNIVEw4dkRFY0hiNnBhcGt1YTRNSktVS25fSE9XWkFzX1hSTkQ2eDc5dlFVcWNWX3pmaWNfU0lFRVhqTkhWM2JFZ28wQlNFVWJjQU5zRlVDd2RCSW04ZnAzYnhnQXp6ZkQ?oc=5",
       "publishedAt": "2026-07-15",
       "bucket": "recent-launch"
+    },
+    {
+      "id": "new-hotel-in-new-york-s-hamptons-opens-next-week-travel-weekly",
+      "title": "New hotel in New York's Hamptons opens next week - Travel Weekly",
+      "location": "美国",
+      "freshness": "近月动态",
+      "summary": "New hotel in New York's Hamptons opens next week &nbsp;&nbsp; Travel Weekly",
+      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
+      "tags": "酒店上新",
+      "sourceName": "Travel Weekly",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSlR4eFpVNC1IODBVdWdmNnNkdGhsanBvZEgxbnUxUVNXaVZzN3YyRGRjYlcwcllPRFEwX1JQcDJOcVlwTVBOYklBakZUUnlNZVNfUnNEUDJ2dWY4LVBSNGdTV0VoNjFfYjZoeEpZX2NCWjNXUVJPWm83X2Fjb01XWXZtY1VWM0FDb3d4VWl2aG9JaUMweVE?oc=5",
+      "publishedAt": "2026-05-27",
+      "bucket": "recent-stay"
+    },
+    {
+      "id": "new-resort-opens-up-in-turks-and-caicos-ktvu",
+      "title": "New resort opens up in Turks and Caicos - KTVU",
+      "location": "全球",
+      "freshness": "近月动态",
+      "summary": "New resort opens up in Turks and Caicos &nbsp;&nbsp; KTVU",
+      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
+      "tags": "酒店上新",
+      "sourceName": "KTVU",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03bmdQSl9aek42QXFPdE1mVVpLSFVscEppTkNjeTBpcldpUDRGZmpxQXdOdS03S0dnZjJZY25rc24yYU00WEwxSWFjaFlncncxdG1OYnJkUkxvbmvSAWBBVV95cUxNZzdOR3VnUm9VaV91ZFI0N2M4UmtYaC1ILUNrZ0N5UktqVkdJT3NSTzVxajA2UmtUUzJROUZ3MGNfRkJMSDNfUWFLWjFNUnBVRm16X0xJbFRreDJSWEZzeDU?oc=5",
+      "publishedAt": "2026-05-26",
+      "bucket": "recent-stay"
     }
   ],
   "classicLibrary": [
@@ -235,20 +232,6 @@ window.TRAVEL_DATA = {
   ],
   "classicPicks": [
     {
-      "name": "大理洱海西岸",
-      "location": "中国 · 云南大理",
-      "season": "春秋最佳",
-      "summary": "慢节奏与风景结合，适合恢复状态型旅行。",
-      "bestFor": "需要降速放松的人",
-      "budget": "中等",
-      "duration": "3 天",
-      "tags": [
-        "自然户外",
-        "轻度疗愈",
-        "慢旅行"
-      ]
-    },
-    {
       "name": "新加坡滨海湾到甘榜格南",
       "location": "新加坡",
       "season": "全年可去",
@@ -277,17 +260,31 @@ window.TRAVEL_DATA = {
       ]
     },
     {
-      "name": "京都岚山与嵯峨野",
-      "location": "日本 · 京都",
-      "season": "春秋最佳",
-      "summary": "清晨竹林、河岸与老街的慢节奏体验非常完整。",
-      "bestFor": "第一次去京都但不想赶景点",
-      "budget": "中等",
-      "duration": "2-3 天",
+      "name": "香港西贡海岸线",
+      "location": "中国香港 · 西贡",
+      "season": "秋冬舒适",
+      "summary": "海岸、村落与咖啡店组合适合周末快闪。",
+      "bestFor": "想短途换气但不想准备复杂",
+      "budget": "中等偏低",
+      "duration": "1-2 天",
       "tags": [
+        "海边",
+        "周末快闪",
+        "自然户外"
+      ]
+    },
+    {
+      "name": "巴塞罗那旧城与海边线",
+      "location": "西班牙 · 巴塞罗那",
+      "season": "春夏最佳",
+      "summary": "建筑、海风和夜生活同时在线。",
+      "bestFor": "情侣或第一次欧洲城市度假",
+      "budget": "中高",
+      "duration": "4 天",
+      "tags": [
+        "海边",
         "城市文化",
-        "散步型",
-        "轻度疗愈"
+        "夜游"
       ]
     }
   ],
@@ -373,29 +370,16 @@ window.TRAVEL_DATA = {
   ],
   "playModes": [
     {
-      "title": "目的地酒店玩法",
-      "destination": "拉斯维加斯 / 海滨度假区",
-      "pace": "轻决策高舒适",
-      "summary": "把酒店升级为行程主角，外出只补少量重点点位。",
-      "route": "入住体验型酒店 -> 在地停留 -> 1-2 个外出点",
-      "bestFor": "短假、庆祝型出游",
+      "title": "晨型人能量路线",
+      "destination": "京都 / 大理 / 清迈",
+      "pace": "松弛恢复型",
+      "summary": "把最好的时段前置在早晨，回避人潮提升舒适度。",
+      "route": "晨间出发 -> 空景时段 -> 午后休整",
+      "bestFor": "怕拥挤、想慢一点",
       "moods": [
-        "目的地酒店",
-        "情侣约会",
-        "周末快闪"
-      ]
-    },
-    {
-      "title": "市场寻味路线",
-      "destination": "台北 / 曼谷 / 里斯本",
-      "pace": "轻松具体",
-      "summary": "从市场和超市进入城市味觉地图，而不只打卡餐厅。",
-      "route": "早市 -> 食品店 -> 体验课 -> 晚餐",
-      "bestFor": "把吃当主线的用户",
-      "moods": [
-        "美食",
-        "城市文化",
-        "慢旅行"
+        "轻度疗愈",
+        "一个人出走",
+        "自然户外"
       ]
     },
     {
@@ -412,19 +396,6 @@ window.TRAVEL_DATA = {
       ]
     },
     {
-      "title": "观赛或演出带着走",
-      "destination": "大阪 / 新加坡 / 纽约",
-      "pace": "高情绪价值",
-      "summary": "以赛事或演出为锚点，周边行程轻量串联。",
-      "route": "进场前街区 -> 赛事演出 -> 散场夜宵",
-      "bestFor": "兴趣事件驱动型用户",
-      "moods": [
-        "朋友组队",
-        "城市娱乐",
-        "周末快闪"
-      ]
-    },
-    {
       "title": "夜游城市副本",
       "destination": "新加坡 / 香港 / 东京",
       "pace": "高记忆点",
@@ -438,35 +409,61 @@ window.TRAVEL_DATA = {
       ]
     },
     {
-      "title": "晨型人能量路线",
-      "destination": "京都 / 大理 / 清迈",
-      "pace": "松弛恢复型",
-      "summary": "把最好的时段前置在早晨，回避人潮提升舒适度。",
-      "route": "晨间出发 -> 空景时段 -> 午后休整",
-      "bestFor": "怕拥挤、想慢一点",
+      "title": "市场寻味路线",
+      "destination": "台北 / 曼谷 / 里斯本",
+      "pace": "轻松具体",
+      "summary": "从市场和超市进入城市味觉地图，而不只打卡餐厅。",
+      "route": "早市 -> 食品店 -> 体验课 -> 晚餐",
+      "bestFor": "把吃当主线的用户",
       "moods": [
-        "轻度疗愈",
-        "一个人出走",
-        "自然户外"
+        "美食",
+        "城市文化",
+        "慢旅行"
+      ]
+    },
+    {
+      "title": "目的地酒店玩法",
+      "destination": "拉斯维加斯 / 海滨度假区",
+      "pace": "轻决策高舒适",
+      "summary": "把酒店升级为行程主角，外出只补少量重点点位。",
+      "route": "入住体验型酒店 -> 在地停留 -> 1-2 个外出点",
+      "bestFor": "短假、庆祝型出游",
+      "moods": [
+        "目的地酒店",
+        "情侣约会",
+        "周末快闪"
+      ]
+    },
+    {
+      "title": "观赛或演出带着走",
+      "destination": "大阪 / 新加坡 / 纽约",
+      "pace": "高情绪价值",
+      "summary": "以赛事或演出为锚点，周边行程轻量串联。",
+      "route": "进场前街区 -> 赛事演出 -> 散场夜宵",
+      "bestFor": "兴趣事件驱动型用户",
+      "moods": [
+        "朋友组队",
+        "城市娱乐",
+        "周末快闪"
       ]
     }
   ],
   "trendSignals": [
     {
-      "name": "Glowmads",
-      "summary": "Wellness 与放松体验正在被当作独立出游理由。"
+      "name": "Made-for-me Travel",
+      "summary": "旅行越来越强调个性表达与生活方式契合。"
     },
     {
       "name": "Shelf Discovery",
       "summary": "市场与超市型体验成为城市旅行新入口。"
     },
     {
-      "name": "Destination Check-in",
-      "summary": "住宿空间本身成为旅行内容的一部分。"
+      "name": "Glowmads",
+      "summary": "Wellness 与放松体验正在被当作独立出游理由。"
     },
     {
-      "name": "Made-for-me Travel",
-      "summary": "旅行越来越强调个性表达与生活方式契合。"
+      "name": "Destination Check-in",
+      "summary": "住宿空间本身成为旅行内容的一部分。"
     }
   ],
   "sources": [
