@@ -2,7 +2,7 @@ window.TRAVEL_DATA = {
   "site": {
     "name": "去玩实验室",
     "description": "每周更新的旅行玩乐情报站",
-    "lastUpdated": "2026-09-14",
+    "lastUpdated": "2026-09-21",
     "refreshCadence": "每周自动刷新一次",
     "metrics": [
       {
@@ -21,27 +21,43 @@ window.TRAVEL_DATA = {
   },
   "recentLaunches": [
     {
-      "id": "dear-van-gogh-launches-in-sky-children-of-the-light-a-new-immersive-experience-from-thatgamecompany-games-press",
-      "title": "“ Dear Van Gogh” Launches in Sky: Children of the Light , a New Immersive Experience from thatgamecompany - Games Press",
+      "id": "love-letter-to-nashville-dolly-parton-s-hotel-and-museum-to-open-euronews-com",
+      "title": "‘Love letter to Nashville’: Dolly Parton’s hotel and museum to open - Euronews.com",
       "location": "全球",
-      "freshness": "近月动态",
-      "summary": "“ Dear Van Gogh” Launches in Sky: Children of the Light , a New Immersive Experience from thatgamecompany &nbs",
+      "freshness": "刚更新",
+      "summary": "‘Love letter to Nashville’: Dolly Parton’s hotel and museum to open &nbsp;&nbsp; Euronews.com",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "沉浸体验",
-      "sourceName": "Games Press",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY29EaFdBd3hONENESjA3cl9FelRta3UzeVppS3hmTzFZbHBYQWdoZTVxbzJ0T3ZKRlhfdzlOVWFGSUg0T0RiTnJrVWhGVkxBZ2YxTlhHeWRBZVJnUTVKT2VtNkdjNDlrWjFTQzFROEtyc19ILVRfcE9kZjdoSWJwUzlvUEpOQ0hhOENnRXZWMzcyUkdiZ3ZZS055RlQwdF9hUTRJUUpB?oc=5",
-      "publishedAt": "2026-07-17",
-      "bucket": "recent-launch"
+      "tags": [
+        "城市文化",
+        "酒店上新"
+      ],
+      "sourceName": "Euronews.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY211Q1BlYkxKSUdjaGNjV0s4MXQzRUxvUTBqQzI0cTZwdFc0ekNOR3FEb1lwU09xdXlVb042cUtXelI5WFhpcVQ0N29KSmRFelZhVGIzVFkyNFFZUkl2dVN3aHI4SzNiWWMtaHhrNjR3MUtHVklhd0FQaUItLWhMd0pORUxDUGFmcldicnhfMzBVeUNjelJ1ODZ2YXdfNGFiamtyQXI4QjloVnlQV050RWoyUnhCT3RyOGp1cWZxdTVVdw?oc=5",
+      "publishedAt": "2026-09-10",
+      "bucket": "recent-stay"
     },
     {
-      "id": "a-new-hotel-on-georgetown-s-waterfront-the-georgetowner",
-      "title": "A New Hotel on Georgetown’s Waterfront - The Georgetowner",
+      "id": "3-major-moves-silversea-cruises-is-making-right-now-from-a-new-hotel-to-culinary-sailings-forbes-com",
+      "title": "3 Major Moves Silversea Cruises Is Making Right Now—From A New Hotel To Culinary Sailings - forbes.com",
       "location": "全球",
-      "freshness": "近月动态",
-      "summary": "A New Hotel on Georgetown’s Waterfront &nbsp;&nbsp; The Georgetowner",
+      "freshness": "近期上新",
+      "summary": "3 Major Moves Silversea Cruises Is Making Right Now—From A New Hotel To Culinary Sailings &nbsp;&nbsp; forbes.",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
       "tags": "酒店上新",
-      "sourceName": "The Georgetowner",
+      "sourceName": "forbes.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNV3diazZaNlhReWVxdFNRMFpyWDg5aUpWUUhqQklYT3FCb0pNWGJDRWYwSGNleUxBZFJGanZDandZVFZMSFd3SExDaERHdmJfa1lKMDgxNDBOcEtITzdxTzhERnZ4T0tjd0YwTHpRc3FrT2h2SWQ4SnpDNkFXaG5EeGUzSlluNWoybEgtaHRrZWZ2LWtzWUtUVG5GcVdLZUxkSHd2Zzhsc0hsNlBabWo4ek9pby1JRVQ0ZVI0OWdQRHN6V3NWa1AtRXQxMThLR3F0aDJjOUx5UndpX3dIWkNvTGJB?oc=5",
+      "publishedAt": "2026-08-26",
+      "bucket": "recent-stay"
+    },
+    {
+      "id": "a-new-hotel-on-georgetown-s-waterfront-georgetowner-com",
+      "title": "A New Hotel on Georgetown’s Waterfront - georgetowner.com",
+      "location": "全球",
+      "freshness": "近月动态",
+      "summary": "A New Hotel on Georgetown’s Waterfront &nbsp;&nbsp; georgetowner.com",
+      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
+      "tags": "酒店上新",
+      "sourceName": "georgetowner.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaEJyWWZoSTJNZzZWd3Z6Y2o5MFk5UDl6QXBjckRuald4RGk0TzhaTUNaSm1LcHN1b1NzTVdLQWJxdHFqM0hMZmVvenNqSjFHZFZvbTJERGRNWTZGbDdTRGV2Y1V4cEZsUC00ejZVZ3J6d0RTR3RURlZlUzVTOXptVS1XQVZVYW9KdDVZ?oc=5",
       "publishedAt": "2026-07-27",
       "bucket": "recent-stay"
@@ -50,7 +66,7 @@ window.TRAVEL_DATA = {
       "id": "a-new-museum-and-virtual-tour-gives-visitors-a-new-way-to-experience-the-northwoods-wpr",
       "title": "A new museum and virtual tour gives visitors a new way to experience the Northwoods - WPR",
       "location": "全球",
-      "freshness": "刚更新",
+      "freshness": "近期上新",
       "summary": "A new museum and virtual tour gives visitors a new way to experience the Northwoods &nbsp;&nbsp; WPR",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
       "tags": [
@@ -79,14 +95,14 @@ window.TRAVEL_DATA = {
       "bucket": "recent-culture"
     },
     {
-      "id": "a-new-museum-cruise-haute-couture-and-gorgeous-glassware-here-s-what-s-exciting-us-in-travel-right-now-cntraveler-com",
-      "title": "A New Museum, Cruise Haute Couture, and Gorgeous Glassware: Here's What's Exciting Us in Travel Right Now - cntraveler.com",
+      "id": "a-new-museum-cruise-haute-couture-and-gorgeous-glassware-here-s-what-s-exciting-us-in-travel-right-now-cond-nast-traveler",
+      "title": "A New Museum, Cruise Haute Couture, and Gorgeous Glassware: Here's What's Exciting Us in Travel Right Now - Condé Nast Traveler",
       "location": "全球",
       "freshness": "刚更新",
       "summary": "A New Museum, Cruise Haute Couture, and Gorgeous Glassware: Here's What's Exciting Us in Travel Right Now &nbs",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
       "tags": "城市文化",
-      "sourceName": "cntraveler.com",
+      "sourceName": "Condé Nast Traveler",
       "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSUpJRWNkQXlfQS1wSHhUbkdBZ1FtZ1RHYXV6OXRKYllFcnVBRWxKSWRTdkJIYU9oU1RsSkNSS19SNWxMOEFicEJqeG5nNVZJYjZnbTd6d25KMHB4Ulp3c2tzOTdhblJvd1FWSXpyQUdXZEVGbklZSUN0Vi1adVZtNXExT3RheENKUE8wY2V4UGJtMlhHWmlHcElhT3JDMU1GdWtOaDNuZHJ3XzhYTFE2MFdxNTdfZmZhaXNCeG43TUJsRTJmOTVERVQzUEdoZw?oc=5",
       "publishedAt": "2026-09-07",
       "bucket": "recent-culture"
@@ -118,29 +134,16 @@ window.TRAVEL_DATA = {
       "bucket": "recent-launch"
     },
     {
-      "id": "new-hotel-in-new-york-s-hamptons-opens-next-week-travel-weekly",
-      "title": "New hotel in New York's Hamptons opens next week - Travel Weekly",
+      "id": "new-hotel-in-new-york-s-hamptons-opens-next-week-travelweekly-com",
+      "title": "New hotel in New York's Hamptons opens next week - travelweekly.com",
       "location": "美国",
       "freshness": "近月动态",
-      "summary": "New hotel in New York's Hamptons opens next week &nbsp;&nbsp; Travel Weekly",
+      "summary": "New hotel in New York's Hamptons opens next week &nbsp;&nbsp; travelweekly.com",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
       "tags": "酒店上新",
-      "sourceName": "Travel Weekly",
+      "sourceName": "travelweekly.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSlR4eFpVNC1IODBVdWdmNnNkdGhsanBvZEgxbnUxUVNXaVZzN3YyRGRjYlcwcllPRFEwX1JQcDJOcVlwTVBOYklBakZUUnlNZVNfUnNEUDJ2dWY4LVBSNGdTV0VoNjFfYjZoeEpZX2NCWjNXUVJPWm83X2Fjb01XWXZtY1VWM0FDb3d4VWl2aG9JaUMweVE?oc=5",
       "publishedAt": "2026-05-27",
-      "bucket": "recent-stay"
-    },
-    {
-      "id": "new-resort-opens-up-in-turks-and-caicos-ktvu",
-      "title": "New resort opens up in Turks and Caicos - KTVU",
-      "location": "全球",
-      "freshness": "近月动态",
-      "summary": "New resort opens up in Turks and Caicos &nbsp;&nbsp; KTVU",
-      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "酒店上新",
-      "sourceName": "KTVU",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03bmdQSl9aek42QXFPdE1mVVpLSFVscEppTkNjeTBpcldpUDRGZmpxQXdOdS03S0dnZjJZY25rc24yYU00WEwxSWFjaFlncncxdG1OYnJkUkxvbmvSAWBBVV95cUxNZzdOR3VnUm9VaV91ZFI0N2M4UmtYaC1ILUNrZ0N5UktqVkdJT3NSTzVxajA2UmtUUzJROUZ3MGNfRkJMSDNfUWFLWjFNUnBVRm16X0xJbFRreDJSWEZzeDU?oc=5",
-      "publishedAt": "2026-05-26",
       "bucket": "recent-stay"
     }
   ],
@@ -232,17 +235,17 @@ window.TRAVEL_DATA = {
   ],
   "classicPicks": [
     {
-      "name": "新加坡滨海湾到甘榜格南",
-      "location": "新加坡",
-      "season": "全年可去",
-      "summary": "现代建筑、夜景与街区生活感在短途中高度兼容。",
-      "bestFor": "第一次去东南亚城市",
-      "budget": "中高",
-      "duration": "3 天",
+      "name": "京都岚山与嵯峨野",
+      "location": "日本 · 京都",
+      "season": "春秋最佳",
+      "summary": "清晨竹林、河岸与老街的慢节奏体验非常完整。",
+      "bestFor": "第一次去京都但不想赶景点",
+      "budget": "中等",
+      "duration": "2-3 天",
       "tags": [
         "城市文化",
-        "夜游",
-        "美食"
+        "散步型",
+        "轻度疗愈"
       ]
     },
     {
@@ -260,31 +263,31 @@ window.TRAVEL_DATA = {
       ]
     },
     {
-      "name": "香港西贡海岸线",
-      "location": "中国香港 · 西贡",
-      "season": "秋冬舒适",
-      "summary": "海岸、村落与咖啡店组合适合周末快闪。",
-      "bestFor": "想短途换气但不想准备复杂",
-      "budget": "中等偏低",
-      "duration": "1-2 天",
+      "name": "大理洱海西岸",
+      "location": "中国 · 云南大理",
+      "season": "春秋最佳",
+      "summary": "慢节奏与风景结合，适合恢复状态型旅行。",
+      "bestFor": "需要降速放松的人",
+      "budget": "中等",
+      "duration": "3 天",
       "tags": [
-        "海边",
-        "周末快闪",
-        "自然户外"
+        "自然户外",
+        "轻度疗愈",
+        "慢旅行"
       ]
     },
     {
-      "name": "巴塞罗那旧城与海边线",
-      "location": "西班牙 · 巴塞罗那",
-      "season": "春夏最佳",
-      "summary": "建筑、海风和夜生活同时在线。",
-      "bestFor": "情侣或第一次欧洲城市度假",
+      "name": "新加坡滨海湾到甘榜格南",
+      "location": "新加坡",
+      "season": "全年可去",
+      "summary": "现代建筑、夜景与街区生活感在短途中高度兼容。",
+      "bestFor": "第一次去东南亚城市",
       "budget": "中高",
-      "duration": "4 天",
+      "duration": "3 天",
       "tags": [
-        "海边",
         "城市文化",
-        "夜游"
+        "夜游",
+        "美食"
       ]
     }
   ],
@@ -370,19 +373,6 @@ window.TRAVEL_DATA = {
   ],
   "playModes": [
     {
-      "title": "晨型人能量路线",
-      "destination": "京都 / 大理 / 清迈",
-      "pace": "松弛恢复型",
-      "summary": "把最好的时段前置在早晨，回避人潮提升舒适度。",
-      "route": "晨间出发 -> 空景时段 -> 午后休整",
-      "bestFor": "怕拥挤、想慢一点",
-      "moods": [
-        "轻度疗愈",
-        "一个人出走",
-        "自然户外"
-      ]
-    },
-    {
       "title": "自然景区 + 沉浸展演",
       "destination": "新加坡 / 北海道 / 温哥华",
       "pace": "层次感强",
@@ -409,6 +399,19 @@ window.TRAVEL_DATA = {
       ]
     },
     {
+      "title": "晨型人能量路线",
+      "destination": "京都 / 大理 / 清迈",
+      "pace": "松弛恢复型",
+      "summary": "把最好的时段前置在早晨，回避人潮提升舒适度。",
+      "route": "晨间出发 -> 空景时段 -> 午后休整",
+      "bestFor": "怕拥挤、想慢一点",
+      "moods": [
+        "轻度疗愈",
+        "一个人出走",
+        "自然户外"
+      ]
+    },
+    {
       "title": "市场寻味路线",
       "destination": "台北 / 曼谷 / 里斯本",
       "pace": "轻松具体",
@@ -419,19 +422,6 @@ window.TRAVEL_DATA = {
         "美食",
         "城市文化",
         "慢旅行"
-      ]
-    },
-    {
-      "title": "目的地酒店玩法",
-      "destination": "拉斯维加斯 / 海滨度假区",
-      "pace": "轻决策高舒适",
-      "summary": "把酒店升级为行程主角，外出只补少量重点点位。",
-      "route": "入住体验型酒店 -> 在地停留 -> 1-2 个外出点",
-      "bestFor": "短假、庆祝型出游",
-      "moods": [
-        "目的地酒店",
-        "情侣约会",
-        "周末快闪"
       ]
     },
     {
@@ -446,24 +436,37 @@ window.TRAVEL_DATA = {
         "城市娱乐",
         "周末快闪"
       ]
+    },
+    {
+      "title": "目的地酒店玩法",
+      "destination": "拉斯维加斯 / 海滨度假区",
+      "pace": "轻决策高舒适",
+      "summary": "把酒店升级为行程主角，外出只补少量重点点位。",
+      "route": "入住体验型酒店 -> 在地停留 -> 1-2 个外出点",
+      "bestFor": "短假、庆祝型出游",
+      "moods": [
+        "目的地酒店",
+        "情侣约会",
+        "周末快闪"
+      ]
     }
   ],
   "trendSignals": [
     {
-      "name": "Made-for-me Travel",
-      "summary": "旅行越来越强调个性表达与生活方式契合。"
+      "name": "Destination Check-in",
+      "summary": "住宿空间本身成为旅行内容的一部分。"
     },
     {
-      "name": "Shelf Discovery",
-      "summary": "市场与超市型体验成为城市旅行新入口。"
+      "name": "Made-for-me Travel",
+      "summary": "旅行越来越强调个性表达与生活方式契合。"
     },
     {
       "name": "Glowmads",
       "summary": "Wellness 与放松体验正在被当作独立出游理由。"
     },
     {
-      "name": "Destination Check-in",
-      "summary": "住宿空间本身成为旅行内容的一部分。"
+      "name": "Shelf Discovery",
+      "summary": "市场与超市型体验成为城市旅行新入口。"
     }
   ],
   "sources": [
