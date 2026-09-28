@@ -2,7 +2,7 @@ window.TRAVEL_DATA = {
   "site": {
     "name": "去玩实验室",
     "description": "每周更新的旅行玩乐情报站",
-    "lastUpdated": "2026-09-21",
+    "lastUpdated": "2026-09-28",
     "refreshCadence": "每周自动刷新一次",
     "metrics": [
       {
@@ -21,43 +21,40 @@ window.TRAVEL_DATA = {
   },
   "recentLaunches": [
     {
-      "id": "love-letter-to-nashville-dolly-parton-s-hotel-and-museum-to-open-euronews-com",
-      "title": "‘Love letter to Nashville’: Dolly Parton’s hotel and museum to open - Euronews.com",
-      "location": "全球",
-      "freshness": "刚更新",
-      "summary": "‘Love letter to Nashville’: Dolly Parton’s hotel and museum to open &nbsp;&nbsp; Euronews.com",
-      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": [
-        "城市文化",
-        "酒店上新"
-      ],
-      "sourceName": "Euronews.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY211Q1BlYkxKSUdjaGNjV0s4MXQzRUxvUTBqQzI0cTZwdFc0ekNOR3FEb1lwU09xdXlVb042cUtXelI5WFhpcVQ0N29KSmRFelZhVGIzVFkyNFFZUkl2dVN3aHI4SzNiWWMtaHhrNjR3MUtHVklhd0FQaUItLWhMd0pORUxDUGFmcldicnhfMzBVeUNjelJ1ODZ2YXdfNGFiamtyQXI4QjloVnlQV050RWoyUnhCT3RyOGp1cWZxdTVVdw?oc=5",
-      "publishedAt": "2026-09-10",
-      "bucket": "recent-stay"
-    },
-    {
-      "id": "3-major-moves-silversea-cruises-is-making-right-now-from-a-new-hotel-to-culinary-sailings-forbes-com",
-      "title": "3 Major Moves Silversea Cruises Is Making Right Now—From A New Hotel To Culinary Sailings - forbes.com",
+      "id": "3-major-moves-silversea-cruises-is-making-right-now-from-a-new-hotel-to-culinary-sailings-forbes",
+      "title": "3 Major Moves Silversea Cruises Is Making Right Now—From A New Hotel To Culinary Sailings - Forbes",
       "location": "全球",
       "freshness": "近期上新",
-      "summary": "3 Major Moves Silversea Cruises Is Making Right Now—From A New Hotel To Culinary Sailings &nbsp;&nbsp; forbes.",
+      "summary": "3 Major Moves Silversea Cruises Is Making Right Now—From A New Hotel To Culinary Sailings &nbsp;&nbsp; Forbes",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
       "tags": "酒店上新",
-      "sourceName": "forbes.com",
+      "sourceName": "Forbes",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNV3diazZaNlhReWVxdFNRMFpyWDg5aUpWUUhqQklYT3FCb0pNWGJDRWYwSGNleUxBZFJGanZDandZVFZMSFd3SExDaERHdmJfa1lKMDgxNDBOcEtITzdxTzhERnZ4T0tjd0YwTHpRc3FrT2h2SWQ4SnpDNkFXaG5EeGUzSlluNWoybEgtaHRrZWZ2LWtzWUtUVG5GcVdLZUxkSHd2Zzhsc0hsNlBabWo4ek9pby1JRVQ0ZVI0OWdQRHN6V3NWa1AtRXQxMThLR3F0aDJjOUx5UndpX3dIWkNvTGJB?oc=5",
       "publishedAt": "2026-08-26",
       "bucket": "recent-stay"
     },
     {
-      "id": "a-new-hotel-on-georgetown-s-waterfront-georgetowner-com",
-      "title": "A New Hotel on Georgetown’s Waterfront - georgetowner.com",
+      "id": "76-rooms-including-2-villas-the-new-hotel-set-to-open-on-israel-s-most-beautiful-beach-the-jerusalem-post",
+      "title": "76 rooms, including 2 villas: The new hotel set to open on Israel’s most beautiful beach - The Jerusalem Post",
       "location": "全球",
-      "freshness": "近月动态",
-      "summary": "A New Hotel on Georgetown’s Waterfront &nbsp;&nbsp; georgetowner.com",
+      "freshness": "刚更新",
+      "summary": "76 rooms, including 2 villas: The new hotel set to open on Israel’s most beautiful beach &nbsp;&nbsp; The Jeru",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
       "tags": "酒店上新",
-      "sourceName": "georgetowner.com",
+      "sourceName": "The Jerusalem Post",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VcmF4eDNaTnZCcUgyYUx5WTd1eVFIS1BOcHI2VEVHa1ZWSldmRi0wOEtHZ3VXaVcwZ2hOYjA1WkxUYTZTbm9uNmxuNEJZTFZ0MjZCZ3d3?oc=5",
+      "publishedAt": "2026-09-22",
+      "bucket": "recent-stay"
+    },
+    {
+      "id": "a-new-hotel-on-georgetown-s-waterfront-the-georgetowner",
+      "title": "A New Hotel on Georgetown’s Waterfront - The Georgetowner",
+      "location": "全球",
+      "freshness": "近月动态",
+      "summary": "A New Hotel on Georgetown’s Waterfront &nbsp;&nbsp; The Georgetowner",
+      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
+      "tags": "酒店上新",
+      "sourceName": "The Georgetowner",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaEJyWWZoSTJNZzZWd3Z6Y2o5MFk5UDl6QXBjckRuald4RGk0TzhaTUNaSm1LcHN1b1NzTVdLQWJxdHFqM0hMZmVvenNqSjFHZFZvbTJERGRNWTZGbDdTRGV2Y1V4cEZsUC00ejZVZ3J6d0RTR3RURlZlUzVTOXptVS1XQVZVYW9KdDVZ?oc=5",
       "publishedAt": "2026-07-27",
       "bucket": "recent-stay"
@@ -98,7 +95,7 @@ window.TRAVEL_DATA = {
       "id": "a-new-museum-cruise-haute-couture-and-gorgeous-glassware-here-s-what-s-exciting-us-in-travel-right-now-cond-nast-traveler",
       "title": "A New Museum, Cruise Haute Couture, and Gorgeous Glassware: Here's What's Exciting Us in Travel Right Now - Condé Nast Traveler",
       "location": "全球",
-      "freshness": "刚更新",
+      "freshness": "近期上新",
       "summary": "A New Museum, Cruise Haute Couture, and Gorgeous Glassware: Here's What's Exciting Us in Travel Right Now &nbs",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
       "tags": "城市文化",
@@ -108,42 +105,42 @@ window.TRAVEL_DATA = {
       "bucket": "recent-culture"
     },
     {
-      "id": "disney-world-opens-a-key-new-attraction-early-thestreet-com",
-      "title": "Disney World opens a key new attraction early - thestreet.com",
+      "id": "antiques-ai-and-a-planetarium-the-new-attraction-coming-to-the-golan-the-jerusalem-post",
+      "title": "Antiques, AI, and a planetarium: The new attraction coming to the Golan - The Jerusalem Post",
       "location": "全球",
-      "freshness": "近月动态",
-      "summary": "Disney World opens a key new attraction early &nbsp;&nbsp; thestreet.com",
+      "freshness": "刚更新",
+      "summary": "Antiques, AI, and a planetarium: The new attraction coming to the Golan &nbsp;&nbsp; The Jerusalem Post",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
       "tags": "新体验",
-      "sourceName": "thestreet.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaElMLWdQQllCM20ycUIyMkxOQjlualRkbHlmSElGZHpNRVlUTG1NdG52Q2pEVWh5QXI5UVlNTk1zRlhwVUIyVmFUWVA5c3N3V2xGLV9MWVVKY0NGUzlpOU1mYTVOX1FDOUJHYkNUSFJsazZOVWVER0VSdUYwUmlPNlN2Z0s?oc=5",
-      "publishedAt": "2026-05-25",
+      "sourceName": "The Jerusalem Post",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iRDQwWFR3TW1NeXI0bjFJU3F5UWU1WDdKeHFOQkt2WHNfWlU1SjJueFhOLVgtTW1jZ0dXZ1FSaElXNVVzd05iWHRUTlk2bmdYRFB5Y2pn?oc=5",
+      "publishedAt": "2026-09-22",
       "bucket": "recent-launch"
     },
     {
-      "id": "new-attraction-brings-visitors-revenue-back-to-mud-island-the-business-journals",
-      "title": "New attraction brings visitors, revenue back to Mud Island - The Business Journals",
+      "id": "can-banks-become-the-new-hotel-tastemakers-capital-one-travel-thinks-so-skift",
+      "title": "Can Banks Become the New Hotel Tastemakers? Capital One Travel Thinks So - Skift",
       "location": "全球",
       "freshness": "近月动态",
-      "summary": "New attraction brings visitors, revenue back to Mud Island &nbsp;&nbsp; The Business Journals",
-      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "新体验",
-      "sourceName": "The Business Journals",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX0hlRVAxXzJ4N1FMUUdaS0ZZaEhCcDdBclF4cWtQUVpGQ2Z2QThhcmpCLWNyODVjTkxFcHdRSkxYbEpBZ0FiWkNIVEw4dkRFY0hiNnBhcGt1YTRNSktVS25fSE9XWkFzX1hSTkQ2eDc5dlFVcWNWX3pmaWNfU0lFRVhqTkhWM2JFZ28wQlNFVWJjQU5zRlVDd2RCSW04ZnAzYnhnQXp6ZkQ?oc=5",
-      "publishedAt": "2026-07-15",
-      "bucket": "recent-launch"
-    },
-    {
-      "id": "new-hotel-in-new-york-s-hamptons-opens-next-week-travelweekly-com",
-      "title": "New hotel in New York's Hamptons opens next week - travelweekly.com",
-      "location": "美国",
-      "freshness": "近月动态",
-      "summary": "New hotel in New York's Hamptons opens next week &nbsp;&nbsp; travelweekly.com",
+      "summary": "Can Banks Become the New Hotel Tastemakers? Capital One Travel Thinks So &nbsp;&nbsp; Skift",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
       "tags": "酒店上新",
-      "sourceName": "travelweekly.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSlR4eFpVNC1IODBVdWdmNnNkdGhsanBvZEgxbnUxUVNXaVZzN3YyRGRjYlcwcllPRFEwX1JQcDJOcVlwTVBOYklBakZUUnlNZVNfUnNEUDJ2dWY4LVBSNGdTV0VoNjFfYjZoeEpZX2NCWjNXUVJPWm83X2Fjb01XWXZtY1VWM0FDb3d4VWl2aG9JaUMweVE?oc=5",
-      "publishedAt": "2026-05-27",
+      "sourceName": "Skift",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xb1RBQXBLLU5BcENaSVJSbmg5cFJwYWwzQS1xUTEyZ0VRcUdVMGU5Z3MzM0tiNWxVYjFpOVp5UlZxbzViNHpDSkxNVkd5bUJMN3pTM19CTGhZalhwN1ltbHktbWkzT240bFJoYXEtUUZrNU9ma25xa3lEQ3V6Zw?oc=5",
+      "publishedAt": "2026-08-05",
+      "bucket": "recent-stay"
+    },
+    {
+      "id": "four-seasons-is-opening-a-luxe-new-hotel-in-mykonos-here-s-a-look-inside-robb-report",
+      "title": "Four Seasons Is Opening a Luxe New Hotel in Mykonos. Here’s a Look Inside. - Robb Report",
+      "location": "全球",
+      "freshness": "近月动态",
+      "summary": "Four Seasons Is Opening a Luxe New Hotel in Mykonos. Here’s a Look Inside. &nbsp;&nbsp; Robb Report",
+      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
+      "tags": "酒店上新",
+      "sourceName": "Robb Report",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONGF1Ny11Q0NiNHVUODFfTThrYjdYbUY2MXNoRnlSNi1BYm1EYm95Wm1lSnlwaXdpOFlXeTNFQzFHTDFGdmsxY3JsUm5hczg1bVMzazJUcWFfTjhDZzM2S1pfMWpiWkE4V2poeXROaklYSkpzSnV3aE55R21zUXoyWEdxZzV6cEpQbXc?oc=5",
+      "publishedAt": "2026-06-24",
       "bucket": "recent-stay"
     }
   ],
@@ -235,34 +232,6 @@ window.TRAVEL_DATA = {
   ],
   "classicPicks": [
     {
-      "name": "京都岚山与嵯峨野",
-      "location": "日本 · 京都",
-      "season": "春秋最佳",
-      "summary": "清晨竹林、河岸与老街的慢节奏体验非常完整。",
-      "bestFor": "第一次去京都但不想赶景点",
-      "budget": "中等",
-      "duration": "2-3 天",
-      "tags": [
-        "城市文化",
-        "散步型",
-        "轻度疗愈"
-      ]
-    },
-    {
-      "name": "清迈古城与山边咖啡路线",
-      "location": "泰国 · 清迈",
-      "season": "11 月到次年 2 月",
-      "summary": "寺庙、手作、咖啡与自然景串联轻松。",
-      "bestFor": "独自旅行或疗愈型出游",
-      "budget": "中等偏低",
-      "duration": "3 天",
-      "tags": [
-        "手作",
-        "轻度疗愈",
-        "慢旅行"
-      ]
-    },
-    {
       "name": "大理洱海西岸",
       "location": "中国 · 云南大理",
       "season": "春秋最佳",
@@ -288,6 +257,34 @@ window.TRAVEL_DATA = {
         "城市文化",
         "夜游",
         "美食"
+      ]
+    },
+    {
+      "name": "京都岚山与嵯峨野",
+      "location": "日本 · 京都",
+      "season": "春秋最佳",
+      "summary": "清晨竹林、河岸与老街的慢节奏体验非常完整。",
+      "bestFor": "第一次去京都但不想赶景点",
+      "budget": "中等",
+      "duration": "2-3 天",
+      "tags": [
+        "城市文化",
+        "散步型",
+        "轻度疗愈"
+      ]
+    },
+    {
+      "name": "香港西贡海岸线",
+      "location": "中国香港 · 西贡",
+      "season": "秋冬舒适",
+      "summary": "海岸、村落与咖啡店组合适合周末快闪。",
+      "bestFor": "想短途换气但不想准备复杂",
+      "budget": "中等偏低",
+      "duration": "1-2 天",
+      "tags": [
+        "海边",
+        "周末快闪",
+        "自然户外"
       ]
     }
   ],
@@ -373,29 +370,16 @@ window.TRAVEL_DATA = {
   ],
   "playModes": [
     {
-      "title": "自然景区 + 沉浸展演",
-      "destination": "新加坡 / 北海道 / 温哥华",
-      "pace": "层次感强",
-      "summary": "白天自然线，夜间沉浸体验线，形成节奏反差。",
-      "route": "户外主线 -> 晚间沉浸展 -> 夜间散步",
-      "bestFor": "亲子、情侣、轻探险用户",
+      "title": "观赛或演出带着走",
+      "destination": "大阪 / 新加坡 / 纽约",
+      "pace": "高情绪价值",
+      "summary": "以赛事或演出为锚点，周边行程轻量串联。",
+      "route": "进场前街区 -> 赛事演出 -> 散场夜宵",
+      "bestFor": "兴趣事件驱动型用户",
       "moods": [
-        "自然户外",
-        "沉浸体验",
-        "亲子友好"
-      ]
-    },
-    {
-      "title": "夜游城市副本",
-      "destination": "新加坡 / 香港 / 东京",
-      "pace": "高记忆点",
-      "summary": "白天轻量主线，夜晚作为体验高光时段。",
-      "route": "观景点 -> 夜间展演 -> 夜宵散步",
-      "bestFor": "朋友组队、情侣快闪",
-      "moods": [
-        "夜游",
         "朋友组队",
-        "城市娱乐"
+        "城市娱乐",
+        "周末快闪"
       ]
     },
     {
@@ -412,6 +396,19 @@ window.TRAVEL_DATA = {
       ]
     },
     {
+      "title": "自然景区 + 沉浸展演",
+      "destination": "新加坡 / 北海道 / 温哥华",
+      "pace": "层次感强",
+      "summary": "白天自然线，夜间沉浸体验线，形成节奏反差。",
+      "route": "户外主线 -> 晚间沉浸展 -> 夜间散步",
+      "bestFor": "亲子、情侣、轻探险用户",
+      "moods": [
+        "自然户外",
+        "沉浸体验",
+        "亲子友好"
+      ]
+    },
+    {
       "title": "市场寻味路线",
       "destination": "台北 / 曼谷 / 里斯本",
       "pace": "轻松具体",
@@ -422,19 +419,6 @@ window.TRAVEL_DATA = {
         "美食",
         "城市文化",
         "慢旅行"
-      ]
-    },
-    {
-      "title": "观赛或演出带着走",
-      "destination": "大阪 / 新加坡 / 纽约",
-      "pace": "高情绪价值",
-      "summary": "以赛事或演出为锚点，周边行程轻量串联。",
-      "route": "进场前街区 -> 赛事演出 -> 散场夜宵",
-      "bestFor": "兴趣事件驱动型用户",
-      "moods": [
-        "朋友组队",
-        "城市娱乐",
-        "周末快闪"
       ]
     },
     {
@@ -449,20 +433,33 @@ window.TRAVEL_DATA = {
         "情侣约会",
         "周末快闪"
       ]
+    },
+    {
+      "title": "夜游城市副本",
+      "destination": "新加坡 / 香港 / 东京",
+      "pace": "高记忆点",
+      "summary": "白天轻量主线，夜晚作为体验高光时段。",
+      "route": "观景点 -> 夜间展演 -> 夜宵散步",
+      "bestFor": "朋友组队、情侣快闪",
+      "moods": [
+        "夜游",
+        "朋友组队",
+        "城市娱乐"
+      ]
     }
   ],
   "trendSignals": [
     {
-      "name": "Destination Check-in",
-      "summary": "住宿空间本身成为旅行内容的一部分。"
+      "name": "Glowmads",
+      "summary": "Wellness 与放松体验正在被当作独立出游理由。"
     },
     {
       "name": "Made-for-me Travel",
       "summary": "旅行越来越强调个性表达与生活方式契合。"
     },
     {
-      "name": "Glowmads",
-      "summary": "Wellness 与放松体验正在被当作独立出游理由。"
+      "name": "Destination Check-in",
+      "summary": "住宿空间本身成为旅行内容的一部分。"
     },
     {
       "name": "Shelf Discovery",
