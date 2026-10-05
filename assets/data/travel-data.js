@@ -2,7 +2,7 @@ window.TRAVEL_DATA = {
   "site": {
     "name": "去玩实验室",
     "description": "每周更新的旅行玩乐情报站",
-    "lastUpdated": "2026-09-28",
+    "lastUpdated": "2026-10-05",
     "refreshCadence": "每周自动刷新一次",
     "metrics": [
       {
@@ -20,32 +20,6 @@ window.TRAVEL_DATA = {
     ]
   },
   "recentLaunches": [
-    {
-      "id": "3-major-moves-silversea-cruises-is-making-right-now-from-a-new-hotel-to-culinary-sailings-forbes",
-      "title": "3 Major Moves Silversea Cruises Is Making Right Now—From A New Hotel To Culinary Sailings - Forbes",
-      "location": "全球",
-      "freshness": "近期上新",
-      "summary": "3 Major Moves Silversea Cruises Is Making Right Now—From A New Hotel To Culinary Sailings &nbsp;&nbsp; Forbes",
-      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "酒店上新",
-      "sourceName": "Forbes",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNV3diazZaNlhReWVxdFNRMFpyWDg5aUpWUUhqQklYT3FCb0pNWGJDRWYwSGNleUxBZFJGanZDandZVFZMSFd3SExDaERHdmJfa1lKMDgxNDBOcEtITzdxTzhERnZ4T0tjd0YwTHpRc3FrT2h2SWQ4SnpDNkFXaG5EeGUzSlluNWoybEgtaHRrZWZ2LWtzWUtUVG5GcVdLZUxkSHd2Zzhsc0hsNlBabWo4ek9pby1JRVQ0ZVI0OWdQRHN6V3NWa1AtRXQxMThLR3F0aDJjOUx5UndpX3dIWkNvTGJB?oc=5",
-      "publishedAt": "2026-08-26",
-      "bucket": "recent-stay"
-    },
-    {
-      "id": "76-rooms-including-2-villas-the-new-hotel-set-to-open-on-israel-s-most-beautiful-beach-the-jerusalem-post",
-      "title": "76 rooms, including 2 villas: The new hotel set to open on Israel’s most beautiful beach - The Jerusalem Post",
-      "location": "全球",
-      "freshness": "刚更新",
-      "summary": "76 rooms, including 2 villas: The new hotel set to open on Israel’s most beautiful beach &nbsp;&nbsp; The Jeru",
-      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "酒店上新",
-      "sourceName": "The Jerusalem Post",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VcmF4eDNaTnZCcUgyYUx5WTd1eVFIS1BOcHI2VEVHa1ZWSldmRi0wOEtHZ3VXaVcwZ2hOYjA1WkxUYTZTbm9uNmxuNEJZTFZ0MjZCZ3d3?oc=5",
-      "publishedAt": "2026-09-22",
-      "bucket": "recent-stay"
-    },
     {
       "id": "a-new-hotel-on-georgetown-s-waterfront-the-georgetowner",
       "title": "A New Hotel on Georgetown’s Waterfront - The Georgetowner",
@@ -131,17 +105,43 @@ window.TRAVEL_DATA = {
       "bucket": "recent-stay"
     },
     {
-      "id": "four-seasons-is-opening-a-luxe-new-hotel-in-mykonos-here-s-a-look-inside-robb-report",
-      "title": "Four Seasons Is Opening a Luxe New Hotel in Mykonos. Here’s a Look Inside. - Robb Report",
+      "id": "costa-rica-gets-the-waldorf-touch-with-new-resort-travel-weekly",
+      "title": "Costa Rica gets the Waldorf touch with new resort - Travel Weekly",
       "location": "全球",
-      "freshness": "近月动态",
-      "summary": "Four Seasons Is Opening a Luxe New Hotel in Mykonos. Here’s a Look Inside. &nbsp;&nbsp; Robb Report",
+      "freshness": "刚更新",
+      "summary": "Costa Rica gets the Waldorf touch with new resort &nbsp;&nbsp; Travel Weekly",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
       "tags": "酒店上新",
-      "sourceName": "Robb Report",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONGF1Ny11Q0NiNHVUODFfTThrYjdYbUY2MXNoRnlSNi1BYm1EYm95Wm1lSnlwaXdpOFlXeTNFQzFHTDFGdmsxY3JsUm5hczg1bVMzazJUcWFfTjhDZzM2S1pfMWpiWkE4V2poeXROaklYSkpzSnV3aE55R21zUXoyWEdxZzV6cEpQbXc?oc=5",
-      "publishedAt": "2026-06-24",
+      "sourceName": "Travel Weekly",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOUplakNNTkJkSGcxQTFhQ25xTUpzTDB5Q2ZZM0cxWEU1WWR4UUQ2THdwdWNWYXc0aldESGZFLXJSajJhUTB2SmVrU1FrVS1fTWlGaU9JRGoxZF9sMjMxVl9zVUl3a184cVhtakRqRzhmT1BucVA2bl9GMlFFRTVkbFJ2aXlIbzI4NGxBcTJmdzRKWmt2RXdF?oc=5",
+      "publishedAt": "2026-09-27",
       "bucket": "recent-stay"
+    },
+    {
+      "id": "faena-new-york-named-best-new-hotel-by-virtuoso-travel-network-hotels-magazine",
+      "title": "Faena New York named best new hotel by Virtuoso travel network - HOTELS Magazine",
+      "location": "美国",
+      "freshness": "近期上新",
+      "summary": "Faena New York named best new hotel by Virtuoso travel network &nbsp;&nbsp; HOTELS Magazine",
+      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
+      "tags": "酒店上新",
+      "sourceName": "HOTELS Magazine",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSkp0aXlmb014Y1BGRngzcFVMRGZNRHNtZ002WXZMalBDb0ZMUnNRUkNHT0ZodGFJTlZLR0gzUGNKSzc4bllqT2hiaWVaUEJPYlVwLUNoeW9BRXhJa0FaT0xxLW90WHJxV0VJVGx6VTYxWmcxeGhheVprZ0ZsektnOFZYWDQ2MXVBdjBGaXhSSHl0aGFK?oc=5",
+      "publishedAt": "2026-08-20",
+      "bucket": "recent-stay"
+    },
+    {
+      "id": "inside-oberon-the-new-museum-s-first-ever-restaurant-by-oma-wallpaper-com",
+      "title": "Inside Oberon, the New Museum's first-ever restaurant by OMA - wallpaper.com",
+      "location": "全球",
+      "freshness": "近月动态",
+      "summary": "Inside Oberon, the New Museum's first-ever restaurant by OMA &nbsp;&nbsp; wallpaper.com",
+      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
+      "tags": "城市文化",
+      "sourceName": "wallpaper.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44RFVzektMWGt3UDBrbExRM0hRTV81Vl9YV2lpUEZ0U21SempRY21aX1lrV0gyZ2xmNmo0aS03ZVpiYlBhU0JZNEs4Znl5QmlBZmg0MmxCczJZdjg1eFd3aGs1Q0NQMTJsRkJ6NWxJR1ZZNDlDbk1WUTREUThGUQ?oc=5",
+      "publishedAt": "2026-07-07",
+      "bucket": "recent-culture"
     }
   ],
   "classicLibrary": [
@@ -232,34 +232,6 @@ window.TRAVEL_DATA = {
   ],
   "classicPicks": [
     {
-      "name": "大理洱海西岸",
-      "location": "中国 · 云南大理",
-      "season": "春秋最佳",
-      "summary": "慢节奏与风景结合，适合恢复状态型旅行。",
-      "bestFor": "需要降速放松的人",
-      "budget": "中等",
-      "duration": "3 天",
-      "tags": [
-        "自然户外",
-        "轻度疗愈",
-        "慢旅行"
-      ]
-    },
-    {
-      "name": "新加坡滨海湾到甘榜格南",
-      "location": "新加坡",
-      "season": "全年可去",
-      "summary": "现代建筑、夜景与街区生活感在短途中高度兼容。",
-      "bestFor": "第一次去东南亚城市",
-      "budget": "中高",
-      "duration": "3 天",
-      "tags": [
-        "城市文化",
-        "夜游",
-        "美食"
-      ]
-    },
-    {
       "name": "京都岚山与嵯峨野",
       "location": "日本 · 京都",
       "season": "春秋最佳",
@@ -285,6 +257,34 @@ window.TRAVEL_DATA = {
         "海边",
         "周末快闪",
         "自然户外"
+      ]
+    },
+    {
+      "name": "新加坡滨海湾到甘榜格南",
+      "location": "新加坡",
+      "season": "全年可去",
+      "summary": "现代建筑、夜景与街区生活感在短途中高度兼容。",
+      "bestFor": "第一次去东南亚城市",
+      "budget": "中高",
+      "duration": "3 天",
+      "tags": [
+        "城市文化",
+        "夜游",
+        "美食"
+      ]
+    },
+    {
+      "name": "清迈古城与山边咖啡路线",
+      "location": "泰国 · 清迈",
+      "season": "11 月到次年 2 月",
+      "summary": "寺庙、手作、咖啡与自然景串联轻松。",
+      "bestFor": "独自旅行或疗愈型出游",
+      "budget": "中等偏低",
+      "duration": "3 天",
+      "tags": [
+        "手作",
+        "轻度疗愈",
+        "慢旅行"
       ]
     }
   ],
@@ -396,19 +396,6 @@ window.TRAVEL_DATA = {
       ]
     },
     {
-      "title": "自然景区 + 沉浸展演",
-      "destination": "新加坡 / 北海道 / 温哥华",
-      "pace": "层次感强",
-      "summary": "白天自然线，夜间沉浸体验线，形成节奏反差。",
-      "route": "户外主线 -> 晚间沉浸展 -> 夜间散步",
-      "bestFor": "亲子、情侣、轻探险用户",
-      "moods": [
-        "自然户外",
-        "沉浸体验",
-        "亲子友好"
-      ]
-    },
-    {
       "title": "市场寻味路线",
       "destination": "台北 / 曼谷 / 里斯本",
       "pace": "轻松具体",
@@ -419,6 +406,19 @@ window.TRAVEL_DATA = {
         "美食",
         "城市文化",
         "慢旅行"
+      ]
+    },
+    {
+      "title": "自然景区 + 沉浸展演",
+      "destination": "新加坡 / 北海道 / 温哥华",
+      "pace": "层次感强",
+      "summary": "白天自然线，夜间沉浸体验线，形成节奏反差。",
+      "route": "户外主线 -> 晚间沉浸展 -> 夜间散步",
+      "bestFor": "亲子、情侣、轻探险用户",
+      "moods": [
+        "自然户外",
+        "沉浸体验",
+        "亲子友好"
       ]
     },
     {
@@ -450,20 +450,20 @@ window.TRAVEL_DATA = {
   ],
   "trendSignals": [
     {
-      "name": "Glowmads",
-      "summary": "Wellness 与放松体验正在被当作独立出游理由。"
-    },
-    {
-      "name": "Made-for-me Travel",
-      "summary": "旅行越来越强调个性表达与生活方式契合。"
-    },
-    {
       "name": "Destination Check-in",
       "summary": "住宿空间本身成为旅行内容的一部分。"
     },
     {
+      "name": "Glowmads",
+      "summary": "Wellness 与放松体验正在被当作独立出游理由。"
+    },
+    {
       "name": "Shelf Discovery",
       "summary": "市场与超市型体验成为城市旅行新入口。"
+    },
+    {
+      "name": "Made-for-me Travel",
+      "summary": "旅行越来越强调个性表达与生活方式契合。"
     }
   ],
   "sources": [
