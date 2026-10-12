@@ -2,7 +2,7 @@ window.TRAVEL_DATA = {
   "site": {
     "name": "去玩实验室",
     "description": "每周更新的旅行玩乐情报站",
-    "lastUpdated": "2026-10-05",
+    "lastUpdated": "2026-10-12",
     "refreshCadence": "每周自动刷新一次",
     "metrics": [
       {
@@ -20,19 +20,6 @@ window.TRAVEL_DATA = {
     ]
   },
   "recentLaunches": [
-    {
-      "id": "a-new-hotel-on-georgetown-s-waterfront-the-georgetowner",
-      "title": "A New Hotel on Georgetown’s Waterfront - The Georgetowner",
-      "location": "全球",
-      "freshness": "近月动态",
-      "summary": "A New Hotel on Georgetown’s Waterfront &nbsp;&nbsp; The Georgetowner",
-      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "酒店上新",
-      "sourceName": "The Georgetowner",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaEJyWWZoSTJNZzZWd3Z6Y2o5MFk5UDl6QXBjckRuald4RGk0TzhaTUNaSm1LcHN1b1NzTVdLQWJxdHFqM0hMZmVvenNqSjFHZFZvbTJERGRNWTZGbDdTRGV2Y1V4cEZsUC00ejZVZ3J6d0RTR3RURlZlUzVTOXptVS1XQVZVYW9KdDVZ?oc=5",
-      "publishedAt": "2026-07-27",
-      "bucket": "recent-stay"
-    },
     {
       "id": "a-new-museum-and-virtual-tour-gives-visitors-a-new-way-to-experience-the-northwoods-wpr",
       "title": "A new museum and virtual tour gives visitors a new way to experience the Northwoods - WPR",
@@ -82,7 +69,7 @@ window.TRAVEL_DATA = {
       "id": "antiques-ai-and-a-planetarium-the-new-attraction-coming-to-the-golan-the-jerusalem-post",
       "title": "Antiques, AI, and a planetarium: The new attraction coming to the Golan - The Jerusalem Post",
       "location": "全球",
-      "freshness": "刚更新",
+      "freshness": "近期上新",
       "summary": "Antiques, AI, and a planetarium: The new attraction coming to the Golan &nbsp;&nbsp; The Jerusalem Post",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
       "tags": "新体验",
@@ -105,43 +92,56 @@ window.TRAVEL_DATA = {
       "bucket": "recent-stay"
     },
     {
-      "id": "costa-rica-gets-the-waldorf-touch-with-new-resort-travel-weekly",
-      "title": "Costa Rica gets the Waldorf touch with new resort - Travel Weekly",
-      "location": "全球",
-      "freshness": "刚更新",
-      "summary": "Costa Rica gets the Waldorf touch with new resort &nbsp;&nbsp; Travel Weekly",
-      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "酒店上新",
-      "sourceName": "Travel Weekly",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOUplakNNTkJkSGcxQTFhQ25xTUpzTDB5Q2ZZM0cxWEU1WWR4UUQ2THdwdWNWYXc0aldESGZFLXJSajJhUTB2SmVrU1FrVS1fTWlGaU9JRGoxZF9sMjMxVl9zVUl3a184cVhtakRqRzhmT1BucVA2bl9GMlFFRTVkbFJ2aXlIbzI4NGxBcTJmdzRKWmt2RXdF?oc=5",
-      "publishedAt": "2026-09-27",
-      "bucket": "recent-stay"
-    },
-    {
-      "id": "faena-new-york-named-best-new-hotel-by-virtuoso-travel-network-hotels-magazine",
-      "title": "Faena New York named best new hotel by Virtuoso travel network - HOTELS Magazine",
+      "id": "faena-new-york-named-best-new-hotel-by-virtuoso-travel-network-hotelsmag-com",
+      "title": "Faena New York named best new hotel by Virtuoso travel network - HOTELSMag.com",
       "location": "美国",
-      "freshness": "近期上新",
-      "summary": "Faena New York named best new hotel by Virtuoso travel network &nbsp;&nbsp; HOTELS Magazine",
+      "freshness": "近月动态",
+      "summary": "Faena New York named best new hotel by Virtuoso travel network &nbsp;&nbsp; HOTELSMag.com",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
       "tags": "酒店上新",
-      "sourceName": "HOTELS Magazine",
+      "sourceName": "HOTELSMag.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSkp0aXlmb014Y1BGRngzcFVMRGZNRHNtZ002WXZMalBDb0ZMUnNRUkNHT0ZodGFJTlZLR0gzUGNKSzc4bllqT2hiaWVaUEJPYlVwLUNoeW9BRXhJa0FaT0xxLW90WHJxV0VJVGx6VTYxWmcxeGhheVprZ0ZsektnOFZYWDQ2MXVBdjBGaXhSSHl0aGFK?oc=5",
       "publishedAt": "2026-08-20",
       "bucket": "recent-stay"
     },
     {
-      "id": "inside-oberon-the-new-museum-s-first-ever-restaurant-by-oma-wallpaper-com",
-      "title": "Inside Oberon, the New Museum's first-ever restaurant by OMA - wallpaper.com",
+      "id": "inside-oberon-the-new-museum-s-first-ever-restaurant-by-oma-wallpaper",
+      "title": "Inside Oberon, the New Museum's first-ever restaurant by OMA - Wallpaper*",
       "location": "全球",
       "freshness": "近月动态",
-      "summary": "Inside Oberon, the New Museum's first-ever restaurant by OMA &nbsp;&nbsp; wallpaper.com",
+      "summary": "Inside Oberon, the New Museum's first-ever restaurant by OMA &nbsp;&nbsp; Wallpaper*",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
       "tags": "城市文化",
-      "sourceName": "wallpaper.com",
+      "sourceName": "Wallpaper*",
       "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44RFVzektMWGt3UDBrbExRM0hRTV81Vl9YV2lpUEZ0U21SempRY21aX1lrV0gyZ2xmNmo0aS03ZVpiYlBhU0JZNEs4Znl5QmlBZmg0MmxCczJZdjg1eFd3aGs1Q0NQMTJsRkJ6NWxJR1ZZNDlDbk1WUTREUThGUQ?oc=5",
       "publishedAt": "2026-07-07",
       "bucket": "recent-culture"
+    },
+    {
+      "id": "jw-marriott-marks-all-inclusive-debut-with-new-resort-in-costa-rica-travelpulse",
+      "title": "JW Marriott Marks All-Inclusive Debut With New Resort in Costa Rica - TravelPulse",
+      "location": "全球",
+      "freshness": "刚更新",
+      "summary": "JW Marriott Marks All-Inclusive Debut With New Resort in Costa Rica &nbsp;&nbsp; TravelPulse",
+      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
+      "tags": "酒店上新",
+      "sourceName": "TravelPulse",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU0RUNkpaX2Z5QXZVVXcwTHVpdTduS0lZY1cxU1JMU3RtU2RtZnlyczBwNTF5RGlSVHFSdzc0NmZRMXFvRjZldFpacnNlLXFyRElsbGFSalVMTFcyWDU0bDdPWnZ6azNKcGQxdjFvb1lvWU1lYzhQRVFHTmFYZlk5MmdLSE9Tb2RLcXhZa0tLOVNad0F2MjRqWjVhSHBySERLdXBEXzJpRFRBc3d0aGhKdnVueFRFWWFPTjc4?oc=5",
+      "publishedAt": "2026-10-06",
+      "bucket": "recent-stay"
+    },
+    {
+      "id": "new-attraction-brings-visitors-revenue-back-to-mud-island-the-business-journals",
+      "title": "New attraction brings visitors, revenue back to Mud Island - The Business Journals",
+      "location": "全球",
+      "freshness": "近月动态",
+      "summary": "New attraction brings visitors, revenue back to Mud Island &nbsp;&nbsp; The Business Journals",
+      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
+      "tags": "新体验",
+      "sourceName": "The Business Journals",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX0hlRVAxXzJ4N1FMUUdaS0ZZaEhCcDdBclF4cWtQUVpGQ2Z2QThhcmpCLWNyODVjTkxFcHdRSkxYbEpBZ0FiWkNIVEw4dkRFY0hiNnBhcGt1YTRNSktVS25fSE9XWkFzX1hSTkQ2eDc5dlFVcWNWX3pmaWNfU0lFRVhqTkhWM2JFZ28wQlNFVWJjQU5zRlVDd2RCSW04ZnAzYnhnQXp6ZkQ?oc=5",
+      "publishedAt": "2026-07-15",
+      "bucket": "recent-launch"
     }
   ],
   "classicLibrary": [
@@ -232,34 +232,6 @@ window.TRAVEL_DATA = {
   ],
   "classicPicks": [
     {
-      "name": "京都岚山与嵯峨野",
-      "location": "日本 · 京都",
-      "season": "春秋最佳",
-      "summary": "清晨竹林、河岸与老街的慢节奏体验非常完整。",
-      "bestFor": "第一次去京都但不想赶景点",
-      "budget": "中等",
-      "duration": "2-3 天",
-      "tags": [
-        "城市文化",
-        "散步型",
-        "轻度疗愈"
-      ]
-    },
-    {
-      "name": "香港西贡海岸线",
-      "location": "中国香港 · 西贡",
-      "season": "秋冬舒适",
-      "summary": "海岸、村落与咖啡店组合适合周末快闪。",
-      "bestFor": "想短途换气但不想准备复杂",
-      "budget": "中等偏低",
-      "duration": "1-2 天",
-      "tags": [
-        "海边",
-        "周末快闪",
-        "自然户外"
-      ]
-    },
-    {
       "name": "新加坡滨海湾到甘榜格南",
       "location": "新加坡",
       "season": "全年可去",
@@ -274,6 +246,20 @@ window.TRAVEL_DATA = {
       ]
     },
     {
+      "name": "大理洱海西岸",
+      "location": "中国 · 云南大理",
+      "season": "春秋最佳",
+      "summary": "慢节奏与风景结合，适合恢复状态型旅行。",
+      "bestFor": "需要降速放松的人",
+      "budget": "中等",
+      "duration": "3 天",
+      "tags": [
+        "自然户外",
+        "轻度疗愈",
+        "慢旅行"
+      ]
+    },
+    {
       "name": "清迈古城与山边咖啡路线",
       "location": "泰国 · 清迈",
       "season": "11 月到次年 2 月",
@@ -285,6 +271,20 @@ window.TRAVEL_DATA = {
         "手作",
         "轻度疗愈",
         "慢旅行"
+      ]
+    },
+    {
+      "name": "香港西贡海岸线",
+      "location": "中国香港 · 西贡",
+      "season": "秋冬舒适",
+      "summary": "海岸、村落与咖啡店组合适合周末快闪。",
+      "bestFor": "想短途换气但不想准备复杂",
+      "budget": "中等偏低",
+      "duration": "1-2 天",
+      "tags": [
+        "海边",
+        "周末快闪",
+        "自然户外"
       ]
     }
   ],
@@ -370,6 +370,32 @@ window.TRAVEL_DATA = {
   ],
   "playModes": [
     {
+      "title": "自然景区 + 沉浸展演",
+      "destination": "新加坡 / 北海道 / 温哥华",
+      "pace": "层次感强",
+      "summary": "白天自然线，夜间沉浸体验线，形成节奏反差。",
+      "route": "户外主线 -> 晚间沉浸展 -> 夜间散步",
+      "bestFor": "亲子、情侣、轻探险用户",
+      "moods": [
+        "自然户外",
+        "沉浸体验",
+        "亲子友好"
+      ]
+    },
+    {
+      "title": "市场寻味路线",
+      "destination": "台北 / 曼谷 / 里斯本",
+      "pace": "轻松具体",
+      "summary": "从市场和超市进入城市味觉地图，而不只打卡餐厅。",
+      "route": "早市 -> 食品店 -> 体验课 -> 晚餐",
+      "bestFor": "把吃当主线的用户",
+      "moods": [
+        "美食",
+        "城市文化",
+        "慢旅行"
+      ]
+    },
+    {
       "title": "观赛或演出带着走",
       "destination": "大阪 / 新加坡 / 纽约",
       "pace": "高情绪价值",
@@ -393,32 +419,6 @@ window.TRAVEL_DATA = {
         "轻度疗愈",
         "一个人出走",
         "自然户外"
-      ]
-    },
-    {
-      "title": "市场寻味路线",
-      "destination": "台北 / 曼谷 / 里斯本",
-      "pace": "轻松具体",
-      "summary": "从市场和超市进入城市味觉地图，而不只打卡餐厅。",
-      "route": "早市 -> 食品店 -> 体验课 -> 晚餐",
-      "bestFor": "把吃当主线的用户",
-      "moods": [
-        "美食",
-        "城市文化",
-        "慢旅行"
-      ]
-    },
-    {
-      "title": "自然景区 + 沉浸展演",
-      "destination": "新加坡 / 北海道 / 温哥华",
-      "pace": "层次感强",
-      "summary": "白天自然线，夜间沉浸体验线，形成节奏反差。",
-      "route": "户外主线 -> 晚间沉浸展 -> 夜间散步",
-      "bestFor": "亲子、情侣、轻探险用户",
-      "moods": [
-        "自然户外",
-        "沉浸体验",
-        "亲子友好"
       ]
     },
     {
@@ -450,20 +450,20 @@ window.TRAVEL_DATA = {
   ],
   "trendSignals": [
     {
-      "name": "Destination Check-in",
-      "summary": "住宿空间本身成为旅行内容的一部分。"
-    },
-    {
-      "name": "Glowmads",
-      "summary": "Wellness 与放松体验正在被当作独立出游理由。"
-    },
-    {
       "name": "Shelf Discovery",
       "summary": "市场与超市型体验成为城市旅行新入口。"
     },
     {
+      "name": "Destination Check-in",
+      "summary": "住宿空间本身成为旅行内容的一部分。"
+    },
+    {
       "name": "Made-for-me Travel",
       "summary": "旅行越来越强调个性表达与生活方式契合。"
+    },
+    {
+      "name": "Glowmads",
+      "summary": "Wellness 与放松体验正在被当作独立出游理由。"
     }
   ],
   "sources": [
