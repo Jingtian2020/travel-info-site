@@ -2,7 +2,7 @@ window.TRAVEL_DATA = {
   "site": {
     "name": "去玩实验室",
     "description": "每周更新的旅行玩乐情报站",
-    "lastUpdated": "2026-10-12",
+    "lastUpdated": "2026-10-19",
     "refreshCadence": "每周自动刷新一次",
     "metrics": [
       {
@@ -24,7 +24,7 @@ window.TRAVEL_DATA = {
       "id": "a-new-museum-and-virtual-tour-gives-visitors-a-new-way-to-experience-the-northwoods-wpr",
       "title": "A new museum and virtual tour gives visitors a new way to experience the Northwoods - WPR",
       "location": "全球",
-      "freshness": "近期上新",
+      "freshness": "近月动态",
       "summary": "A new museum and virtual tour gives visitors a new way to experience the Northwoods &nbsp;&nbsp; WPR",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
       "tags": [
@@ -79,6 +79,19 @@ window.TRAVEL_DATA = {
       "bucket": "recent-launch"
     },
     {
+      "id": "arthur-jafa-s-new-museum-survey-is-no-austerity-exercise-cultured-mag",
+      "title": "Arthur Jafa’s New Museum Survey Is No Austerity Exercise - Cultured Mag",
+      "location": "全球",
+      "freshness": "刚更新",
+      "summary": "Arthur Jafa’s New Museum Survey Is No Austerity Exercise &nbsp;&nbsp; Cultured Mag",
+      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
+      "tags": "城市文化",
+      "sourceName": "Cultured Mag",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeEhTUldIQjlKUTFsSGVqTlpaZ0tnYVBYZDJLNUVEYUpIdFBhcExSTHlxclNJeEhNdl9NZW9ubzJudW1vVkJ5VEtuR0RHSWtlb0pYaGkxU0gwZWxJLVU5eUdSNDFydHZxQTdTTnJOYllLbTBiTlFtNllGR21LT0JrbjdrWjZGa21NNF9KSDdCWXcyZw?oc=5",
+      "publishedAt": "2026-10-08",
+      "bucket": "recent-culture"
+    },
+    {
       "id": "can-banks-become-the-new-hotel-tastemakers-capital-one-travel-thinks-so-skift",
       "title": "Can Banks Become the New Hotel Tastemakers? Capital One Travel Thinks So - Skift",
       "location": "全球",
@@ -116,19 +129,6 @@ window.TRAVEL_DATA = {
       "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44RFVzektMWGt3UDBrbExRM0hRTV81Vl9YV2lpUEZ0U21SempRY21aX1lrV0gyZ2xmNmo0aS03ZVpiYlBhU0JZNEs4Znl5QmlBZmg0MmxCczJZdjg1eFd3aGs1Q0NQMTJsRkJ6NWxJR1ZZNDlDbk1WUTREUThGUQ?oc=5",
       "publishedAt": "2026-07-07",
       "bucket": "recent-culture"
-    },
-    {
-      "id": "jw-marriott-marks-all-inclusive-debut-with-new-resort-in-costa-rica-travelpulse",
-      "title": "JW Marriott Marks All-Inclusive Debut With New Resort in Costa Rica - TravelPulse",
-      "location": "全球",
-      "freshness": "刚更新",
-      "summary": "JW Marriott Marks All-Inclusive Debut With New Resort in Costa Rica &nbsp;&nbsp; TravelPulse",
-      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "酒店上新",
-      "sourceName": "TravelPulse",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU0RUNkpaX2Z5QXZVVXcwTHVpdTduS0lZY1cxU1JMU3RtU2RtZnlyczBwNTF5RGlSVHFSdzc0NmZRMXFvRjZldFpacnNlLXFyRElsbGFSalVMTFcyWDU0bDdPWnZ6azNKcGQxdjFvb1lvWU1lYzhQRVFHTmFYZlk5MmdLSE9Tb2RLcXhZa0tLOVNad0F2MjRqWjVhSHBySERLdXBEXzJpRFRBc3d0aGhKdnVueFRFWWFPTjc4?oc=5",
-      "publishedAt": "2026-10-06",
-      "bucket": "recent-stay"
     },
     {
       "id": "new-attraction-brings-visitors-revenue-back-to-mud-island-the-business-journals",
@@ -232,6 +232,20 @@ window.TRAVEL_DATA = {
   ],
   "classicPicks": [
     {
+      "name": "香港西贡海岸线",
+      "location": "中国香港 · 西贡",
+      "season": "秋冬舒适",
+      "summary": "海岸、村落与咖啡店组合适合周末快闪。",
+      "bestFor": "想短途换气但不想准备复杂",
+      "budget": "中等偏低",
+      "duration": "1-2 天",
+      "tags": [
+        "海边",
+        "周末快闪",
+        "自然户外"
+      ]
+    },
+    {
       "name": "新加坡滨海湾到甘榜格南",
       "location": "新加坡",
       "season": "全年可去",
@@ -243,20 +257,6 @@ window.TRAVEL_DATA = {
         "城市文化",
         "夜游",
         "美食"
-      ]
-    },
-    {
-      "name": "大理洱海西岸",
-      "location": "中国 · 云南大理",
-      "season": "春秋最佳",
-      "summary": "慢节奏与风景结合，适合恢复状态型旅行。",
-      "bestFor": "需要降速放松的人",
-      "budget": "中等",
-      "duration": "3 天",
-      "tags": [
-        "自然户外",
-        "轻度疗愈",
-        "慢旅行"
       ]
     },
     {
@@ -274,17 +274,17 @@ window.TRAVEL_DATA = {
       ]
     },
     {
-      "name": "香港西贡海岸线",
-      "location": "中国香港 · 西贡",
-      "season": "秋冬舒适",
-      "summary": "海岸、村落与咖啡店组合适合周末快闪。",
-      "bestFor": "想短途换气但不想准备复杂",
-      "budget": "中等偏低",
-      "duration": "1-2 天",
+      "name": "巴塞罗那旧城与海边线",
+      "location": "西班牙 · 巴塞罗那",
+      "season": "春夏最佳",
+      "summary": "建筑、海风和夜生活同时在线。",
+      "bestFor": "情侣或第一次欧洲城市度假",
+      "budget": "中高",
+      "duration": "4 天",
       "tags": [
         "海边",
-        "周末快闪",
-        "自然户外"
+        "城市文化",
+        "夜游"
       ]
     }
   ],
@@ -383,6 +383,32 @@ window.TRAVEL_DATA = {
       ]
     },
     {
+      "title": "夜游城市副本",
+      "destination": "新加坡 / 香港 / 东京",
+      "pace": "高记忆点",
+      "summary": "白天轻量主线，夜晚作为体验高光时段。",
+      "route": "观景点 -> 夜间展演 -> 夜宵散步",
+      "bestFor": "朋友组队、情侣快闪",
+      "moods": [
+        "夜游",
+        "朋友组队",
+        "城市娱乐"
+      ]
+    },
+    {
+      "title": "目的地酒店玩法",
+      "destination": "拉斯维加斯 / 海滨度假区",
+      "pace": "轻决策高舒适",
+      "summary": "把酒店升级为行程主角，外出只补少量重点点位。",
+      "route": "入住体验型酒店 -> 在地停留 -> 1-2 个外出点",
+      "bestFor": "短假、庆祝型出游",
+      "moods": [
+        "目的地酒店",
+        "情侣约会",
+        "周末快闪"
+      ]
+    },
+    {
       "title": "市场寻味路线",
       "destination": "台北 / 曼谷 / 里斯本",
       "pace": "轻松具体",
@@ -420,32 +446,6 @@ window.TRAVEL_DATA = {
         "一个人出走",
         "自然户外"
       ]
-    },
-    {
-      "title": "目的地酒店玩法",
-      "destination": "拉斯维加斯 / 海滨度假区",
-      "pace": "轻决策高舒适",
-      "summary": "把酒店升级为行程主角，外出只补少量重点点位。",
-      "route": "入住体验型酒店 -> 在地停留 -> 1-2 个外出点",
-      "bestFor": "短假、庆祝型出游",
-      "moods": [
-        "目的地酒店",
-        "情侣约会",
-        "周末快闪"
-      ]
-    },
-    {
-      "title": "夜游城市副本",
-      "destination": "新加坡 / 香港 / 东京",
-      "pace": "高记忆点",
-      "summary": "白天轻量主线，夜晚作为体验高光时段。",
-      "route": "观景点 -> 夜间展演 -> 夜宵散步",
-      "bestFor": "朋友组队、情侣快闪",
-      "moods": [
-        "夜游",
-        "朋友组队",
-        "城市娱乐"
-      ]
     }
   ],
   "trendSignals": [
@@ -454,16 +454,16 @@ window.TRAVEL_DATA = {
       "summary": "市场与超市型体验成为城市旅行新入口。"
     },
     {
-      "name": "Destination Check-in",
-      "summary": "住宿空间本身成为旅行内容的一部分。"
+      "name": "Glowmads",
+      "summary": "Wellness 与放松体验正在被当作独立出游理由。"
     },
     {
       "name": "Made-for-me Travel",
       "summary": "旅行越来越强调个性表达与生活方式契合。"
     },
     {
-      "name": "Glowmads",
-      "summary": "Wellness 与放松体验正在被当作独立出游理由。"
+      "name": "Destination Check-in",
+      "summary": "住宿空间本身成为旅行内容的一部分。"
     }
   ],
   "sources": [
