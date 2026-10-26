@@ -2,7 +2,7 @@ window.TRAVEL_DATA = {
   "site": {
     "name": "去玩实验室",
     "description": "每周更新的旅行玩乐情报站",
-    "lastUpdated": "2026-10-19",
+    "lastUpdated": "2026-10-26",
     "refreshCadence": "每周自动刷新一次",
     "metrics": [
       {
@@ -20,6 +20,19 @@ window.TRAVEL_DATA = {
     ]
   },
   "recentLaunches": [
+    {
+      "id": "76-rooms-including-2-villas-the-new-hotel-set-to-open-on-israel-s-most-beautiful-beach-the-jerusalem-post",
+      "title": "76 rooms, including 2 villas: The new hotel set to open on Israel’s most beautiful beach - The Jerusalem Post",
+      "location": "全球",
+      "freshness": "近期上新",
+      "summary": "76 rooms, including 2 villas: The new hotel set to open on Israel’s most beautiful beach &nbsp;&nbsp; The Jeru",
+      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
+      "tags": "酒店上新",
+      "sourceName": "The Jerusalem Post",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VcmF4eDNaTnZCcUgyYUx5WTd1eVFIS1BOcHI2VEVHa1ZWSldmRi0wOEtHZ3VXaVcwZ2hOYjA1WkxUYTZTbm9uNmxuNEJZTFZ0MjZCZ3d3?oc=5",
+      "publishedAt": "2026-09-22",
+      "bucket": "recent-stay"
+    },
     {
       "id": "a-new-museum-and-virtual-tour-gives-visitors-a-new-way-to-experience-the-northwoods-wpr",
       "title": "A new museum and virtual tour gives visitors a new way to experience the Northwoods - WPR",
@@ -53,19 +66,6 @@ window.TRAVEL_DATA = {
       "bucket": "recent-culture"
     },
     {
-      "id": "a-new-museum-cruise-haute-couture-and-gorgeous-glassware-here-s-what-s-exciting-us-in-travel-right-now-cond-nast-traveler",
-      "title": "A New Museum, Cruise Haute Couture, and Gorgeous Glassware: Here's What's Exciting Us in Travel Right Now - Condé Nast Traveler",
-      "location": "全球",
-      "freshness": "近期上新",
-      "summary": "A New Museum, Cruise Haute Couture, and Gorgeous Glassware: Here's What's Exciting Us in Travel Right Now &nbs",
-      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "城市文化",
-      "sourceName": "Condé Nast Traveler",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSUpJRWNkQXlfQS1wSHhUbkdBZ1FtZ1RHYXV6OXRKYllFcnVBRWxKSWRTdkJIYU9oU1RsSkNSS19SNWxMOEFicEJqeG5nNVZJYjZnbTd6d25KMHB4Ulp3c2tzOTdhblJvd1FWSXpyQUdXZEVGbklZSUN0Vi1adVZtNXExT3RheENKUE8wY2V4UGJtMlhHWmlHcElhT3JDMU1GdWtOaDNuZHJ3XzhYTFE2MFdxNTdfZmZhaXNCeG43TUJsRTJmOTVERVQzUEdoZw?oc=5",
-      "publishedAt": "2026-09-07",
-      "bucket": "recent-culture"
-    },
-    {
       "id": "antiques-ai-and-a-planetarium-the-new-attraction-coming-to-the-golan-the-jerusalem-post",
       "title": "Antiques, AI, and a planetarium: The new attraction coming to the Golan - The Jerusalem Post",
       "location": "全球",
@@ -77,19 +77,6 @@ window.TRAVEL_DATA = {
       "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iRDQwWFR3TW1NeXI0bjFJU3F5UWU1WDdKeHFOQkt2WHNfWlU1SjJueFhOLVgtTW1jZ0dXZ1FSaElXNVVzd05iWHRUTlk2bmdYRFB5Y2pn?oc=5",
       "publishedAt": "2026-09-22",
       "bucket": "recent-launch"
-    },
-    {
-      "id": "arthur-jafa-s-new-museum-survey-is-no-austerity-exercise-cultured-mag",
-      "title": "Arthur Jafa’s New Museum Survey Is No Austerity Exercise - Cultured Mag",
-      "location": "全球",
-      "freshness": "刚更新",
-      "summary": "Arthur Jafa’s New Museum Survey Is No Austerity Exercise &nbsp;&nbsp; Cultured Mag",
-      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "城市文化",
-      "sourceName": "Cultured Mag",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeEhTUldIQjlKUTFsSGVqTlpaZ0tnYVBYZDJLNUVEYUpIdFBhcExSTHlxclNJeEhNdl9NZW9ubzJudW1vVkJ5VEtuR0RHSWtlb0pYaGkxU0gwZWxJLVU5eUdSNDFydHZxQTdTTnJOYllLbTBiTlFtNllGR21LT0JrbjdrWjZGa21NNF9KSDdCWXcyZw?oc=5",
-      "publishedAt": "2026-10-08",
-      "bucket": "recent-culture"
     },
     {
       "id": "can-banks-become-the-new-hotel-tastemakers-capital-one-travel-thinks-so-skift",
@@ -116,6 +103,19 @@ window.TRAVEL_DATA = {
       "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSkp0aXlmb014Y1BGRngzcFVMRGZNRHNtZ002WXZMalBDb0ZMUnNRUkNHT0ZodGFJTlZLR0gzUGNKSzc4bllqT2hiaWVaUEJPYlVwLUNoeW9BRXhJa0FaT0xxLW90WHJxV0VJVGx6VTYxWmcxeGhheVprZ0ZsektnOFZYWDQ2MXVBdjBGaXhSSHl0aGFK?oc=5",
       "publishedAt": "2026-08-20",
       "bucket": "recent-stay"
+    },
+    {
+      "id": "hickok-cole-designs-national-geographic-society-s-new-museum-of-exploration-architectural-record",
+      "title": "Hickok Cole Designs National Geographic Society’s New Museum of Exploration - Architectural Record",
+      "location": "全球",
+      "freshness": "近月动态",
+      "summary": "Hickok Cole Designs National Geographic Society’s New Museum of Exploration &nbsp;&nbsp; Architectural Record",
+      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
+      "tags": "城市文化",
+      "sourceName": "Architectural Record",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU1JzUUpBdXByNWpjNWFxdk5MSk9nRzVLRGNPNWdydWZ5b2ppbENFSUgxOTZya1N5NzJybV81alNZNkJPYjZHd2czQThSTTRmRS1lZWNxVzhrN2hzMVExTEJZZ0ZrMVZURllSSXNpbXpqVzlGeUtWTTAtbHVfX1N1VWxaVkxsNzhhcGVzUGUxdXI1bUsybjZsenRuU2tIc0dsQzVNdHcweUtKS002QVNFWjQ1UWRva191QTBxVVpuQXhyY2M?oc=5",
+      "publishedAt": "2026-07-31",
+      "bucket": "recent-culture"
     },
     {
       "id": "inside-oberon-the-new-museum-s-first-ever-restaurant-by-oma-wallpaper",
@@ -232,31 +232,17 @@ window.TRAVEL_DATA = {
   ],
   "classicPicks": [
     {
-      "name": "香港西贡海岸线",
-      "location": "中国香港 · 西贡",
-      "season": "秋冬舒适",
-      "summary": "海岸、村落与咖啡店组合适合周末快闪。",
-      "bestFor": "想短途换气但不想准备复杂",
-      "budget": "中等偏低",
-      "duration": "1-2 天",
+      "name": "巴塞罗那旧城与海边线",
+      "location": "西班牙 · 巴塞罗那",
+      "season": "春夏最佳",
+      "summary": "建筑、海风和夜生活同时在线。",
+      "bestFor": "情侣或第一次欧洲城市度假",
+      "budget": "中高",
+      "duration": "4 天",
       "tags": [
         "海边",
-        "周末快闪",
-        "自然户外"
-      ]
-    },
-    {
-      "name": "新加坡滨海湾到甘榜格南",
-      "location": "新加坡",
-      "season": "全年可去",
-      "summary": "现代建筑、夜景与街区生活感在短途中高度兼容。",
-      "bestFor": "第一次去东南亚城市",
-      "budget": "中高",
-      "duration": "3 天",
-      "tags": [
         "城市文化",
-        "夜游",
-        "美食"
+        "夜游"
       ]
     },
     {
@@ -274,17 +260,31 @@ window.TRAVEL_DATA = {
       ]
     },
     {
-      "name": "巴塞罗那旧城与海边线",
-      "location": "西班牙 · 巴塞罗那",
-      "season": "春夏最佳",
-      "summary": "建筑、海风和夜生活同时在线。",
-      "bestFor": "情侣或第一次欧洲城市度假",
-      "budget": "中高",
-      "duration": "4 天",
+      "name": "大理洱海西岸",
+      "location": "中国 · 云南大理",
+      "season": "春秋最佳",
+      "summary": "慢节奏与风景结合，适合恢复状态型旅行。",
+      "bestFor": "需要降速放松的人",
+      "budget": "中等",
+      "duration": "3 天",
       "tags": [
-        "海边",
+        "自然户外",
+        "轻度疗愈",
+        "慢旅行"
+      ]
+    },
+    {
+      "name": "新加坡滨海湾到甘榜格南",
+      "location": "新加坡",
+      "season": "全年可去",
+      "summary": "现代建筑、夜景与街区生活感在短途中高度兼容。",
+      "bestFor": "第一次去东南亚城市",
+      "budget": "中高",
+      "duration": "3 天",
+      "tags": [
         "城市文化",
-        "夜游"
+        "夜游",
+        "美食"
       ]
     }
   ],
@@ -370,45 +370,6 @@ window.TRAVEL_DATA = {
   ],
   "playModes": [
     {
-      "title": "自然景区 + 沉浸展演",
-      "destination": "新加坡 / 北海道 / 温哥华",
-      "pace": "层次感强",
-      "summary": "白天自然线，夜间沉浸体验线，形成节奏反差。",
-      "route": "户外主线 -> 晚间沉浸展 -> 夜间散步",
-      "bestFor": "亲子、情侣、轻探险用户",
-      "moods": [
-        "自然户外",
-        "沉浸体验",
-        "亲子友好"
-      ]
-    },
-    {
-      "title": "夜游城市副本",
-      "destination": "新加坡 / 香港 / 东京",
-      "pace": "高记忆点",
-      "summary": "白天轻量主线，夜晚作为体验高光时段。",
-      "route": "观景点 -> 夜间展演 -> 夜宵散步",
-      "bestFor": "朋友组队、情侣快闪",
-      "moods": [
-        "夜游",
-        "朋友组队",
-        "城市娱乐"
-      ]
-    },
-    {
-      "title": "目的地酒店玩法",
-      "destination": "拉斯维加斯 / 海滨度假区",
-      "pace": "轻决策高舒适",
-      "summary": "把酒店升级为行程主角，外出只补少量重点点位。",
-      "route": "入住体验型酒店 -> 在地停留 -> 1-2 个外出点",
-      "bestFor": "短假、庆祝型出游",
-      "moods": [
-        "目的地酒店",
-        "情侣约会",
-        "周末快闪"
-      ]
-    },
-    {
       "title": "市场寻味路线",
       "destination": "台北 / 曼谷 / 里斯本",
       "pace": "轻松具体",
@@ -435,6 +396,32 @@ window.TRAVEL_DATA = {
       ]
     },
     {
+      "title": "夜游城市副本",
+      "destination": "新加坡 / 香港 / 东京",
+      "pace": "高记忆点",
+      "summary": "白天轻量主线，夜晚作为体验高光时段。",
+      "route": "观景点 -> 夜间展演 -> 夜宵散步",
+      "bestFor": "朋友组队、情侣快闪",
+      "moods": [
+        "夜游",
+        "朋友组队",
+        "城市娱乐"
+      ]
+    },
+    {
+      "title": "自然景区 + 沉浸展演",
+      "destination": "新加坡 / 北海道 / 温哥华",
+      "pace": "层次感强",
+      "summary": "白天自然线，夜间沉浸体验线，形成节奏反差。",
+      "route": "户外主线 -> 晚间沉浸展 -> 夜间散步",
+      "bestFor": "亲子、情侣、轻探险用户",
+      "moods": [
+        "自然户外",
+        "沉浸体验",
+        "亲子友好"
+      ]
+    },
+    {
       "title": "晨型人能量路线",
       "destination": "京都 / 大理 / 清迈",
       "pace": "松弛恢复型",
@@ -446,20 +433,33 @@ window.TRAVEL_DATA = {
         "一个人出走",
         "自然户外"
       ]
+    },
+    {
+      "title": "目的地酒店玩法",
+      "destination": "拉斯维加斯 / 海滨度假区",
+      "pace": "轻决策高舒适",
+      "summary": "把酒店升级为行程主角，外出只补少量重点点位。",
+      "route": "入住体验型酒店 -> 在地停留 -> 1-2 个外出点",
+      "bestFor": "短假、庆祝型出游",
+      "moods": [
+        "目的地酒店",
+        "情侣约会",
+        "周末快闪"
+      ]
     }
   ],
   "trendSignals": [
     {
-      "name": "Shelf Discovery",
-      "summary": "市场与超市型体验成为城市旅行新入口。"
+      "name": "Made-for-me Travel",
+      "summary": "旅行越来越强调个性表达与生活方式契合。"
     },
     {
       "name": "Glowmads",
       "summary": "Wellness 与放松体验正在被当作独立出游理由。"
     },
     {
-      "name": "Made-for-me Travel",
-      "summary": "旅行越来越强调个性表达与生活方式契合。"
+      "name": "Shelf Discovery",
+      "summary": "市场与超市型体验成为城市旅行新入口。"
     },
     {
       "name": "Destination Check-in",
