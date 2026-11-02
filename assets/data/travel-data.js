@@ -2,7 +2,7 @@ window.TRAVEL_DATA = {
   "site": {
     "name": "去玩实验室",
     "description": "每周更新的旅行玩乐情报站",
-    "lastUpdated": "2026-10-26",
+    "lastUpdated": "2026-11-02",
     "refreshCadence": "每周自动刷新一次",
     "metrics": [
       {
@@ -66,17 +66,17 @@ window.TRAVEL_DATA = {
       "bucket": "recent-culture"
     },
     {
-      "id": "antiques-ai-and-a-planetarium-the-new-attraction-coming-to-the-golan-the-jerusalem-post",
-      "title": "Antiques, AI, and a planetarium: The new attraction coming to the Golan - The Jerusalem Post",
+      "id": "at-this-ultra-private-new-hotel-in-florence-you-can-live-like-a-modern-medici-vogue",
+      "title": "At This Ultra-Private New Hotel in Florence, You Can Live Like a Modern Medici - Vogue",
       "location": "全球",
-      "freshness": "近期上新",
-      "summary": "Antiques, AI, and a planetarium: The new attraction coming to the Golan &nbsp;&nbsp; The Jerusalem Post",
+      "freshness": "刚更新",
+      "summary": "At This Ultra-Private New Hotel in Florence, You Can Live Like a Modern Medici &nbsp;&nbsp; Vogue",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "新体验",
-      "sourceName": "The Jerusalem Post",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iRDQwWFR3TW1NeXI0bjFJU3F5UWU1WDdKeHFOQkt2WHNfWlU1SjJueFhOLVgtTW1jZ0dXZ1FSaElXNVVzd05iWHRUTlk2bmdYRFB5Y2pn?oc=5",
-      "publishedAt": "2026-09-22",
-      "bucket": "recent-launch"
+      "tags": "酒店上新",
+      "sourceName": "Vogue",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9UdjBuYzBqVEUyYW9LNF9EaG1rYVkyRUFyQVZQQzl5YW53R2ZmYnFtYjVhWTFyZUNYdDB4UEtnc2Fjb2dvRWlpQ25tSGJfSTl3V25tdW1VZGtxMVdmNkxidVRHR0lsSHVmQWFlVEpLdw?oc=5",
+      "publishedAt": "2026-10-30",
+      "bucket": "recent-stay"
     },
     {
       "id": "can-banks-become-the-new-hotel-tastemakers-capital-one-travel-thinks-so-skift",
@@ -92,16 +92,16 @@ window.TRAVEL_DATA = {
       "bucket": "recent-stay"
     },
     {
-      "id": "faena-new-york-named-best-new-hotel-by-virtuoso-travel-network-hotelsmag-com",
-      "title": "Faena New York named best new hotel by Virtuoso travel network - HOTELSMag.com",
-      "location": "美国",
-      "freshness": "近月动态",
-      "summary": "Faena New York named best new hotel by Virtuoso travel network &nbsp;&nbsp; HOTELSMag.com",
+      "id": "club-med-s-new-resort-grand-openings-top-hotel-news-from-october-travelpulse",
+      "title": "Club Med's New Resort, Grand Openings & Top Hotel News From October - TravelPulse",
+      "location": "全球",
+      "freshness": "刚更新",
+      "summary": "Club Med's New Resort, Grand Openings & Top Hotel News From October &nbsp;&nbsp; TravelPulse",
       "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
       "tags": "酒店上新",
-      "sourceName": "HOTELSMag.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSkp0aXlmb014Y1BGRngzcFVMRGZNRHNtZ002WXZMalBDb0ZMUnNRUkNHT0ZodGFJTlZLR0gzUGNKSzc4bllqT2hiaWVaUEJPYlVwLUNoeW9BRXhJa0FaT0xxLW90WHJxV0VJVGx6VTYxWmcxeGhheVprZ0ZsektnOFZYWDQ2MXVBdjBGaXhSSHl0aGFK?oc=5",
-      "publishedAt": "2026-08-20",
+      "sourceName": "TravelPulse",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSGhrS2o4Z3g1ZkVBOFFtRWpNdUNfR2JCdXk1Q1pOd2dZMFk2TzcxSzFqbXdoUVdSM3ZBai1XS0RWLW1WU3c3enFoMmlubTN0YUtSaDllSU1NVjFUSzhteG5xZ1JYV1dHLUNrLTZhNVlWRnBLb3Z6Z0ZOUXlGdDBHN0g4T2pfZnlHMlN3SVIwQlE0enJHbkkxajNNSHVNNHUtNmwyZXZBNGFwaEFBRzBmeTdBM3NzZw?oc=5",
+      "publishedAt": "2026-10-30",
       "bucket": "recent-stay"
     },
     {
@@ -232,31 +232,31 @@ window.TRAVEL_DATA = {
   ],
   "classicPicks": [
     {
-      "name": "巴塞罗那旧城与海边线",
-      "location": "西班牙 · 巴塞罗那",
-      "season": "春夏最佳",
-      "summary": "建筑、海风和夜生活同时在线。",
-      "bestFor": "情侣或第一次欧洲城市度假",
-      "budget": "中高",
-      "duration": "4 天",
+      "name": "京都岚山与嵯峨野",
+      "location": "日本 · 京都",
+      "season": "春秋最佳",
+      "summary": "清晨竹林、河岸与老街的慢节奏体验非常完整。",
+      "bestFor": "第一次去京都但不想赶景点",
+      "budget": "中等",
+      "duration": "2-3 天",
       "tags": [
-        "海边",
         "城市文化",
-        "夜游"
+        "散步型",
+        "轻度疗愈"
       ]
     },
     {
-      "name": "清迈古城与山边咖啡路线",
-      "location": "泰国 · 清迈",
-      "season": "11 月到次年 2 月",
-      "summary": "寺庙、手作、咖啡与自然景串联轻松。",
-      "bestFor": "独自旅行或疗愈型出游",
+      "name": "香港西贡海岸线",
+      "location": "中国香港 · 西贡",
+      "season": "秋冬舒适",
+      "summary": "海岸、村落与咖啡店组合适合周末快闪。",
+      "bestFor": "想短途换气但不想准备复杂",
       "budget": "中等偏低",
-      "duration": "3 天",
+      "duration": "1-2 天",
       "tags": [
-        "手作",
-        "轻度疗愈",
-        "慢旅行"
+        "海边",
+        "周末快闪",
+        "自然户外"
       ]
     },
     {
@@ -274,17 +274,17 @@ window.TRAVEL_DATA = {
       ]
     },
     {
-      "name": "新加坡滨海湾到甘榜格南",
-      "location": "新加坡",
-      "season": "全年可去",
-      "summary": "现代建筑、夜景与街区生活感在短途中高度兼容。",
-      "bestFor": "第一次去东南亚城市",
-      "budget": "中高",
+      "name": "清迈古城与山边咖啡路线",
+      "location": "泰国 · 清迈",
+      "season": "11 月到次年 2 月",
+      "summary": "寺庙、手作、咖啡与自然景串联轻松。",
+      "bestFor": "独自旅行或疗愈型出游",
+      "budget": "中等偏低",
       "duration": "3 天",
       "tags": [
-        "城市文化",
-        "夜游",
-        "美食"
+        "手作",
+        "轻度疗愈",
+        "慢旅行"
       ]
     }
   ],
@@ -370,42 +370,16 @@ window.TRAVEL_DATA = {
   ],
   "playModes": [
     {
-      "title": "市场寻味路线",
-      "destination": "台北 / 曼谷 / 里斯本",
-      "pace": "轻松具体",
-      "summary": "从市场和超市进入城市味觉地图，而不只打卡餐厅。",
-      "route": "早市 -> 食品店 -> 体验课 -> 晚餐",
-      "bestFor": "把吃当主线的用户",
+      "title": "晨型人能量路线",
+      "destination": "京都 / 大理 / 清迈",
+      "pace": "松弛恢复型",
+      "summary": "把最好的时段前置在早晨，回避人潮提升舒适度。",
+      "route": "晨间出发 -> 空景时段 -> 午后休整",
+      "bestFor": "怕拥挤、想慢一点",
       "moods": [
-        "美食",
-        "城市文化",
-        "慢旅行"
-      ]
-    },
-    {
-      "title": "观赛或演出带着走",
-      "destination": "大阪 / 新加坡 / 纽约",
-      "pace": "高情绪价值",
-      "summary": "以赛事或演出为锚点，周边行程轻量串联。",
-      "route": "进场前街区 -> 赛事演出 -> 散场夜宵",
-      "bestFor": "兴趣事件驱动型用户",
-      "moods": [
-        "朋友组队",
-        "城市娱乐",
-        "周末快闪"
-      ]
-    },
-    {
-      "title": "夜游城市副本",
-      "destination": "新加坡 / 香港 / 东京",
-      "pace": "高记忆点",
-      "summary": "白天轻量主线，夜晚作为体验高光时段。",
-      "route": "观景点 -> 夜间展演 -> 夜宵散步",
-      "bestFor": "朋友组队、情侣快闪",
-      "moods": [
-        "夜游",
-        "朋友组队",
-        "城市娱乐"
+        "轻度疗愈",
+        "一个人出走",
+        "自然户外"
       ]
     },
     {
@@ -422,16 +396,42 @@ window.TRAVEL_DATA = {
       ]
     },
     {
-      "title": "晨型人能量路线",
-      "destination": "京都 / 大理 / 清迈",
-      "pace": "松弛恢复型",
-      "summary": "把最好的时段前置在早晨，回避人潮提升舒适度。",
-      "route": "晨间出发 -> 空景时段 -> 午后休整",
-      "bestFor": "怕拥挤、想慢一点",
+      "title": "观赛或演出带着走",
+      "destination": "大阪 / 新加坡 / 纽约",
+      "pace": "高情绪价值",
+      "summary": "以赛事或演出为锚点，周边行程轻量串联。",
+      "route": "进场前街区 -> 赛事演出 -> 散场夜宵",
+      "bestFor": "兴趣事件驱动型用户",
       "moods": [
-        "轻度疗愈",
-        "一个人出走",
-        "自然户外"
+        "朋友组队",
+        "城市娱乐",
+        "周末快闪"
+      ]
+    },
+    {
+      "title": "市场寻味路线",
+      "destination": "台北 / 曼谷 / 里斯本",
+      "pace": "轻松具体",
+      "summary": "从市场和超市进入城市味觉地图，而不只打卡餐厅。",
+      "route": "早市 -> 食品店 -> 体验课 -> 晚餐",
+      "bestFor": "把吃当主线的用户",
+      "moods": [
+        "美食",
+        "城市文化",
+        "慢旅行"
+      ]
+    },
+    {
+      "title": "夜游城市副本",
+      "destination": "新加坡 / 香港 / 东京",
+      "pace": "高记忆点",
+      "summary": "白天轻量主线，夜晚作为体验高光时段。",
+      "route": "观景点 -> 夜间展演 -> 夜宵散步",
+      "bestFor": "朋友组队、情侣快闪",
+      "moods": [
+        "夜游",
+        "朋友组队",
+        "城市娱乐"
       ]
     },
     {
@@ -454,12 +454,12 @@ window.TRAVEL_DATA = {
       "summary": "旅行越来越强调个性表达与生活方式契合。"
     },
     {
-      "name": "Glowmads",
-      "summary": "Wellness 与放松体验正在被当作独立出游理由。"
-    },
-    {
       "name": "Shelf Discovery",
       "summary": "市场与超市型体验成为城市旅行新入口。"
+    },
+    {
+      "name": "Glowmads",
+      "summary": "Wellness 与放松体验正在被当作独立出游理由。"
     },
     {
       "name": "Destination Check-in",
