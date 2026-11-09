@@ -2,7 +2,7 @@ window.TRAVEL_DATA = {
   "site": {
     "name": "去玩实验室",
     "description": "每周更新的旅行玩乐情报站",
-    "lastUpdated": "2026-11-02",
+    "lastUpdated": "2026-11-09",
     "refreshCadence": "每周自动刷新一次",
     "metrics": [
       {
@@ -20,19 +20,6 @@ window.TRAVEL_DATA = {
     ]
   },
   "recentLaunches": [
-    {
-      "id": "76-rooms-including-2-villas-the-new-hotel-set-to-open-on-israel-s-most-beautiful-beach-the-jerusalem-post",
-      "title": "76 rooms, including 2 villas: The new hotel set to open on Israel’s most beautiful beach - The Jerusalem Post",
-      "location": "全球",
-      "freshness": "近期上新",
-      "summary": "76 rooms, including 2 villas: The new hotel set to open on Israel’s most beautiful beach &nbsp;&nbsp; The Jeru",
-      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "酒店上新",
-      "sourceName": "The Jerusalem Post",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VcmF4eDNaTnZCcUgyYUx5WTd1eVFIS1BOcHI2VEVHa1ZWSldmRi0wOEtHZ3VXaVcwZ2hOYjA1WkxUYTZTbm9uNmxuNEJZTFZ0MjZCZ3d3?oc=5",
-      "publishedAt": "2026-09-22",
-      "bucket": "recent-stay"
-    },
     {
       "id": "a-new-museum-and-virtual-tour-gives-visitors-a-new-way-to-experience-the-northwoods-wpr",
       "title": "A new museum and virtual tour gives visitors a new way to experience the Northwoods - WPR",
@@ -64,6 +51,19 @@ window.TRAVEL_DATA = {
       "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZjFXVThEOWhkMDQxTDFGSDR5ak9RT0xCUE5nd0doUHM1WlNrOWNDc0l5OExuUUdncFdmbjJrTm1jRlVneVVvZlB4MEp1bVR2ZUFxSzNMWU5vX3R5aDJ1WjU1akpCWTh5czVUMEFfalAzNWhZNHN2SldCU1o0X2dzLUVNU1ZobExh?oc=5",
       "publishedAt": "2026-07-13",
       "bucket": "recent-culture"
+    },
+    {
+      "id": "antiques-ai-and-a-planetarium-the-new-attraction-coming-to-the-golan-the-jerusalem-post",
+      "title": "Antiques, AI, and a planetarium: The new attraction coming to the Golan - The Jerusalem Post",
+      "location": "全球",
+      "freshness": "近月动态",
+      "summary": "Antiques, AI, and a planetarium: The new attraction coming to the Golan &nbsp;&nbsp; The Jerusalem Post",
+      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
+      "tags": "新体验",
+      "sourceName": "The Jerusalem Post",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iRDQwWFR3TW1NeXI0bjFJU3F5UWU1WDdKeHFOQkt2WHNfWlU1SjJueFhOLVgtTW1jZ0dXZ1FSaElXNVVzd05iWHRUTlk2bmdYRFB5Y2pn?oc=5",
+      "publishedAt": "2026-09-22",
+      "bucket": "recent-launch"
     },
     {
       "id": "at-this-ultra-private-new-hotel-in-florence-you-can-live-like-a-modern-medici-vogue",
@@ -118,19 +118,6 @@ window.TRAVEL_DATA = {
       "bucket": "recent-culture"
     },
     {
-      "id": "inside-oberon-the-new-museum-s-first-ever-restaurant-by-oma-wallpaper",
-      "title": "Inside Oberon, the New Museum's first-ever restaurant by OMA - Wallpaper*",
-      "location": "全球",
-      "freshness": "近月动态",
-      "summary": "Inside Oberon, the New Museum's first-ever restaurant by OMA &nbsp;&nbsp; Wallpaper*",
-      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
-      "tags": "城市文化",
-      "sourceName": "Wallpaper*",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44RFVzektMWGt3UDBrbExRM0hRTV81Vl9YV2lpUEZ0U21SempRY21aX1lrV0gyZ2xmNmo0aS03ZVpiYlBhU0JZNEs4Znl5QmlBZmg0MmxCczJZdjg1eFd3aGs1Q0NQMTJsRkJ6NWxJR1ZZNDlDbk1WUTREUThGUQ?oc=5",
-      "publishedAt": "2026-07-07",
-      "bucket": "recent-culture"
-    },
-    {
       "id": "new-attraction-brings-visitors-revenue-back-to-mud-island-the-business-journals",
       "title": "New attraction brings visitors, revenue back to Mud Island - The Business Journals",
       "location": "全球",
@@ -142,6 +129,19 @@ window.TRAVEL_DATA = {
       "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX0hlRVAxXzJ4N1FMUUdaS0ZZaEhCcDdBclF4cWtQUVpGQ2Z2QThhcmpCLWNyODVjTkxFcHdRSkxYbEpBZ0FiWkNIVEw4dkRFY0hiNnBhcGt1YTRNSktVS25fSE9XWkFzX1hSTkQ2eDc5dlFVcWNWX3pmaWNfU0lFRVhqTkhWM2JFZ28wQlNFVWJjQU5zRlVDd2RCSW04ZnAzYnhnQXp6ZkQ?oc=5",
       "publishedAt": "2026-07-15",
       "bucket": "recent-launch"
+    },
+    {
+      "id": "new-museum-announces-artists-theme-for-2027-triennial-artforum",
+      "title": "New Museum Announces Artists, Theme for 2027 Triennial - Artforum",
+      "location": "全球",
+      "freshness": "近期上新",
+      "summary": "New Museum Announces Artists, Theme for 2027 Triennial &nbsp;&nbsp; Artforum",
+      "whyItMatters": "来自公开资讯源的近期动态，适合作为下一次出游或持续关注的备选灵感。",
+      "tags": "城市文化",
+      "sourceName": "Artforum",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVkwtaUQzRlZsS0UzNmc3WFhMam5zNnBORkkweUc5dWdXbjNuRFF0NG12QlFVTWpfWlhGaGNwNG5zRThkckdDSk5GNDNTSm9VVkJLMGxjdTFEY05vRHBkLXVCQnZiczh1aHZ5eWR3UHotbEFuZWE3eUxjQURZZEhXQnV5R2o1Z1dZZTRxenJkTTQtUkE?oc=5",
+      "publishedAt": "2026-10-06",
+      "bucket": "recent-culture"
     }
   ],
   "classicLibrary": [
@@ -232,20 +232,6 @@ window.TRAVEL_DATA = {
   ],
   "classicPicks": [
     {
-      "name": "京都岚山与嵯峨野",
-      "location": "日本 · 京都",
-      "season": "春秋最佳",
-      "summary": "清晨竹林、河岸与老街的慢节奏体验非常完整。",
-      "bestFor": "第一次去京都但不想赶景点",
-      "budget": "中等",
-      "duration": "2-3 天",
-      "tags": [
-        "城市文化",
-        "散步型",
-        "轻度疗愈"
-      ]
-    },
-    {
       "name": "香港西贡海岸线",
       "location": "中国香港 · 西贡",
       "season": "秋冬舒适",
@@ -260,20 +246,6 @@ window.TRAVEL_DATA = {
       ]
     },
     {
-      "name": "大理洱海西岸",
-      "location": "中国 · 云南大理",
-      "season": "春秋最佳",
-      "summary": "慢节奏与风景结合，适合恢复状态型旅行。",
-      "bestFor": "需要降速放松的人",
-      "budget": "中等",
-      "duration": "3 天",
-      "tags": [
-        "自然户外",
-        "轻度疗愈",
-        "慢旅行"
-      ]
-    },
-    {
       "name": "清迈古城与山边咖啡路线",
       "location": "泰国 · 清迈",
       "season": "11 月到次年 2 月",
@@ -283,6 +255,34 @@ window.TRAVEL_DATA = {
       "duration": "3 天",
       "tags": [
         "手作",
+        "轻度疗愈",
+        "慢旅行"
+      ]
+    },
+    {
+      "name": "巴塞罗那旧城与海边线",
+      "location": "西班牙 · 巴塞罗那",
+      "season": "春夏最佳",
+      "summary": "建筑、海风和夜生活同时在线。",
+      "bestFor": "情侣或第一次欧洲城市度假",
+      "budget": "中高",
+      "duration": "4 天",
+      "tags": [
+        "海边",
+        "城市文化",
+        "夜游"
+      ]
+    },
+    {
+      "name": "大理洱海西岸",
+      "location": "中国 · 云南大理",
+      "season": "春秋最佳",
+      "summary": "慢节奏与风景结合，适合恢复状态型旅行。",
+      "bestFor": "需要降速放松的人",
+      "budget": "中等",
+      "duration": "3 天",
+      "tags": [
+        "自然户外",
         "轻度疗愈",
         "慢旅行"
       ]
@@ -370,32 +370,6 @@ window.TRAVEL_DATA = {
   ],
   "playModes": [
     {
-      "title": "晨型人能量路线",
-      "destination": "京都 / 大理 / 清迈",
-      "pace": "松弛恢复型",
-      "summary": "把最好的时段前置在早晨，回避人潮提升舒适度。",
-      "route": "晨间出发 -> 空景时段 -> 午后休整",
-      "bestFor": "怕拥挤、想慢一点",
-      "moods": [
-        "轻度疗愈",
-        "一个人出走",
-        "自然户外"
-      ]
-    },
-    {
-      "title": "自然景区 + 沉浸展演",
-      "destination": "新加坡 / 北海道 / 温哥华",
-      "pace": "层次感强",
-      "summary": "白天自然线，夜间沉浸体验线，形成节奏反差。",
-      "route": "户外主线 -> 晚间沉浸展 -> 夜间散步",
-      "bestFor": "亲子、情侣、轻探险用户",
-      "moods": [
-        "自然户外",
-        "沉浸体验",
-        "亲子友好"
-      ]
-    },
-    {
       "title": "观赛或演出带着走",
       "destination": "大阪 / 新加坡 / 纽约",
       "pace": "高情绪价值",
@@ -422,19 +396,6 @@ window.TRAVEL_DATA = {
       ]
     },
     {
-      "title": "夜游城市副本",
-      "destination": "新加坡 / 香港 / 东京",
-      "pace": "高记忆点",
-      "summary": "白天轻量主线，夜晚作为体验高光时段。",
-      "route": "观景点 -> 夜间展演 -> 夜宵散步",
-      "bestFor": "朋友组队、情侣快闪",
-      "moods": [
-        "夜游",
-        "朋友组队",
-        "城市娱乐"
-      ]
-    },
-    {
       "title": "目的地酒店玩法",
       "destination": "拉斯维加斯 / 海滨度假区",
       "pace": "轻决策高舒适",
@@ -446,12 +407,51 @@ window.TRAVEL_DATA = {
         "情侣约会",
         "周末快闪"
       ]
+    },
+    {
+      "title": "晨型人能量路线",
+      "destination": "京都 / 大理 / 清迈",
+      "pace": "松弛恢复型",
+      "summary": "把最好的时段前置在早晨，回避人潮提升舒适度。",
+      "route": "晨间出发 -> 空景时段 -> 午后休整",
+      "bestFor": "怕拥挤、想慢一点",
+      "moods": [
+        "轻度疗愈",
+        "一个人出走",
+        "自然户外"
+      ]
+    },
+    {
+      "title": "自然景区 + 沉浸展演",
+      "destination": "新加坡 / 北海道 / 温哥华",
+      "pace": "层次感强",
+      "summary": "白天自然线，夜间沉浸体验线，形成节奏反差。",
+      "route": "户外主线 -> 晚间沉浸展 -> 夜间散步",
+      "bestFor": "亲子、情侣、轻探险用户",
+      "moods": [
+        "自然户外",
+        "沉浸体验",
+        "亲子友好"
+      ]
+    },
+    {
+      "title": "夜游城市副本",
+      "destination": "新加坡 / 香港 / 东京",
+      "pace": "高记忆点",
+      "summary": "白天轻量主线，夜晚作为体验高光时段。",
+      "route": "观景点 -> 夜间展演 -> 夜宵散步",
+      "bestFor": "朋友组队、情侣快闪",
+      "moods": [
+        "夜游",
+        "朋友组队",
+        "城市娱乐"
+      ]
     }
   ],
   "trendSignals": [
     {
-      "name": "Made-for-me Travel",
-      "summary": "旅行越来越强调个性表达与生活方式契合。"
+      "name": "Destination Check-in",
+      "summary": "住宿空间本身成为旅行内容的一部分。"
     },
     {
       "name": "Shelf Discovery",
@@ -462,8 +462,8 @@ window.TRAVEL_DATA = {
       "summary": "Wellness 与放松体验正在被当作独立出游理由。"
     },
     {
-      "name": "Destination Check-in",
-      "summary": "住宿空间本身成为旅行内容的一部分。"
+      "name": "Made-for-me Travel",
+      "summary": "旅行越来越强调个性表达与生活方式契合。"
     }
   ],
   "sources": [
